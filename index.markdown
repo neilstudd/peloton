@@ -5,8 +5,6 @@
 layout: default
 ---
 
-TODO: REWORK THIS TEXT
-
 {% capture peloton_mileage %}
 {{ site.data.peloton.totalDistanceCycled }}
 {% endcapture %}
@@ -19,18 +17,9 @@ TODO: REWORK THIS TEXT
 {{ site.data.peloton.workoutTotals.Overall }}
 {% endcapture %}
 
-If you've found this page, congratulations! Either you've diligently read through every last paragraph on the [About page](/about), or you've been browsing our source code on GitHub; I wonder what other treats are hidden away on there?
+Here you can find all of my vital Peloton statistics - currently updated nightly.
 
-One of the downsides of Peloton is that they don't have the concept of a "public profile" to show-off your stats; it's one of the ways that they get you to buy into their ecosystem. ("Want to see stats? Sign up then!")
-
-So, I built a stack to game the system a bit:
-* I created a webpage (not this one) which, when loaded, connects to my Peloton account, downloads a huge CSV of all my workouts, extracts key information (including, for instance, calculating all of my personal bests) and outputs the result in a chunk of JSON.
-* I created a GitHub action (well, I utilised [this one](https://github.com/TheLastProject/keep-remote-file-locally-up-to-date-action)) to connect to my page, read the JSON, and detect if it's different to the last version that it saw. If there are differences, it saves the JSON into a static file in my GitHub repo.
-* When serving this site (and specifically rendering this page), Jekyll reads the data out of the static file. (GitHub Pages forbids the use of random gems, otherwise I could've just used [this one](https://github.com/brockfanning/jekyll-get-json) and bypassed the need for a static file.)
-
-With all that in mind, below are all of the latest statistics - currently updated nightly.
-
-## Neil's Peloton statistics
+## Statistics for DustLined
 
 Neil has taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=peloton_mileage %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
 
@@ -93,3 +82,12 @@ Total Output: <strong>{% include format-thousand-separators.html number=peloton_
 </details>
 </div><br/>
 {% endfor %}
+
+## The science part
+
+One of the downsides of Peloton is that they don't have the concept of a "public profile" to show-off your stats; it's one of the ways that they get you to buy into their ecosystem. ("Want to see stats? Sign up then!")
+
+So, I built a stack to game the system a bit:
+* I created a webpage (not this one) which, when loaded, connects to my Peloton account, downloads a huge CSV of all my workouts, extracts key information (including, for instance, calculating all of my personal bests) and outputs the result in a chunk of JSON.
+* I created a GitHub action (well, I utilised [this one](https://github.com/TheLastProject/keep-remote-file-locally-up-to-date-action)) to connect to my page, read the JSON, and detect if it's different to the last version that it saw. If there are differences, it saves the JSON into a static file in my GitHub repo.
+* When serving this site (and specifically rendering this page), Jekyll reads the data out of the static file. (GitHub Pages forbids the use of random gems, otherwise I could've just used [this one](https://github.com/brockfanning/jekyll-get-json) and bypassed the need for a static file.)
