@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.highlight { background-color: #396; color: #000; font-weight: bold; border: 2px solid #063; }
+
+details summary {
+    display:list-item;
+  }

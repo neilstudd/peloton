@@ -1,0 +1,18 @@
+name: Trigger daily deployment
+
+on:
+  schedule:
+    - cron:  '0 5 * * *' # Runs every morning (5am in GMT, 6am BST)
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GitHub pages rebuild
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          # A personal token with repo access
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
