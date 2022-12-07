@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-04 14:56 (UTC)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-        "Ride Name": "20 min Holiday Party Ride",
-        "Total Output": "271",
-        "Length": "20",
+        "Timestamp": "2022-12-06 16:57 (UTC)",
+        "Instructor": "Cody Rigsby",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/50b3d98e87f446f3b2e6dfde4d87b42d",
+        "Ride Name": "30 min LOL Cody: Holiday Edition",
+        "Total Output": "436",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1189,
-        "Cycling": 829,
-        "Meditation": 265,
-        "Walking": 45,
+        "Overall": 1196,
+        "Cycling": 832,
+        "Meditation": 267,
+        "Walking": 47,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -22,13 +22,13 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 237,
-        "Ross Rayburn": 131,
+        "Ross Rayburn": 132,
         "Bradley Rose": 67,
-        "Leanne Hainsby": 66,
+        "Leanne Hainsby": 67,
         "Ben Alldis": 63,
-        "Kristin McGee": 52,
+        "Kristin McGee": 53,
         "Matt Wilpers": 49,
-        "Cody Rigsby": 38,
+        "Cody Rigsby": 39,
         "Robin Arzon": 37,
         "Emma Lovewell": 36,
         "Denis Morton": 35,
@@ -47,8 +47,8 @@
         "Rebecca Kennedy": 11,
         "Selena Samuela": 11,
         "Kirra Michel": 10,
-        "Hannah Frankson": 6,
-        "Jon Hosking": 6,
+        "Hannah Frankson": 7,
+        "Jon Hosking": 7,
         "Joslyn Thompson Rule": 5,
         "Matty Maggiacomo": 4,
         "Andy Speer": 3,
@@ -71,18 +71,19 @@
         "Mariana Fernandez": 1,
         "Mayla Wedekind": 1,
         "Multiple Instructors ": 1,
-        "Nico Sarani": 1
+        "Nico Sarani": 1,
+        "Olivia & Tunde ": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 229,
             "Bradley Rose": 67,
-            "Leanne Hainsby": 66,
+            "Leanne Hainsby": 67,
             "Ben Alldis": 61,
             "Matt Wilpers": 47,
             "Emma Lovewell": 35,
+            "Cody Rigsby": 33,
             "Hannah Corbin": 33,
-            "Cody Rigsby": 32,
             "Denis Morton": 32,
             "Robin Arzon": 32,
             "Christine D'Ercole": 30,
@@ -93,7 +94,7 @@
             "Jess King": 15,
             "Olivia Amato": 15,
             "Kendall Toole": 8,
-            "Hannah Frankson": 6,
+            "Hannah Frankson": 7,
             "Camila Ramon": 3,
             "Cliff Dwenger": 2,
             "Alex & Tunde  ": 1,
@@ -119,16 +120,17 @@
             "Selena Samuela": 5,
             "Joslyn Thompson Rule": 4,
             "Andy Speer": 3,
+            "Jon Hosking": 3,
             "Matty Maggiacomo": 3,
             "Robin Arzon": 3,
-            "Jon Hosking": 2,
             "Kirsten Ferguson": 2,
             "Olivia Amato": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
             "Becs Gentry": 1,
             "Chase Tucker": 1,
-            "Jess Sims": 1
+            "Jess Sims": 1,
+            "Olivia & Tunde ": 1
         },
         "Strength": {
             "Sam Yo": 2,
@@ -140,8 +142,8 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 131,
-            "Kristin McGee": 52,
+            "Ross Rayburn": 132,
+            "Kristin McGee": 53,
             "Aditi Shah": 31,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 14,
@@ -1332,5 +1334,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4852.02"
+    "totalDistanceCycled": "4868.29"
 }
