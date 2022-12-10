@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-06 16:57 (UTC)",
-        "Instructor": "Cody Rigsby",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/50b3d98e87f446f3b2e6dfde4d87b42d",
-        "Ride Name": "30 min LOL Cody: Holiday Edition",
-        "Total Output": "436",
+        "Timestamp": "2022-12-09 19:00 (GMT)",
+        "Instructor": "Bradley Rose",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+        "Ride Name": "30 min 2010s Pop Ride",
+        "Total Output": "325",
         "Length": "30",
-        "Live Ride": false
+        "Live Ride": true
     },
     "workoutTotals": {
-        "Overall": 1200,
-        "Cycling": 832,
+        "Overall": 1203,
+        "Cycling": 834,
         "Meditation": 269,
-        "Walking": 49,
+        "Walking": 50,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -23,8 +23,8 @@
     "totalsByInstructor": {
         "Sam Yo": 237,
         "Ross Rayburn": 134,
-        "Bradley Rose": 67,
-        "Leanne Hainsby": 67,
+        "Bradley Rose": 68,
+        "Leanne Hainsby": 68,
         "Ben Alldis": 63,
         "Kristin McGee": 53,
         "Matt Wilpers": 49,
@@ -79,8 +79,8 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 229,
-            "Bradley Rose": 67,
-            "Leanne Hainsby": 67,
+            "Bradley Rose": 68,
+            "Leanne Hainsby": 68,
             "Ben Alldis": 61,
             "Matt Wilpers": 47,
             "Emma Lovewell": 35,
@@ -1338,5 +1338,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4868.29"
+    "totalDistanceCycled": "4888.66"
 }
