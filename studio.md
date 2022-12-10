@@ -6,7 +6,11 @@ All of the classes that I've taken at Peloton Studios London, plus photos!
 * [9/12/22 833rd - Leanne Hainsby 30min Disco](https://members.onepeloton.co.uk/classes/cycling?modal=classDetailsModal&classId=2b7c4e0e9be740c88511fb4643d4288f)
 * [9/12/22 834th - Bradley Rose 2010s Pop](https://members.onepeloton.co.uk/classes/cycling?modal=classDetailsModal&classId=b74455381d5f481b98e95d690b04eaba)
 
+<!---
+Thumbnails generated from http://makethumbnails.com/
+Make sure you untick background colour or it'll pad it with blackness
+-->
 
 |  24/06/22 | 09/12/22 | 09/12/22 |
 | :-----: | :-----: | :-----: |
-| [![](/assets/img/sam240622.jpg)](/peloton/assets/img/sam240622.jpg) | [![](/assets/img/leanne091222.jpg)](/peloton/assets/img/leanne091222.jpg) | [![](/assets/img/bradley091222.jpg)](/peloton/assets/img/bradley091222.jpg) |
+| [![](/assets/img/sam240622_tn.jpg)](/peloton/assets/img/sam240622.jpg) | [![](/assets/img/leanne091222_tn.jpg)](/peloton/assets/img/leanne091222.jpg) | [![](/assets/img/bradley091222_tn.jpg)](/peloton/assets/img/bradley091222.jpg) |
