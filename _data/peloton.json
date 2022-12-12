@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-09 19:00 (GMT)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-        "Ride Name": "30 min 2010s Pop Ride",
-        "Total Output": "325",
-        "Length": "30",
-        "Live Ride": true
+        "Timestamp": "2022-12-11 12:01 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4aa24c3fba07458f8084df128df4f979",
+        "Ride Name": "15 min 2000s Ride",
+        "Total Output": "208",
+        "Length": "15",
+        "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1205,
-        "Cycling": 834,
-        "Meditation": 271,
-        "Walking": 50,
+        "Overall": 1212,
+        "Cycling": 839,
+        "Meditation": 272,
+        "Walking": 51,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -22,10 +22,10 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 237,
-        "Ross Rayburn": 136,
-        "Bradley Rose": 68,
-        "Leanne Hainsby": 68,
-        "Ben Alldis": 63,
+        "Ross Rayburn": 137,
+        "Leanne Hainsby": 70,
+        "Bradley Rose": 69,
+        "Ben Alldis": 65,
         "Kristin McGee": 53,
         "Matt Wilpers": 49,
         "Cody Rigsby": 39,
@@ -74,14 +74,15 @@
         "Mayla Wedekind": 1,
         "Multiple Instructors ": 1,
         "Nico Sarani": 1,
-        "Olivia & Tunde ": 1
+        "Olivia & Tunde ": 1,
+        "Rebecca & Tunde ": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 229,
-            "Bradley Rose": 68,
-            "Leanne Hainsby": 68,
-            "Ben Alldis": 61,
+            "Leanne Hainsby": 70,
+            "Bradley Rose": 69,
+            "Ben Alldis": 63,
             "Matt Wilpers": 47,
             "Emma Lovewell": 35,
             "Cody Rigsby": 33,
@@ -134,7 +135,8 @@
             "Chase Tucker": 1,
             "Jess Sims": 1,
             "Matt & Tunde ": 1,
-            "Olivia & Tunde ": 1
+            "Olivia & Tunde ": 1,
+            "Rebecca & Tunde ": 1
         },
         "Strength": {
             "Sam Yo": 2,
@@ -146,7 +148,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 136,
+            "Ross Rayburn": 137,
             "Kristin McGee": 53,
             "Aditi Shah": 31,
             "Anna Greenberg": 19,
@@ -1338,5 +1340,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4888.66"
+    "totalDistanceCycled": "4910.90"
 }
