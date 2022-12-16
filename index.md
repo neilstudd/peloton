@@ -83,6 +83,10 @@ Total Output: <strong>{% include format-thousand-separators.html number=peloton_
 </div><br/>
 {% endfor %}
 
+## Years Gone By
+
+Check out my previous years' [Peloton Cooldown summary videos](/peloton/cooldown)!
+
 ## The science part
 
 One of the downsides of Peloton is that they don't have the concept of a "public profile" to show-off your stats; it's one of the ways that they get you to buy into their ecosystem. ("Want to see stats? Sign up then!")
