@@ -10,10 +10,10 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1217,
+        "Overall": 1220,
         "Cycling": 839,
-        "Meditation": 275,
-        "Walking": 53,
+        "Meditation": 276,
+        "Walking": 55,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -22,7 +22,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 237,
-        "Ross Rayburn": 139,
+        "Ross Rayburn": 140,
         "Leanne Hainsby": 70,
         "Bradley Rose": 69,
         "Ben Alldis": 65,
@@ -44,8 +44,8 @@
         "Jess King": 15,
         "Chelsea Jackson Roberts": 14,
         "Kendall Toole": 14,
+        "Selena Samuela": 12,
         "Rebecca Kennedy": 11,
-        "Selena Samuela": 11,
         "Kirra Michel": 10,
         "Hannah Frankson": 7,
         "Jon Hosking": 7,
@@ -69,6 +69,7 @@
         "Erik Jager": 1,
         "Irene Scholz": 1,
         "Jess & Robin ": 1,
+        "Kirsten & Tunde ": 1,
         "Marcel & Tunde ": 1,
         "Mariana Fernandez": 1,
         "Matt & Tunde ": 1,
@@ -122,7 +123,7 @@
         },
         "Walking": {
             "Rebecca Kennedy": 8,
-            "Selena Samuela": 5,
+            "Selena Samuela": 6,
             "Joslyn Thompson Rule": 4,
             "Andy Speer": 3,
             "Jon Hosking": 3,
@@ -136,6 +137,7 @@
             "Becs Gentry": 1,
             "Chase Tucker": 1,
             "Jess Sims": 1,
+            "Kirsten & Tunde ": 1,
             "Marcel & Tunde ": 1,
             "Matt & Tunde ": 1,
             "Matty & Tunde ": 1,
@@ -152,7 +154,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 139,
+            "Ross Rayburn": 140,
             "Kristin McGee": 53,
             "Aditi Shah": 32,
             "Anna Greenberg": 19,
