@@ -10,10 +10,10 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1220,
+        "Overall": 1222,
         "Cycling": 839,
         "Meditation": 276,
-        "Walking": 55,
+        "Walking": 57,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -69,6 +69,7 @@
         "Erik Jager": 1,
         "Irene Scholz": 1,
         "Jess & Robin ": 1,
+        "Jess & Tunde ": 1,
         "Kirsten & Tunde ": 1,
         "Marcel & Tunde ": 1,
         "Mariana Fernandez": 1,
@@ -78,7 +79,8 @@
         "Multiple Instructors ": 1,
         "Nico Sarani": 1,
         "Olivia & Tunde ": 1,
-        "Rebecca & Tunde ": 1
+        "Rebecca & Tunde ": 1,
+        "Selena & Tunde ": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
@@ -136,13 +138,15 @@
             "Becs & Tunde ": 1,
             "Becs Gentry": 1,
             "Chase Tucker": 1,
+            "Jess & Tunde ": 1,
             "Jess Sims": 1,
             "Kirsten & Tunde ": 1,
             "Marcel & Tunde ": 1,
             "Matt & Tunde ": 1,
             "Matty & Tunde ": 1,
             "Olivia & Tunde ": 1,
-            "Rebecca & Tunde ": 1
+            "Rebecca & Tunde ": 1,
+            "Selena & Tunde ": 1
         },
         "Strength": {
             "Sam Yo": 2,
