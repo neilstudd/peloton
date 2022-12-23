@@ -10,10 +10,10 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1232,
+        "Overall": 1234,
         "Cycling": 843,
-        "Meditation": 282,
-        "Walking": 57,
+        "Meditation": 283,
+        "Walking": 58,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -26,7 +26,7 @@
         "Bradley Rose": 73,
         "Leanne Hainsby": 70,
         "Ben Alldis": 65,
-        "Kristin McGee": 53,
+        "Kristin McGee": 54,
         "Matt Wilpers": 49,
         "Cody Rigsby": 39,
         "Robin Arzon": 37,
@@ -159,7 +159,7 @@
         },
         "Meditation": {
             "Ross Rayburn": 146,
-            "Kristin McGee": 53,
+            "Kristin McGee": 54,
             "Aditi Shah": 32,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 14,
