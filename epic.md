@@ -18,4 +18,5 @@ Some of the very best, most memorable Peloton rides!
 * [30min Leanne - Ed Sheeran ride](https://members.onepeloton.com/classes/cycling?c=cycling&q=ed%20sheeran%20ride&t=0&modal=classDetailsModal&classId=0f344954fd4b4ffa9dfd2acc7900dfad)
 * [30min Ben - 007 ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=333d8893b0c54ee48fe062823d2ae48e)
 * [30min Robin - Hamilton ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=352d01c49d484f6cb1ff2b9e31bc356d)
-* [30min Sam - 90s Pop Ride](https://members.onepeloton.co.uk/classes/cycling?modal=classDetailsModal&classId=5bbff7c4baed45eaa7d6addeb7a5a196&utm_source=android&utm_medium=in_app)
+* [30min Sam - 90s Pop Ride](https://members.onepeloton.co.uk/classes/cycling?modal=classDetailsModal&classId=5bbff7c4baed45eaa7d6addeb7a5a196)
+* [45min Charlotte - Linkin Park ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0c168716f3b443968eb39503fa4d9c57)

@@ -1,3 +1,5 @@
+[![Sync Peloton data](https://github.com/neilstudd/peloton/actions/workflows/peloton.yml/badge.svg)](https://github.com/neilstudd/peloton/actions/workflows/peloton.yml) [![Trigger daily deployment](https://github.com/neilstudd/peloton/actions/workflows/daily-deploy.yml/badge.svg)](https://github.com/neilstudd/peloton/actions/workflows/daily-deploy.yml)
+
 ### Notes to self
 
 Config currently coded to the [Cayman](https://github.com/pages-themes/cayman) theme, with minor CSS tweaks in `style.scss`
