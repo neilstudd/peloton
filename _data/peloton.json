@@ -3,7 +3,7 @@
     "latestRide": {
         "Timestamp": "2022-12-24 11:35 (UTC)",
         "Instructor": "Ally Love",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/85182219e21c43b39aa1251dd8f12adb",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/85182219e21c43b39aa1251dd8f12adb",
         "Ride Name": "30 min Whitney Houston Ride",
         "Total Output": "436",
         "Length": "30",
@@ -194,7 +194,7 @@
         "5": {
             "Timestamp": "2022-10-18 13:03 (+01)",
             "Instructor": "Jess King",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
             "Ride Name": "5 min Warm Up Ride",
             "Total Output": "114",
             "Length": "5",
@@ -203,7 +203,7 @@
                 {
                     "Timestamp": "2021-09-13 10:08 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "5 min Cool Down Ride",
                     "Total Output": "35",
                     "Length": "5",
@@ -212,7 +212,7 @@
                 {
                     "Timestamp": "2021-09-14 13:58 (+01)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "5 min Spice Girls Cool Down Ride",
                     "Total Output": "50",
                     "Length": "5",
@@ -221,7 +221,7 @@
                 {
                     "Timestamp": "2021-09-17 15:33 (+01)",
                     "Instructor": "Emma Lovewell",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/07cd6ac5d85e4ad5972c1a084c34a69e",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/07cd6ac5d85e4ad5972c1a084c34a69e",
                     "Ride Name": "5 min Cool Down Ride",
                     "Total Output": "51",
                     "Length": "5",
@@ -230,7 +230,7 @@
                 {
                     "Timestamp": "2021-09-21 11:56 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "5 min AFO Warm Up Ride: Imagine Dragons",
                     "Total Output": "57",
                     "Length": "5",
@@ -239,7 +239,7 @@
                 {
                     "Timestamp": "2021-10-06 07:57 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "5 min Cool Down Ride",
                     "Total Output": "61",
                     "Length": "5",
@@ -248,7 +248,7 @@
                 {
                     "Timestamp": "2021-10-07 10:18 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "64",
                     "Length": "5",
@@ -257,7 +257,7 @@
                 {
                     "Timestamp": "2021-10-10 13:51 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "65",
                     "Length": "5",
@@ -266,7 +266,7 @@
                 {
                     "Timestamp": "2021-10-21 13:19 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "68",
                     "Length": "5",
@@ -275,7 +275,7 @@
                 {
                     "Timestamp": "2021-10-31 16:02 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "70",
                     "Length": "5",
@@ -284,7 +284,7 @@
                 {
                     "Timestamp": "2021-11-23 11:02 (UTC)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "72",
                     "Length": "5",
@@ -293,7 +293,7 @@
                 {
                     "Timestamp": "2022-01-03 10:15 (UTC)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "87",
                     "Length": "5",
@@ -302,7 +302,7 @@
                 {
                     "Timestamp": "2022-05-07 15:40 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "90",
                     "Length": "5",
@@ -311,7 +311,7 @@
                 {
                     "Timestamp": "2022-06-14 15:47 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "108",
                     "Length": "5",
@@ -320,7 +320,7 @@
                 {
                     "Timestamp": "2022-08-11 16:24 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "112",
                     "Length": "5",
@@ -329,7 +329,7 @@
                 {
                     "Timestamp": "2022-10-18 13:03 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "114",
                     "Length": "5",
@@ -340,7 +340,7 @@
         "10": {
             "Timestamp": "2022-11-14 17:20 (UTC)",
             "Instructor": "Ben Alldis",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
             "Ride Name": "Extra 10: Climb Ride",
             "Total Output": "216",
             "Length": "10",
@@ -349,7 +349,7 @@
                 {
                     "Timestamp": "2021-09-11 20:35 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "102",
                     "Length": "10",
@@ -367,7 +367,7 @@
                 {
                     "Timestamp": "2021-09-26 11:20 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Low Impact Ride",
                     "Total Output": "105",
                     "Length": "10",
@@ -376,7 +376,7 @@
                 {
                     "Timestamp": "2021-10-22 11:34 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Low Impact Ride",
                     "Total Output": "107",
                     "Length": "10",
@@ -385,7 +385,7 @@
                 {
                     "Timestamp": "2021-10-22 12:02 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "150",
                     "Length": "10",
@@ -394,7 +394,7 @@
                 {
                     "Timestamp": "2021-10-25 21:45 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "156",
                     "Length": "10",
@@ -412,7 +412,7 @@
                 {
                     "Timestamp": "2022-01-11 08:26 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "180",
                     "Length": "10",
@@ -421,7 +421,7 @@
                 {
                     "Timestamp": "2022-01-28 15:50 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "182",
                     "Length": "10",
@@ -430,7 +430,7 @@
                 {
                     "Timestamp": "2022-02-12 21:42 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "201",
                     "Length": "10",
@@ -439,7 +439,7 @@
                 {
                     "Timestamp": "2022-04-06 17:18 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "202",
                     "Length": "10",
@@ -448,7 +448,7 @@
                 {
                     "Timestamp": "2022-05-13 13:16 (+01)",
                     "Instructor": "Jenn Sherman",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/590db673e820451c92dadb1f7841fd84",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/590db673e820451c92dadb1f7841fd84",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "203",
                     "Length": "10",
@@ -457,7 +457,7 @@
                 {
                     "Timestamp": "2022-08-08 12:01 (+01)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "208",
                     "Length": "10",
@@ -466,7 +466,7 @@
                 {
                     "Timestamp": "2022-08-15 11:40 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "210",
                     "Length": "10",
@@ -475,7 +475,7 @@
                 {
                     "Timestamp": "2022-08-31 17:00 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "212",
                     "Length": "10",
@@ -484,7 +484,7 @@
                 {
                     "Timestamp": "2022-11-14 17:20 (UTC)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "Extra 10: Climb Ride",
                     "Total Output": "216",
                     "Length": "10",
@@ -495,7 +495,7 @@
         "15": {
             "Timestamp": "2022-09-06 11:47 (+01)",
             "Instructor": "Bradley Rose",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
             "Ride Name": "15 min Climb Ride",
             "Total Output": "300",
             "Length": "15",
@@ -504,7 +504,7 @@
                 {
                     "Timestamp": "2021-09-10 14:09 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min HIIT Ride",
                     "Total Output": "136",
                     "Length": "15",
@@ -513,7 +513,7 @@
                 {
                     "Timestamp": "2021-09-13 21:26 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min Pop Ride",
                     "Total Output": "172",
                     "Length": "15",
@@ -522,7 +522,7 @@
                 {
                     "Timestamp": "2021-09-21 20:50 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "15 min Pop Ride",
                     "Total Output": "181",
                     "Length": "15",
@@ -531,7 +531,7 @@
                 {
                     "Timestamp": "2021-10-12 10:05 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min HIIT Ride",
                     "Total Output": "190",
                     "Length": "15",
@@ -540,7 +540,7 @@
                 {
                     "Timestamp": "2021-10-22 11:46 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min HIIT Ride",
                     "Total Output": "193",
                     "Length": "15",
@@ -549,7 +549,7 @@
                 {
                     "Timestamp": "2021-10-25 21:12 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "15 min Pop Ride",
                     "Total Output": "201",
                     "Length": "15",
@@ -558,7 +558,7 @@
                 {
                     "Timestamp": "2021-10-25 21:29 (+01)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "15 min Pop Ride",
                     "Total Output": "209",
                     "Length": "15",
@@ -567,7 +567,7 @@
                 {
                     "Timestamp": "2021-12-30 10:51 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min Stacking Stuffer: Climb Ride",
                     "Total Output": "244",
                     "Length": "15",
@@ -576,7 +576,7 @@
                 {
                     "Timestamp": "2022-01-18 18:55 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min 2000s Ride",
                     "Total Output": "255",
                     "Length": "15",
@@ -585,7 +585,7 @@
                 {
                     "Timestamp": "2022-01-22 15:53 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min Climb Ride",
                     "Total Output": "282",
                     "Length": "15",
@@ -594,7 +594,7 @@
                 {
                     "Timestamp": "2022-03-26 14:36 (UTC)",
                     "Instructor": "Cody Rigsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b7e2b0d47d714c38ba886ff279204e5f",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b7e2b0d47d714c38ba886ff279204e5f",
                     "Ride Name": "15 min Pop Ride",
                     "Total Output": "284",
                     "Length": "15",
@@ -603,7 +603,7 @@
                 {
                     "Timestamp": "2022-05-14 11:23 (+01)",
                     "Instructor": "Robin Arzon",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
                     "Ride Name": "15 min 80s Ride",
                     "Total Output": "286",
                     "Length": "15",
@@ -612,7 +612,7 @@
                 {
                     "Timestamp": "2022-07-01 15:00 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "15 min 2000s Ride",
                     "Total Output": "288",
                     "Length": "15",
@@ -621,7 +621,7 @@
                 {
                     "Timestamp": "2022-08-10 11:43 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "15 min New Wave Ride",
                     "Total Output": "291",
                     "Length": "15",
@@ -630,7 +630,7 @@
                 {
                     "Timestamp": "2022-08-31 10:56 (+01)",
                     "Instructor": "Hannah Corbin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
                     "Ride Name": "15 min Dance Music Ride",
                     "Total Output": "293",
                     "Length": "15",
@@ -639,7 +639,7 @@
                 {
                     "Timestamp": "2022-09-06 11:47 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "15 min Climb Ride",
                     "Total Output": "300",
                     "Length": "15",
@@ -650,7 +650,7 @@
         "20": {
             "Timestamp": "2022-09-18 11:40 (+01)",
             "Instructor": "Bradley Rose",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
             "Ride Name": "20 min Pop Punk Ride",
             "Total Output": "380",
             "Length": "20",
@@ -659,7 +659,7 @@
                 {
                     "Timestamp": "2021-09-08 12:31 (+01)",
                     "Instructor": "Tunde Oyeneyin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
                     "Ride Name": "20 min Beginner Ride",
                     "Total Output": "118",
                     "Length": "20",
@@ -668,7 +668,7 @@
                 {
                     "Timestamp": "2021-09-09 07:31 (+01)",
                     "Instructor": "Hannah Frankson",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/3f3b59c78faa42d78c66aa826486e91c",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/3f3b59c78faa42d78c66aa826486e91c",
                     "Ride Name": "20 min 2000s Ride",
                     "Total Output": "196",
                     "Length": "20",
@@ -677,7 +677,7 @@
                 {
                     "Timestamp": "2021-09-10 14:30 (+01)",
                     "Instructor": "Tunde Oyeneyin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
                     "Ride Name": "20 min 2000s Hip Hop Ride",
                     "Total Output": "201",
                     "Length": "20",
@@ -686,7 +686,7 @@
                 {
                     "Timestamp": "2021-09-11 10:17 (+01)",
                     "Instructor": "Tunde Oyeneyin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
                     "Ride Name": "20 min 2000s Ride",
                     "Total Output": "205",
                     "Length": "20",
@@ -695,7 +695,7 @@
                 {
                     "Timestamp": "2021-09-13 09:45 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 90s Ride",
                     "Total Output": "211",
                     "Length": "20",
@@ -704,7 +704,7 @@
                 {
                     "Timestamp": "2021-09-16 08:01 (+01)",
                     "Instructor": "Denis Morton",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
                     "Ride Name": "20 min FTP Test Ride",
                     "Total Output": "214",
                     "Length": "20",
@@ -713,7 +713,7 @@
                 {
                     "Timestamp": "2021-09-17 14:15 (+01)",
                     "Instructor": "Robin Arzon",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
                     "Ride Name": "20 min 90s Ride",
                     "Total Output": "253",
                     "Length": "20",
@@ -722,7 +722,7 @@
                 {
                     "Timestamp": "2021-09-20 22:10 (+01)",
                     "Instructor": "Kendall Toole",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6146a86a57b0436a925ee6471476f801",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6146a86a57b0436a925ee6471476f801",
                     "Ride Name": "20 min 90s Pop Ride",
                     "Total Output": "254",
                     "Length": "20",
@@ -731,7 +731,7 @@
                 {
                     "Timestamp": "2021-09-25 12:58 (+01)",
                     "Instructor": "Olivia Amato",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
                     "Ride Name": "20 min Rock Ride",
                     "Total Output": "261",
                     "Length": "20",
@@ -740,7 +740,7 @@
                 {
                     "Timestamp": "2021-10-19 10:12 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "20 min FTP Test Ride",
                     "Total Output": "308",
                     "Length": "20",
@@ -749,7 +749,7 @@
                 {
                     "Timestamp": "2021-11-06 12:19 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 2010s Ride",
                     "Total Output": "316",
                     "Length": "20",
@@ -758,7 +758,7 @@
                 {
                     "Timestamp": "2021-11-16 14:52 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 90s Ride",
                     "Total Output": "322",
                     "Length": "20",
@@ -767,7 +767,7 @@
                 {
                     "Timestamp": "2021-11-26 12:21 (UTC)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "20 min FTP Test Ride",
                     "Total Output": "340",
                     "Length": "20",
@@ -776,7 +776,7 @@
                 {
                     "Timestamp": "2021-11-29 15:55 (UTC)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "20 min 90s Pop Ride",
                     "Total Output": "350",
                     "Length": "20",
@@ -785,7 +785,7 @@
                 {
                     "Timestamp": "2021-12-03 16:50 (UTC)",
                     "Instructor": "Robin Arzon",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
                     "Ride Name": "20 min 90s Ride",
                     "Total Output": "351",
                     "Length": "20",
@@ -794,7 +794,7 @@
                 {
                     "Timestamp": "2022-01-03 10:22 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 80s Ride",
                     "Total Output": "352",
                     "Length": "20",
@@ -803,7 +803,7 @@
                 {
                     "Timestamp": "2022-01-17 17:23 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 70s Ride",
                     "Total Output": "354",
                     "Length": "20",
@@ -812,7 +812,7 @@
                 {
                     "Timestamp": "2022-01-18 18:30 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min Tabata Ride",
                     "Total Output": "357",
                     "Length": "20",
@@ -821,7 +821,7 @@
                 {
                     "Timestamp": "2022-02-10 16:13 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min Climb Ride",
                     "Total Output": "370",
                     "Length": "20",
@@ -830,7 +830,7 @@
                 {
                     "Timestamp": "2022-03-01 13:36 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "20 min 2000s Ride",
                     "Total Output": "372",
                     "Length": "20",
@@ -839,7 +839,7 @@
                 {
                     "Timestamp": "2022-03-07 17:24 (UTC)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "20 min 2000s Rock Ride",
                     "Total Output": "375",
                     "Length": "20",
@@ -848,7 +848,7 @@
                 {
                     "Timestamp": "2022-03-20 09:27 (UTC)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "20 min Pop Ride",
                     "Total Output": "378",
                     "Length": "20",
@@ -857,7 +857,7 @@
                 {
                     "Timestamp": "2022-09-18 11:40 (+01)",
                     "Instructor": "Bradley Rose",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "20 min Pop Punk Ride",
                     "Total Output": "380",
                     "Length": "20",
@@ -868,7 +868,7 @@
         "30": {
             "Timestamp": "2022-08-21 12:00 (+01)",
             "Instructor": "Sam Yo",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
             "Ride Name": "30 min AFO Ride: Muse",
             "Total Output": "567",
             "Length": "30",
@@ -877,7 +877,7 @@
                 {
                     "Timestamp": "2021-09-07 17:39 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 90s Pop Ride",
                     "Total Output": "289",
                     "Length": "30",
@@ -886,7 +886,7 @@
                 {
                     "Timestamp": "2021-09-10 07:46 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min Bon Jovi Ride",
                     "Total Output": "291",
                     "Length": "30",
@@ -895,7 +895,7 @@
                 {
                     "Timestamp": "2021-09-12 16:34 (+01)",
                     "Instructor": "Robin Arzon",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
                     "Ride Name": "30 min Hamilton Ride",
                     "Total Output": "317",
                     "Length": "30",
@@ -904,7 +904,7 @@
                 {
                     "Timestamp": "2021-09-14 13:27 (+01)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "30 min Spice Girls Ride",
                     "Total Output": "324",
                     "Length": "30",
@@ -913,7 +913,7 @@
                 {
                     "Timestamp": "2021-09-14 19:00 (+01)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "30 min Ed Sheeran Ride",
                     "Total Output": "400",
                     "Length": "30",
@@ -922,7 +922,7 @@
                 {
                     "Timestamp": "2021-09-27 09:51 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 90s Rock Ride",
                     "Total Output": "402",
                     "Length": "30",
@@ -931,7 +931,7 @@
                 {
                     "Timestamp": "2021-09-28 06:30 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 2010s Ride",
                     "Total Output": "405",
                     "Length": "30",
@@ -940,7 +940,7 @@
                 {
                     "Timestamp": "2021-10-03 08:17 (+01)",
                     "Instructor": "Kendall Toole",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6146a86a57b0436a925ee6471476f801",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6146a86a57b0436a925ee6471476f801",
                     "Ride Name": "30 min 2000s Ride",
                     "Total Output": "408",
                     "Length": "30",
@@ -949,7 +949,7 @@
                 {
                     "Timestamp": "2021-10-05 20:45 (+01)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "30 min 007 Ride",
                     "Total Output": "412",
                     "Length": "30",
@@ -958,7 +958,7 @@
                 {
                     "Timestamp": "2021-10-13 08:00 (+01)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "30 min 2000s Rock Ride",
                     "Total Output": "415",
                     "Length": "30",
@@ -967,7 +967,7 @@
                 {
                     "Timestamp": "2021-10-14 12:38 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min Disney on Broadway Ride",
                     "Total Output": "416",
                     "Length": "30",
@@ -976,7 +976,7 @@
                 {
                     "Timestamp": "2021-10-20 13:26 (+01)",
                     "Instructor": "Cody Rigsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b7e2b0d47d714c38ba886ff279204e5f",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b7e2b0d47d714c38ba886ff279204e5f",
                     "Ride Name": "30 min Pop Ride: Live from LA",
                     "Total Output": "417",
                     "Length": "30",
@@ -985,7 +985,7 @@
                 {
                     "Timestamp": "2021-10-21 14:00 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 80s Ride",
                     "Total Output": "460",
                     "Length": "30",
@@ -994,7 +994,7 @@
                 {
                     "Timestamp": "2021-10-26 06:30 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min HIIT & Hills Ride",
                     "Total Output": "464",
                     "Length": "30",
@@ -1003,7 +1003,7 @@
                 {
                     "Timestamp": "2021-10-31 16:10 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min Halloween Ride",
                     "Total Output": "466",
                     "Length": "30",
@@ -1012,7 +1012,7 @@
                 {
                     "Timestamp": "2021-11-17 08:14 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 90s Pop Ride",
                     "Total Output": "479",
                     "Length": "30",
@@ -1021,7 +1021,7 @@
                 {
                     "Timestamp": "2021-11-20 17:00 (UTC)",
                     "Instructor": "Tunde Oyeneyin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/d13ced311d4347598a7009edd6197649",
                     "Ride Name": "30 min Pop Ride",
                     "Total Output": "509",
                     "Length": "30",
@@ -1030,7 +1030,7 @@
                 {
                     "Timestamp": "2022-01-09 10:30 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min Pop Ride",
                     "Total Output": "544",
                     "Length": "30",
@@ -1039,7 +1039,7 @@
                 {
                     "Timestamp": "2022-01-23 10:30 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 90s Rock Ride",
                     "Total Output": "547",
                     "Length": "30",
@@ -1048,7 +1048,7 @@
                 {
                     "Timestamp": "2022-01-25 18:30 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 2010s Pop Ride",
                     "Total Output": "550",
                     "Length": "30",
@@ -1057,7 +1057,7 @@
                 {
                     "Timestamp": "2022-02-01 18:30 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min Lunar New Year Ride",
                     "Total Output": "553",
                     "Length": "30",
@@ -1066,7 +1066,7 @@
                 {
                     "Timestamp": "2022-07-08 17:30 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min 80s Rock Ride",
                     "Total Output": "554",
                     "Length": "30",
@@ -1075,7 +1075,7 @@
                 {
                     "Timestamp": "2022-08-21 12:00 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "30 min AFO Ride: Muse",
                     "Total Output": "567",
                     "Length": "30",
@@ -1086,7 +1086,7 @@
         "45": {
             "Timestamp": "2022-12-23 11:33 (UTC)",
             "Instructor": "Charlotte Weidenbach",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/12cdc3693ea5453aa00ee58812caa07d",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/12cdc3693ea5453aa00ee58812caa07d",
             "Ride Name": "45 min Linkin Park Ride",
             "Total Output": "746",
             "Length": "45",
@@ -1095,7 +1095,7 @@
                 {
                     "Timestamp": "2021-09-09 13:00 (+01)",
                     "Instructor": "Hannah Corbin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
                     "Ride Name": "45 min Low Impact Ride",
                     "Total Output": "381",
                     "Length": "45",
@@ -1104,7 +1104,7 @@
                 {
                     "Timestamp": "2021-09-16 11:00 (+01)",
                     "Instructor": "Hannah Corbin",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/748d6003af3e4258aafb678eec827f80",
                     "Ride Name": "45 min 90s Rock Ride",
                     "Total Output": "455",
                     "Length": "45",
@@ -1113,7 +1113,7 @@
                 {
                     "Timestamp": "2021-09-19 19:30 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "45 min Intervals & Arms Ride",
                     "Total Output": "465",
                     "Length": "45",
@@ -1122,7 +1122,7 @@
                 {
                     "Timestamp": "2021-10-14 13:11 (+01)",
                     "Instructor": "Denis Morton",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
                     "Ride Name": "45 min Classic Rock Ride",
                     "Total Output": "500",
                     "Length": "45",
@@ -1131,7 +1131,7 @@
                 {
                     "Timestamp": "2021-10-25 11:16 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "45 min Power Zone Endurance Ride",
                     "Total Output": "505",
                     "Length": "45",
@@ -1140,7 +1140,7 @@
                 {
                     "Timestamp": "2021-10-27 10:14 (+01)",
                     "Instructor": "Olivia Amato",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
                     "Ride Name": "45 min Power Zone Endurance Ride",
                     "Total Output": "506",
                     "Length": "45",
@@ -1149,7 +1149,7 @@
                 {
                     "Timestamp": "2021-11-01 21:02 (UTC)",
                     "Instructor": "Denis Morton",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
                     "Ride Name": "45 min Power Zone Ride",
                     "Total Output": "545",
                     "Length": "45",
@@ -1158,7 +1158,7 @@
                 {
                     "Timestamp": "2021-11-03 12:34 (UTC)",
                     "Instructor": "Ben Alldis",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
                     "Ride Name": "45 min Power Zone Endurance Ride",
                     "Total Output": "552",
                     "Length": "45",
@@ -1167,7 +1167,7 @@
                 {
                     "Timestamp": "2021-11-07 17:04 (UTC)",
                     "Instructor": "Jess King",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/648d465edcae4c399f7c60fb14225bbe",
                     "Ride Name": "45 min MusicFest Ride",
                     "Total Output": "680",
                     "Length": "45",
@@ -1176,7 +1176,7 @@
                 {
                     "Timestamp": "2021-12-01 09:01 (UTC)",
                     "Instructor": "Denis Morton",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/bd0f52a6f6b141c497a3c0c40b4c9697",
                     "Ride Name": "45 min The Beatles Ride Vol. 2",
                     "Total Output": "701",
                     "Length": "45",
@@ -1185,7 +1185,7 @@
                 {
                     "Timestamp": "2022-02-04 16:16 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "45 min HIIT & Hills Ride",
                     "Total Output": "731",
                     "Length": "45",
@@ -1194,7 +1194,7 @@
                 {
                     "Timestamp": "2022-03-02 15:50 (UTC)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "45 min HIIT & Hills Ride",
                     "Total Output": "733",
                     "Length": "45",
@@ -1203,7 +1203,7 @@
                 {
                     "Timestamp": "2022-05-15 10:30 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "45 min Low Impact Ride",
                     "Total Output": "736",
                     "Length": "45",
@@ -1212,7 +1212,7 @@
                 {
                     "Timestamp": "2022-06-28 09:16 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "45 min 80s Ride",
                     "Total Output": "745",
                     "Length": "45",
@@ -1221,7 +1221,7 @@
                 {
                     "Timestamp": "2022-12-23 11:33 (UTC)",
                     "Instructor": "Charlotte Weidenbach",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/12cdc3693ea5453aa00ee58812caa07d",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/12cdc3693ea5453aa00ee58812caa07d",
                     "Ride Name": "45 min Linkin Park Ride",
                     "Total Output": "746",
                     "Length": "45",
@@ -1241,7 +1241,7 @@
                 {
                     "Timestamp": "2021-09-11 20:49 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "60 min Rock Ride",
                     "Total Output": "506",
                     "Length": "60",
@@ -1250,7 +1250,7 @@
                 {
                     "Timestamp": "2021-10-11 15:55 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "60 min Power Zone Endurance Ride",
                     "Total Output": "534",
                     "Length": "60",
@@ -1259,7 +1259,7 @@
                 {
                     "Timestamp": "2021-10-17 09:34 (+01)",
                     "Instructor": "Sam Yo",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
                     "Ride Name": "60 min Rock Ride",
                     "Total Output": "754",
                     "Length": "60",
@@ -1268,7 +1268,7 @@
                 {
                     "Timestamp": "2021-11-05 14:00 (UTC)",
                     "Instructor": "Olivia Amato",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/99e7c78745c64d209d7c63d7ad52269b",
                     "Ride Name": "60 min Power Zone Endurance Ride",
                     "Total Output": "818",
                     "Length": "60",
@@ -1277,7 +1277,7 @@
                 {
                     "Timestamp": "2022-04-13 12:41 (+01)",
                     "Instructor": "Leanne Hainsby",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
                     "Ride Name": "60 min Pop Ride",
                     "Total Output": "861",
                     "Length": "60",
@@ -1297,7 +1297,7 @@
         "75": {
             "Timestamp": "2022-10-23 15:59 (+01)",
             "Instructor": "Matt Wilpers",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
             "Ride Name": "75 min Power Zone Endurance Ride",
             "Total Output": "1031",
             "Length": "75",
@@ -1306,7 +1306,7 @@
                 {
                     "Timestamp": "2022-03-24 13:35 (UTC)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "75 min Power Zone Endurance Ride",
                     "Total Output": "1024",
                     "Length": "75",
@@ -1315,7 +1315,7 @@
                 {
                     "Timestamp": "2022-10-23 15:59 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "75 min Power Zone Endurance Ride",
                     "Total Output": "1031",
                     "Length": "75",
@@ -1326,7 +1326,7 @@
         "90": {
             "Timestamp": "2022-10-23 08:49 (+01)",
             "Instructor": "Matt Wilpers",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
             "Ride Name": "90 min Power Zone Endurance Ride",
             "Total Output": "1260",
             "Length": "90",
@@ -1335,7 +1335,7 @@
                 {
                     "Timestamp": "2022-04-29 13:39 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "90 min Power Zone Endurance Ride",
                     "Total Output": "1190",
                     "Length": "90",
@@ -1344,7 +1344,7 @@
                 {
                     "Timestamp": "2022-07-29 15:05 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "90 min Power Zone Endurance Ride",
                     "Total Output": "1255",
                     "Length": "90",
@@ -1353,7 +1353,7 @@
                 {
                     "Timestamp": "2022-10-23 08:49 (+01)",
                     "Instructor": "Matt Wilpers",
-                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/ar_1,c_fill,dpr_3.0,f_auto,g_face,h_100,q_auto,r_max,w_100\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/b6a731695161478d98de5d465211e1bd",
                     "Ride Name": "90 min Power Zone Endurance Ride",
                     "Total Output": "1260",
                     "Length": "90",
