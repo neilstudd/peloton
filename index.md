@@ -24,7 +24,7 @@ Here you can find all of my vital Peloton statistics - currently updated nightly
 I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=peloton_mileage %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
-<img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt;"/>
+<img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: right; border-radius: 50%; padding-left: 10pt;"/>
 <h2>Latest Ride</h2>
 {% assign avgPerMin = site.data.peloton.latestRide['Total Output'] | plus: 0.0 | divided_by: site.data.peloton.latestRide.Length | round: 1 %}
 <p><strong>{{ site.data.peloton.latestRide['Ride Name'] }} with {{ site.data.peloton.latestRide.Instructor }}</strong>
@@ -57,9 +57,9 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 {% capture peloton_output %}
 {{ distance[1]['Total Output'] }}
 {% endcapture %}
-
+<br/>
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
-<img src="{{ distance[1].Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt"/>
+<img src="{{ distance[1].Photo }}"  style="float: right; border-radius: 50%; padding-left: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
 <p><strong>{{ distance[1]['Ride Name'] }}{% if distance[1].Instructor != "N/A" %} with {{ distance[1].Instructor }}{% endif %}</strong>
 {% if distance[1]['Live Ride'] %}
@@ -80,7 +80,7 @@ Total Output: <strong>{% include format-thousand-separators.html number=peloton_
 {% endfor %}
 </table>
 </details>
-</div><br/>
+</div>
 {% endfor %}
 
 ## Years Gone By
