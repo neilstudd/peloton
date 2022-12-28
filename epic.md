@@ -11,7 +11,7 @@ Some of the very best, most memorable Peloton rides!
 
 ### Ally Love
 
-* [30min Taylor Swift Midnights ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0b7f05875b414ad1984a3d65a993d0ba)
+* [30min Taylor Swift Midnights ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0574ca1fae1049a8bd2e8cd840d8ea39)
 
 ### Ben Alldis
 
