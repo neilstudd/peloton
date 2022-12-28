@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-24 11:35 (UTC)",
-        "Instructor": "Ally Love",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/85182219e21c43b39aa1251dd8f12adb",
-        "Ride Name": "30 min Whitney Houston Ride",
-        "Total Output": "436",
-        "Length": "30",
+        "Timestamp": "2022-12-27 17:51 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+        "Ride Name": "20 min Pop Punk Ride",
+        "Total Output": "353",
+        "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1248,
-        "Cycling": 849,
+        "Overall": 1252,
+        "Cycling": 852,
         "Meditation": 289,
-        "Walking": 60,
+        "Walking": 61,
         "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
@@ -23,11 +23,11 @@
     "totalsByInstructor": {
         "Sam Yo": 237,
         "Ross Rayburn": 149,
-        "Bradley Rose": 75,
+        "Bradley Rose": 76,
         "Leanne Hainsby": 72,
-        "Ben Alldis": 65,
+        "Ben Alldis": 66,
         "Kristin McGee": 55,
-        "Matt Wilpers": 49,
+        "Matt Wilpers": 50,
         "Cody Rigsby": 39,
         "Robin Arzon": 37,
         "Emma Lovewell": 36,
@@ -73,6 +73,7 @@
         "Jess & Tunde ": 1,
         "Kirsten & Tunde ": 1,
         "Marcel & Tunde ": 1,
+        "Marcel Dinkins": 1,
         "Mariana Fernandez": 1,
         "Matt & Tunde ": 1,
         "Matty & Tunde ": 1,
@@ -86,10 +87,10 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 229,
-            "Bradley Rose": 75,
+            "Bradley Rose": 76,
             "Leanne Hainsby": 72,
-            "Ben Alldis": 63,
-            "Matt Wilpers": 47,
+            "Ben Alldis": 64,
+            "Matt Wilpers": 48,
             "Emma Lovewell": 35,
             "Cody Rigsby": 33,
             "Hannah Corbin": 33,
@@ -144,6 +145,7 @@
             "Jess Sims": 1,
             "Kirsten & Tunde ": 1,
             "Marcel & Tunde ": 1,
+            "Marcel Dinkins": 1,
             "Matt & Tunde ": 1,
             "Matty & Tunde ": 1,
             "Olivia & Tunde ": 1,
@@ -1362,5 +1364,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4965.35"
+    "totalDistanceCycled": "4976.63"
 }
