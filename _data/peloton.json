@@ -10,11 +10,11 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1256,
+        "Overall": 1259,
         "Cycling": 852,
-        "Meditation": 291,
+        "Meditation": 293,
         "Walking": 62,
-        "Running": 18,
+        "Running": 19,
         "Stretching": 14,
         "Cardio": 13,
         "Strength": 4,
@@ -22,7 +22,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 237,
-        "Ross Rayburn": 151,
+        "Ross Rayburn": 152,
         "Bradley Rose": 76,
         "Leanne Hainsby": 72,
         "Ben Alldis": 66,
@@ -32,7 +32,7 @@
         "Robin Arzon": 38,
         "Emma Lovewell": 36,
         "Denis Morton": 35,
-        "Aditi Shah": 33,
+        "Aditi Shah": 34,
         "Hannah Corbin": 33,
         "Christine D'Ercole": 30,
         "Ally Love": 27,
@@ -50,7 +50,7 @@
         "Hannah Frankson": 7,
         "Jon Hosking": 7,
         "Joslyn Thompson Rule": 6,
-        "Matty Maggiacomo": 4,
+        "Matty Maggiacomo": 5,
         "Susie Chan": 4,
         "Andy Speer": 3,
         "Becs Gentry": 3,
@@ -163,9 +163,9 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 151,
+            "Ross Rayburn": 152,
             "Kristin McGee": 55,
-            "Aditi Shah": 33,
+            "Aditi Shah": 34,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 15,
             "Kirra Michel": 10,
@@ -187,8 +187,8 @@
             "Becs Gentry": 2,
             "Jon Hosking": 2,
             "Matt Wilpers": 2,
+            "Matty Maggiacomo": 2,
             "Joslyn Thompson Rule": 1,
-            "Matty Maggiacomo": 1,
             "Selena Samuela": 1
         }
     },
