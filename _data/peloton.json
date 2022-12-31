@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-27 17:51 (UTC)",
-        "Instructor": "Ben Alldis",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
-        "Ride Name": "20 min Pop Punk Ride",
-        "Total Output": "353",
-        "Length": "20",
+        "Timestamp": "2022-12-31 14:28 (UTC)",
+        "Instructor": "Emma Lovewell",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/07cd6ac5d85e4ad5972c1a084c34a69e",
+        "Ride Name": "60 min Pop Ride",
+        "Total Output": "872",
+        "Length": "60",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1259,
-        "Cycling": 852,
+        "Overall": 1261,
+        "Cycling": 854,
         "Meditation": 293,
         "Walking": 62,
         "Running": 19,
@@ -24,13 +24,13 @@
         "Sam Yo": 237,
         "Ross Rayburn": 152,
         "Bradley Rose": 76,
-        "Leanne Hainsby": 72,
+        "Leanne Hainsby": 73,
         "Ben Alldis": 66,
         "Kristin McGee": 55,
         "Matt Wilpers": 50,
         "Cody Rigsby": 39,
         "Robin Arzon": 38,
-        "Emma Lovewell": 36,
+        "Emma Lovewell": 37,
         "Denis Morton": 35,
         "Aditi Shah": 34,
         "Hannah Corbin": 33,
@@ -88,10 +88,10 @@
         "Cycling": {
             "Sam Yo": 229,
             "Bradley Rose": 76,
-            "Leanne Hainsby": 72,
+            "Leanne Hainsby": 73,
             "Ben Alldis": 64,
             "Matt Wilpers": 48,
-            "Emma Lovewell": 35,
+            "Emma Lovewell": 36,
             "Cody Rigsby": 33,
             "Hannah Corbin": 33,
             "Denis Morton": 32,
@@ -1232,11 +1232,11 @@
             ]
         },
         "60": {
-            "Timestamp": "2022-08-05 11:34 (+01)",
-            "Instructor": "N\/A",
-            "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
-            "Ride Name": "60 min Scotland Ardverikie Estate Ride",
-            "Total Output": "865",
+            "Timestamp": "2022-12-31 14:28 (UTC)",
+            "Instructor": "Emma Lovewell",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/07cd6ac5d85e4ad5972c1a084c34a69e",
+            "Ride Name": "60 min Pop Ride",
+            "Total Output": "872",
             "Length": "60",
             "Live Ride": false,
             "progressions": [
@@ -1291,6 +1291,15 @@
                     "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
                     "Ride Name": "60 min Scotland Ardverikie Estate Ride",
                     "Total Output": "865",
+                    "Length": "60",
+                    "Live Ride": false
+                },
+                {
+                    "Timestamp": "2022-12-31 14:28 (UTC)",
+                    "Instructor": "Emma Lovewell",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/07cd6ac5d85e4ad5972c1a084c34a69e",
+                    "Ride Name": "60 min Pop Ride",
+                    "Total Output": "872",
                     "Length": "60",
                     "Live Ride": false
                 }
@@ -1364,5 +1373,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4976.63"
+    "totalDistanceCycled": "5000.81"
 }
