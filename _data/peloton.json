@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-01 15:18 (UTC)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1254d0ec147d4c3a8b410fc51156b4de",
-        "Ride Name": "30 min 90s Pop Ride",
-        "Total Output": "406",
-        "Length": "30",
+        "Timestamp": "2023-01-02 16:44 (UTC)",
+        "Instructor": "Leanne Hainsby",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
+        "Ride Name": "20 min 90s Rock Ride",
+        "Total Output": "272",
+        "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1267,
-        "Cycling": 857,
+        "Overall": 1271,
+        "Cycling": 860,
         "Meditation": 295,
-        "Walking": 62,
+        "Walking": 63,
         "Running": 20,
         "Stretching": 14,
         "Cardio": 13,
@@ -24,13 +24,13 @@
         "Sam Yo": 239,
         "Ross Rayburn": 154,
         "Bradley Rose": 76,
-        "Leanne Hainsby": 73,
+        "Leanne Hainsby": 75,
         "Ben Alldis": 66,
         "Kristin McGee": 55,
         "Matt Wilpers": 51,
         "Cody Rigsby": 39,
+        "Emma Lovewell": 38,
         "Robin Arzon": 38,
-        "Emma Lovewell": 37,
         "Denis Morton": 35,
         "Aditi Shah": 34,
         "Hannah Corbin": 33,
@@ -88,10 +88,10 @@
         "Cycling": {
             "Sam Yo": 231,
             "Bradley Rose": 76,
-            "Leanne Hainsby": 73,
+            "Leanne Hainsby": 75,
             "Ben Alldis": 64,
             "Matt Wilpers": 49,
-            "Emma Lovewell": 36,
+            "Emma Lovewell": 37,
             "Cody Rigsby": 33,
             "Hannah Corbin": 33,
             "Denis Morton": 32,
@@ -1373,5 +1373,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "5019.73"
+    "totalDistanceCycled": "5029.95"
 }
