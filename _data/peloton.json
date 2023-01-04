@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-02 16:44 (UTC)",
-        "Instructor": "Leanne Hainsby",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/2040db9e5f734e5d859f740a9703ac5b",
-        "Ride Name": "20 min 90s Rock Ride",
-        "Total Output": "272",
+        "Timestamp": "2023-01-03 12:56 (UTC)",
+        "Instructor": "Robin Arzon",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
+        "Ride Name": "20 min 90s Ride",
+        "Total Output": "255",
         "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1271,
-        "Cycling": 860,
-        "Meditation": 295,
+        "Overall": 1273,
+        "Cycling": 861,
+        "Meditation": 296,
         "Walking": 63,
         "Running": 20,
         "Stretching": 14,
@@ -26,11 +26,11 @@
         "Bradley Rose": 76,
         "Leanne Hainsby": 75,
         "Ben Alldis": 66,
-        "Kristin McGee": 55,
+        "Kristin McGee": 56,
         "Matt Wilpers": 51,
         "Cody Rigsby": 39,
+        "Robin Arzon": 39,
         "Emma Lovewell": 38,
-        "Robin Arzon": 38,
         "Denis Morton": 35,
         "Aditi Shah": 34,
         "Hannah Corbin": 33,
@@ -94,8 +94,8 @@
             "Emma Lovewell": 37,
             "Cody Rigsby": 33,
             "Hannah Corbin": 33,
+            "Robin Arzon": 33,
             "Denis Morton": 32,
-            "Robin Arzon": 32,
             "Christine D'Ercole": 30,
             "Ally Love": 27,
             "Jenn Sherman": 19,
@@ -164,7 +164,7 @@
         },
         "Meditation": {
             "Ross Rayburn": 154,
-            "Kristin McGee": 55,
+            "Kristin McGee": 56,
             "Aditi Shah": 34,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 15,
@@ -1373,5 +1373,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "5029.95"
+    "totalDistanceCycled": "5037.20"
 }
