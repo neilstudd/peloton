@@ -10,9 +10,9 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1273,
+        "Overall": 1274,
         "Cycling": 861,
-        "Meditation": 296,
+        "Meditation": 297,
         "Walking": 63,
         "Running": 20,
         "Stretching": 14,
@@ -22,7 +22,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 239,
-        "Ross Rayburn": 154,
+        "Ross Rayburn": 155,
         "Bradley Rose": 76,
         "Leanne Hainsby": 75,
         "Ben Alldis": 66,
@@ -163,7 +163,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 154,
+            "Ross Rayburn": 155,
             "Kristin McGee": 56,
             "Aditi Shah": 34,
             "Anna Greenberg": 19,
