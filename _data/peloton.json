@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-03 12:56 (UTC)",
-        "Instructor": "Robin Arzon",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4f14e005ca914ab68b313c3f752b3574",
-        "Ride Name": "20 min 90s Ride",
-        "Total Output": "255",
-        "Length": "20",
+        "Timestamp": "2023-01-05 13:01 (UTC)",
+        "Instructor": "Bradley Rose",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
+        "Ride Name": "30 min 90s Rock Ride",
+        "Total Output": "372",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1274,
-        "Cycling": 861,
-        "Meditation": 297,
+        "Overall": 1278,
+        "Cycling": 864,
+        "Meditation": 298,
         "Walking": 63,
         "Running": 20,
         "Stretching": 14,
@@ -22,10 +22,10 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 239,
-        "Ross Rayburn": 155,
-        "Bradley Rose": 76,
+        "Ross Rayburn": 156,
+        "Bradley Rose": 77,
         "Leanne Hainsby": 75,
-        "Ben Alldis": 66,
+        "Ben Alldis": 68,
         "Kristin McGee": 56,
         "Matt Wilpers": 51,
         "Cody Rigsby": 39,
@@ -87,9 +87,9 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 231,
-            "Bradley Rose": 76,
+            "Bradley Rose": 77,
             "Leanne Hainsby": 75,
-            "Ben Alldis": 64,
+            "Ben Alldis": 66,
             "Matt Wilpers": 49,
             "Emma Lovewell": 37,
             "Cody Rigsby": 33,
@@ -163,7 +163,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 155,
+            "Ross Rayburn": 156,
             "Kristin McGee": 56,
             "Aditi Shah": 34,
             "Anna Greenberg": 19,
@@ -1373,5 +1373,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "5037.20"
+    "totalDistanceCycled": "5052.50"
 }
