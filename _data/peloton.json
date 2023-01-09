@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-05 13:01 (UTC)",
+        "Timestamp": "2023-01-08 12:11 (UTC)",
         "Instructor": "Bradley Rose",
         "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
-        "Ride Name": "30 min 90s Rock Ride",
-        "Total Output": "372",
+        "Ride Name": "30 min 90s Ride",
+        "Total Output": "423",
         "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1280,
-        "Cycling": 864,
-        "Meditation": 299,
+        "Overall": 1282,
+        "Cycling": 865,
+        "Meditation": 300,
         "Walking": 64,
         "Running": 20,
         "Stretching": 14,
@@ -22,8 +22,8 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 239,
-        "Ross Rayburn": 156,
-        "Bradley Rose": 77,
+        "Ross Rayburn": 157,
+        "Bradley Rose": 78,
         "Leanne Hainsby": 75,
         "Ben Alldis": 68,
         "Kristin McGee": 56,
@@ -87,7 +87,7 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 231,
-            "Bradley Rose": 77,
+            "Bradley Rose": 78,
             "Leanne Hainsby": 75,
             "Ben Alldis": 66,
             "Matt Wilpers": 49,
@@ -163,7 +163,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 156,
+            "Ross Rayburn": 157,
             "Kristin McGee": 56,
             "Aditi Shah": 34,
             "Anna Greenberg": 20,
@@ -1373,5 +1373,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "5052.50"
+    "totalDistanceCycled": "5063.74"
 }
