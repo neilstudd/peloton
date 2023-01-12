@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-08 12:11 (UTC)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
-        "Ride Name": "30 min 90s Ride",
-        "Total Output": "423",
-        "Length": "30",
+        "Timestamp": "2023-01-11 13:33 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+        "Ride Name": "20 min 2000s Rock Ride",
+        "Total Output": "274",
+        "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1288,
-        "Cycling": 865,
+        "Overall": 1291,
+        "Cycling": 868,
         "Meditation": 303,
         "Walking": 67,
         "Running": 20,
@@ -25,9 +25,9 @@
         "Ross Rayburn": 159,
         "Bradley Rose": 78,
         "Leanne Hainsby": 75,
-        "Ben Alldis": 68,
+        "Ben Alldis": 70,
         "Kristin McGee": 56,
-        "Matt Wilpers": 51,
+        "Matt Wilpers": 52,
         "Cody Rigsby": 39,
         "Robin Arzon": 39,
         "Emma Lovewell": 38,
@@ -89,8 +89,8 @@
             "Sam Yo": 231,
             "Bradley Rose": 78,
             "Leanne Hainsby": 75,
-            "Ben Alldis": 66,
-            "Matt Wilpers": 49,
+            "Ben Alldis": 68,
+            "Matt Wilpers": 50,
             "Emma Lovewell": 37,
             "Cody Rigsby": 33,
             "Hannah Corbin": 33,
@@ -650,11 +650,11 @@
             ]
         },
         "20": {
-            "Timestamp": "2022-09-18 11:40 (+01)",
-            "Instructor": "Bradley Rose",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
-            "Ride Name": "20 min Pop Punk Ride",
-            "Total Output": "380",
+            "Timestamp": "2023-01-11 13:11 (UTC)",
+            "Instructor": "Ben Alldis",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+            "Ride Name": "20 min HIIT Ride",
+            "Total Output": "382",
             "Length": "20",
             "Live Ride": false,
             "progressions": [
@@ -862,6 +862,15 @@
                     "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/58f56952d9d64b9d99a2bd2f99c5fb53",
                     "Ride Name": "20 min Pop Punk Ride",
                     "Total Output": "380",
+                    "Length": "20",
+                    "Live Ride": false
+                },
+                {
+                    "Timestamp": "2023-01-11 13:11 (UTC)",
+                    "Instructor": "Ben Alldis",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/6ad0758e32d04bc78c25d21fbfb70ee8",
+                    "Ride Name": "20 min HIIT Ride",
+                    "Total Output": "382",
                     "Length": "20",
                     "Live Ride": false
                 }
@@ -1373,5 +1382,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "5063.74"
+    "totalDistanceCycled": "5081.09"
 }
