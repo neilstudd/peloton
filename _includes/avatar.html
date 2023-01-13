@@ -1,0 +1,50 @@
+{% assign instructor =  include.instructor | strip %}
+{% assign img_prefix = "https://res.cloudinary.com/peloton-cycle/image/fetch/dpr_2.0,f_auto,q_auto:best,w_60/https://s3.amazonaws.com/workout-metric-images-prod/" %}
+{% case instructor %}
+    {% when "Alex Toussaint" %}
+        {{ img_prefix | append: "c24c3f79806948af9cd7fc32ba17cf98" }}
+    {% when "Ally Love" %}
+        {{ img_prefix | append: "85182219e21c43b39aa1251dd8f12adb" }}
+    {% when "Ben Alldis" %}
+        {{ img_prefix | append: "6ad0758e32d04bc78c25d21fbfb70ee8" }}
+    {% when "Bradley Rose" %}
+        {{ img_prefix | append: "58f56952d9d64b9d99a2bd2f99c5fb53" }}
+    {% when "Camila Ramón" %}
+        {{ img_prefix | append: "ab238fb5e5f248049798d667c08e2966" }}
+    {% when "Charlotte Weidenbach" %}
+        {{ img_prefix | append: "12cdc3693ea5453aa00ee58812caa07d" }}
+    {% when "Christine D'Ercole" %}
+        {{ img_prefix | append: "b34c4087a2fb41a48a17af8e76c37e89" }}
+    {% when "Cliff Dwenger" %}
+        {{ img_prefix | append: "caa1e6d98c3845c1835e44590504a658" }}
+    {% when "Cody Rigsby" %}
+        {{ img_prefix | append: "b7e2b0d47d714c38ba886ff279204e5f" }}
+    {% when "Denis Morton" %}
+        {{ img_prefix | append: "bd0f52a6f6b141c497a3c0c40b4c9697" }}
+    {% when "Emma Lovewell" %}
+        {{ img_prefix | append: "07cd6ac5d85e4ad5972c1a084c34a69e" }}
+    {% when "Hannah Corbin" %}
+        {{ img_prefix | append: "748d6003af3e4258aafb678eec827f80" }}
+    {% when "Hannah Frankson" %}
+        {{ img_prefix | append: "3f3b59c78faa42d78c66aa826486e91c" }}
+    {% when "Jenn Sherman" %}
+        {{ img_prefix | append: "590db673e820451c92dadb1f7841fd84" }}
+    {% when "Jess King" %}
+        {{ img_prefix | append: "648d465edcae4c399f7c60fb14225bbe" }}
+    {% when "Kendall Toole" %}
+        {{ img_prefix | append: "6146a86a57b0436a925ee6471476f801" }}
+    {% when "Leanne Hainsby" %}
+        {{ img_prefix | append: "2040db9e5f734e5d859f740a9703ac5b" }}
+    {% when "Matt Wilpers" %}
+        {{ img_prefix | append: "b6a731695161478d98de5d465211e1bd" }}
+    {% when "Olivia Amato" %}
+        {{ img_prefix | append: "99e7c78745c64d209d7c63d7ad52269b" }}
+    {% when "Robin Arzon" %}
+        {{ img_prefix | append: "4f14e005ca914ab68b313c3f752b3574" }}
+    {% when "Sam Yo" %}
+        {{ img_prefix | append: "1254d0ec147d4c3a8b410fc51156b4de" }}
+    {% when "Tunde Oyeneyin" %}
+        {{ img_prefix | append: "d13ced311d4347598a7009edd6197649" }}
+    {% else %}
+        https://i.imgur.com/PAcGJM9.jpg
+{% endcase %}

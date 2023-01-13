@@ -5,8 +5,14 @@
 layout: default
 ---
 
-{% capture peloton_mileage %}
-{{ site.data.peloton.totalDistanceCycled }}
+{% assign currentYear = "now" | date: "%Y" %}
+
+{% capture total_mileage %}
+{{ site.data.peloton.distanceCycled["Total"] }}
+{% endcapture %}
+
+{% capture this_year_mileage %}
+{{ site.data.peloton.distanceCycled[currentYear] }}
 {% endcapture %}
 
 {% capture peloton_rides %}
@@ -17,14 +23,18 @@ layout: default
 {{ site.data.peloton.workoutTotals.Overall }}
 {% endcapture %}
 
+{% capture peloton_latest_ride_instructor %}
+{{ site.data.peloton.latestRide.Instructor }}
+{% endcapture %}
+
 ## Statistics for DustLined
 
 Here you can find all of my vital Peloton statistics - currently updated nightly.
 
-I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=peloton_mileage %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
+I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=total_mileage %} miles overall, {% include format-thousand-separators.html number=this_year_mileage %} miles this year) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
-<img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: right; border-radius: 50%; padding-left: 10pt;"/>
+<img src="{% include avatar.html instructor=peloton_latest_ride_instructor %}"  style="float: right; border-radius: 50%; padding-left: 10pt;"/>
 <h2>Latest Ride</h2>
 {% assign avgPerMin = site.data.peloton.latestRide['Total Output'] | plus: 0.0 | divided_by: site.data.peloton.latestRide.Length | round: 1 %}
 <p><strong>{{ site.data.peloton.latestRide['Ride Name'] }} with {{ site.data.peloton.latestRide.Instructor }}</strong>
@@ -39,27 +49,41 @@ I have taken a total of **{% include format-thousand-separators.html number=pelo
 Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
 </div>
 <br/>
-## Top 10 Cycling Instructors
+## Top 10 Cycling Instructors (All-Time)
 {% for instructor in site.data.peloton.totalsByInstructorAndDiscipline.Cycling limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 <br/>
+## Top 10 Cycling Instructors ({{ currentYear }})
 
-## Top 5 Meditation Instructors
-{% for instructor in site.data.peloton.totalsByInstructorAndDiscipline.Meditation limit: 5 %}
-<strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
-{% endfor %}
+Will appear here soon...
+
 <br/>
+## Total Distance Cycled Per Year
+<table>
+{% for year in site.data.peloton.distanceCycled %}
+    {% if year[0] == "Total" %}{% continue %}{% endif %}
+    <tr>
+        <td><strong>{{ year[0] }}</strong></td>
+        <td>{{ year[1] }} miles</td>
+    </tr>
+{% endfor %}
+    <tr><td><strong>Total</strong></td><td><strong>{{ site.data.peloton.distanceCycled["Total"] }} miles</strong></td></tr>
+</table>
+
 ## Personal Bests by Class Length
 
 {% for distance in site.data.peloton.PBs %}
 {% assign avgPerMin = distance[1]['Total Output'] | plus: 0.0 | divided_by: distance[0] | round: 1 %}
+{% capture this_instructor %}
+{{ distance[1].Instructor }}
+{% endcapture %}
 {% capture peloton_output %}
 {{ distance[1]['Total Output'] }}
 {% endcapture %}
 <br/>
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
-<img src="{{ distance[1].Photo }}"  style="float: right; border-radius: 50%; padding-left: 10pt"/>
+<img src="{% include avatar.html instructor=this_instructor %}"  style="float: right; border-radius: 50%; padding-left: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
 <p><strong>{{ distance[1]['Ride Name'] }}{% if distance[1].Instructor != "N/A" %} with {{ distance[1].Instructor }}{% endif %}</strong>
 {% if distance[1]['Live Ride'] %}
