@@ -31,7 +31,7 @@ layout: default
 
 Here you can find all of my vital Peloton statistics - currently updated nightly.
 
-I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=total_mileage %} miles overall, {% include format-thousand-separators.html number=this_year_mileage %} miles this year) and {{ site.data.peloton.workouts.Total.Meditation }} meditations.
+I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=total_mileage %} miles) and {{ site.data.peloton.workouts.Total.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{% include avatar.html instructor=peloton_latest_ride_instructor %}"  style="float: right; border-radius: 50%; padding-left: 10pt;"/>
@@ -48,19 +48,14 @@ I have taken a total of **{% include format-thousand-separators.html number=pelo
 {{ site.data.peloton.latestRide.Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
 Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
 </div>
-<br/>
 ## Top 10 Cycling Instructors (All-Time)
 {% for instructor in site.data.peloton.byInstructorAndDiscipline.Total.Cycling limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
-<br/>
 ## Top 10 Instructors of {{currentYear}}
-{% for instructor in site.data.peloton.byInstructor[{{currentYear}}] limit: 10 %}
+{% for instructor in site.data.peloton.byInstructor[currentYear] limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
-
-
-<br/>
 ## Total Distance Cycled Per Year
 <table>
 {% for year in site.data.peloton.distanceCycled %}
@@ -72,9 +67,7 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 {% endfor %}
     <tr><td><strong>Total</strong></td><td><strong>{{ site.data.peloton.distanceCycled["Total"] }} miles</strong></td></tr>
 </table>
-
 ## Personal Bests by Class Length
-
 {% for distance in site.data.peloton.PBs %}
 {% assign avgPerMin = distance[1]['Total Output'] | plus: 0.0 | divided_by: distance[0] | round: 1 %}
 {% capture this_instructor %}
@@ -83,7 +76,6 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 {% capture peloton_output %}
 {{ distance[1]['Total Output'] }}
 {% endcapture %}
-<br/>
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{% include avatar.html instructor=this_instructor %}"  style="float: right; border-radius: 50%; padding-left: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
@@ -107,6 +99,7 @@ Total Output: <strong>{% include format-thousand-separators.html number=peloton_
 </table>
 </details>
 </div>
+<br/>
 {% endfor %}
 
 ## Years Gone By
