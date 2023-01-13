@@ -16,11 +16,11 @@ layout: default
 {% endcapture %}
 
 {% capture peloton_rides %}
-{{ site.data.peloton.workoutTotals.Cycling }}
+{{ site.data.peloton.workouts.Total.Cycling }}
 {% endcapture %}
 
 {% capture peloton_total_classes %}
-{{ site.data.peloton.workoutTotals.Overall }}
+{{ site.data.peloton.workouts.Total.Total }}
 {% endcapture %}
 
 {% capture peloton_latest_ride_instructor %}
@@ -31,7 +31,7 @@ layout: default
 
 Here you can find all of my vital Peloton statistics - currently updated nightly.
 
-I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=total_mileage %} miles overall, {% include format-thousand-separators.html number=this_year_mileage %} miles this year) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
+I have taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=total_mileage %} miles overall, {% include format-thousand-separators.html number=this_year_mileage %} miles this year) and {{ site.data.peloton.workouts.Total.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{% include avatar.html instructor=peloton_latest_ride_instructor %}"  style="float: right; border-radius: 50%; padding-left: 10pt;"/>
@@ -50,13 +50,15 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 </div>
 <br/>
 ## Top 10 Cycling Instructors (All-Time)
-{% for instructor in site.data.peloton.totalsByInstructorAndDiscipline.Cycling limit: 10 %}
+{% for instructor in site.data.peloton.byInstructorAndDiscipline.Total.Cycling limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 <br/>
-## Top 10 Cycling Instructors ({{ currentYear }})
+## Top 10 Instructors of {{currentYear}}
+{% for instructor in site.data.peloton.byInstructor[{{currentYear}}] limit: 10 %}
+<strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
+{% endfor %}
 
-Will appear here soon...
 
 <br/>
 ## Total Distance Cycled Per Year
