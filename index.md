@@ -11,10 +11,6 @@ layout: default
 {{ site.data.peloton.distanceCycled["Total"] }}
 {% endcapture %}
 
-{% capture this_year_mileage %}
-{{ site.data.peloton.distanceCycled[currentYear] }}
-{% endcapture %}
-
 {% capture peloton_rides %}
 {{ site.data.peloton.workouts.Total.Cycling }}
 {% endcapture %}
@@ -60,12 +56,15 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 <table>
 {% for year in site.data.peloton.distanceCycled %}
     {% if year[0] == "Total" %}{% continue %}{% endif %}
+    {% capture mileage %}
+    {{ year[1] }}
+    {% endcapture %}
     <tr>
         <td><strong>{{ year[0] }}</strong></td>
-        <td>{{ year[1] }} miles</td>
+        <td>{% include format-thousand-separators.html number=mileage %} miles</td>
     </tr>
 {% endfor %}
-    <tr><td><strong>Total</strong></td><td><strong>{{ site.data.peloton.distanceCycled["Total"] }} miles</strong></td></tr>
+    <tr><td><strong>Total</strong></td><td><strong>{% include format-thousand-separators.html number=total_mileage %} miles</strong></td></tr>
 </table>
 ## Personal Bests by Class Length
 {% for distance in site.data.peloton.PBs %}
