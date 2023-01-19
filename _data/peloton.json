@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1302,
+            "Total": 1303,
             "Cycling": 874,
-            "Meditation": 305,
+            "Meditation": 306,
             "Walking": 70,
             "Running": 20,
             "Stretching": 14,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 41,
+            "Total": 42,
             "Cycling": 20,
-            "Meditation": 12,
+            "Meditation": 13,
             "Walking": 8,
             "Running": 1
         }
@@ -54,7 +54,7 @@
             "Bradley Rose": 78,
             "Leanne Hainsby": 76,
             "Ben Alldis": 72,
-            "Kristin McGee": 56,
+            "Kristin McGee": 57,
             "Matt Wilpers": 52,
             "Cody Rigsby": 40,
             "Robin Arzon": 40,
@@ -211,6 +211,7 @@
             "Ben Alldis": 6,
             "Leanne Hainsby": 3,
             "Bradley Rose": 2,
+            "Kristin McGee": 2,
             "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Sam Yo": 2,
@@ -221,8 +222,7 @@
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
             "Jon Hosking": 1,
-            "Kirra Michel": 1,
-            "Kristin McGee": 1
+            "Kirra Michel": 1
         }
     },
     "byInstructorAndDiscipline": {
@@ -306,7 +306,7 @@
             },
             "Meditation": {
                 "Ross Rayburn": 160,
-                "Kristin McGee": 56,
+                "Kristin McGee": 57,
                 "Aditi Shah": 35,
                 "Anna Greenberg": 20,
                 "Chelsea Jackson Roberts": 15,
@@ -487,10 +487,10 @@
         "2023": {
             "Meditation": {
                 "Ross Rayburn": 8,
+                "Kristin McGee": 2,
                 "Aditi Shah": 1,
                 "Anna Greenberg": 1,
-                "Kirra Michel": 1,
-                "Kristin McGee": 1
+                "Kirra Michel": 1
             },
             "Cycling": {
                 "Ben Alldis": 6,
