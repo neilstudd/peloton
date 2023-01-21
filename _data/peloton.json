@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1304,
+            "Total": 1305,
             "Cycling": 874,
             "Meditation": 307,
-            "Walking": 70,
+            "Walking": 71,
             "Running": 20,
             "Stretching": 14,
             "Cardio": 13,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 43,
+            "Total": 44,
             "Cycling": 20,
             "Meditation": 14,
-            "Walking": 8,
+            "Walking": 9,
             "Running": 1
         }
     },
@@ -77,7 +77,7 @@
             "Rebecca Kennedy": 11,
             "Jon Hosking": 8,
             "Hannah Frankson": 7,
-            "Joslyn Thompson Rule": 6,
+            "Joslyn Thompson Rule": 7,
             "Matty Maggiacomo": 5,
             "Becs Gentry": 4,
             "Susie Chan": 4,
@@ -222,6 +222,7 @@
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
             "Jon Hosking": 1,
+            "Joslyn Thompson Rule": 1,
             "Kirra Michel": 1
         }
     },
@@ -270,8 +271,8 @@
             },
             "Walking": {
                 "Rebecca Kennedy": 8,
+                "Joslyn Thompson Rule": 6,
                 "Selena Samuela": 6,
-                "Joslyn Thompson Rule": 5,
                 "Jon Hosking": 4,
                 "Andy Speer": 3,
                 "Matty Maggiacomo": 3,
@@ -505,7 +506,8 @@
             },
             "Walking": {
                 "Becs Gentry": 1,
-                "Jon Hosking": 1
+                "Jon Hosking": 1,
+                "Joslyn Thompson Rule": 1
             }
         }
     },
