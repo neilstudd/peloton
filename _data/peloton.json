@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1305,
+            "Total": 1306,
             "Cycling": 874,
-            "Meditation": 307,
+            "Meditation": 308,
             "Walking": 71,
             "Running": 20,
             "Stretching": 14,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 44,
+            "Total": 45,
             "Cycling": 20,
-            "Meditation": 14,
+            "Meditation": 15,
             "Walking": 9,
             "Running": 1
         }
@@ -54,7 +54,7 @@
             "Bradley Rose": 78,
             "Leanne Hainsby": 76,
             "Ben Alldis": 72,
-            "Kristin McGee": 57,
+            "Kristin McGee": 58,
             "Matt Wilpers": 52,
             "Cody Rigsby": 40,
             "Robin Arzon": 40,
@@ -209,9 +209,9 @@
         "2023": {
             "Ross Rayburn": 9,
             "Ben Alldis": 6,
+            "Kristin McGee": 3,
             "Leanne Hainsby": 3,
             "Bradley Rose": 2,
-            "Kristin McGee": 2,
             "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Sam Yo": 2,
@@ -307,7 +307,7 @@
             },
             "Meditation": {
                 "Ross Rayburn": 161,
-                "Kristin McGee": 57,
+                "Kristin McGee": 58,
                 "Aditi Shah": 35,
                 "Anna Greenberg": 20,
                 "Chelsea Jackson Roberts": 15,
@@ -488,7 +488,7 @@
         "2023": {
             "Meditation": {
                 "Ross Rayburn": 9,
-                "Kristin McGee": 2,
+                "Kristin McGee": 3,
                 "Aditi Shah": 1,
                 "Anna Greenberg": 1,
                 "Kirra Michel": 1
