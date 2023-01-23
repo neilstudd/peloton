@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1306,
+            "Total": 1307,
             "Cycling": 874,
-            "Meditation": 308,
+            "Meditation": 309,
             "Walking": 71,
             "Running": 20,
             "Stretching": 14,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 45,
+            "Total": 46,
             "Cycling": 20,
-            "Meditation": 15,
+            "Meditation": 16,
             "Walking": 9,
             "Running": 1
         }
@@ -64,7 +64,7 @@
             "Hannah Corbin": 33,
             "Christine D'Ercole": 30,
             "Ally Love": 28,
-            "Anna Greenberg": 21,
+            "Anna Greenberg": 22,
             "Jenn Sherman": 20,
             "Tunde Oyeneyin": 20,
             "Olivia Amato": 17,
@@ -211,13 +211,13 @@
             "Ben Alldis": 6,
             "Kristin McGee": 3,
             "Leanne Hainsby": 3,
+            "Anna Greenberg": 2,
             "Bradley Rose": 2,
             "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Sam Yo": 2,
             "Aditi Shah": 1,
             "Ally Love": 1,
-            "Anna Greenberg": 1,
             "Becs Gentry": 1,
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
@@ -309,7 +309,7 @@
                 "Ross Rayburn": 161,
                 "Kristin McGee": 58,
                 "Aditi Shah": 35,
-                "Anna Greenberg": 20,
+                "Anna Greenberg": 21,
                 "Chelsea Jackson Roberts": 15,
                 "Kirra Michel": 11,
                 "Cody Rigsby": 6,
@@ -489,8 +489,8 @@
             "Meditation": {
                 "Ross Rayburn": 9,
                 "Kristin McGee": 3,
+                "Anna Greenberg": 2,
                 "Aditi Shah": 1,
-                "Anna Greenberg": 1,
                 "Kirra Michel": 1
             },
             "Cycling": {
