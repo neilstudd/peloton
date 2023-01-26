@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1309,
+            "Total": 1310,
             "Cycling": 874,
             "Meditation": 311,
-            "Walking": 71,
+            "Walking": 72,
             "Running": 20,
             "Stretching": 14,
             "Cardio": 13,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 48,
+            "Total": 49,
             "Cycling": 20,
             "Meditation": 18,
-            "Walking": 9,
+            "Walking": 10,
             "Running": 1
         }
     },
