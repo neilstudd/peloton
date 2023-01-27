@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1310,
+            "Total": 1311,
             "Cycling": 874,
             "Meditation": 311,
-            "Walking": 72,
+            "Walking": 73,
             "Running": 20,
             "Stretching": 14,
             "Cardio": 13,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 49,
+            "Total": 50,
             "Cycling": 20,
             "Meditation": 18,
-            "Walking": 10,
+            "Walking": 11,
             "Running": 1
         }
     },
@@ -68,9 +68,9 @@
             "Jenn Sherman": 20,
             "Tunde Oyeneyin": 20,
             "Olivia Amato": 17,
+            "Jess King": 16,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
-            "Jess King": 15,
             "Kendall Toole": 14,
             "Selena Samuela": 12,
             "Kirra Michel": 11,
@@ -221,6 +221,7 @@
             "Becs Gentry": 1,
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
+            "Jess King": 1,
             "Jon Hosking": 1,
             "Joslyn Thompson Rule": 1,
             "Kirra Michel": 1
@@ -285,6 +286,7 @@
                 "Becs & Tunde ": 1,
                 "Chase Tucker": 1,
                 "Jess & Tunde ": 1,
+                "Jess King": 1,
                 "Jess Sims": 1,
                 "Kirsten & Tunde ": 1,
                 "Marcel & Tunde ": 1,
@@ -506,6 +508,7 @@
             },
             "Walking": {
                 "Becs Gentry": 1,
+                "Jess King": 1,
                 "Jon Hosking": 1,
                 "Joslyn Thompson Rule": 1
             }
