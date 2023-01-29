@@ -49,7 +49,7 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 ## Top 10 Instructors of {{currentYear}}
-{% for instructor in site.data.peloton.byInstructor[currentYear] limit: 10 %}
+{% for instructor in site.data.peloton.byInstructorAndDiscipline[currentYear].Cycling limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 ## Total Distance Cycled Per Year
