@@ -16,6 +16,7 @@ Some of the very best, most memorable Peloton rides!
 ### Ben Alldis
 
 * [30min 007 ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=333d8893b0c54ee48fe062823d2ae48e)
+* [30min Kygo ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=f89c6fb0555b4b32bdd47c96666aa5e9)
 
 ### Charlotte Weidenbach
 
