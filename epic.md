@@ -37,6 +37,10 @@ Some of the very best, most memorable Peloton rides!
 
 * [45min Red Hot Chili Peppers ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=5f36d83d2cb64fe795c5de9a4903616b)
 
+### Erik Jäger
+
+* [30min Kygo ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=a6a92936f54d456991c43a1ff46aeeec)
+
 ### Leanne Hainsby
 
 * [30min Ed Sheeran ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0f344954fd4b4ffa9dfd2acc7900dfad)
