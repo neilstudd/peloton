@@ -1,20 +1,20 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-29 08:10 (UTC)",
-        "Instructor": "Ben Alldis",
+        "Timestamp": "2023-01-30 07:49 (UTC)",
+        "Instructor": "Erik Jager",
         "Ride Name": "30 min Kygo Ride",
-        "Total Output": "324",
+        "Total Output": "332",
         "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1314,
-            "Cycling": 877,
+            "Total": 1318,
+            "Cycling": 880,
             "Meditation": 311,
             "Walking": 73,
-            "Running": 20,
+            "Running": 21,
             "Stretching": 14,
             "Cardio": 13,
             "Strength": 4,
@@ -40,11 +40,11 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 53,
-            "Cycling": 23,
+            "Total": 57,
+            "Cycling": 26,
             "Meditation": 18,
             "Walking": 11,
-            "Running": 1
+            "Running": 2
         }
     },
     "byInstructor": {
@@ -67,8 +67,8 @@
             "Anna Greenberg": 22,
             "Jenn Sherman": 20,
             "Tunde Oyeneyin": 20,
+            "Jess King": 18,
             "Olivia Amato": 17,
-            "Jess King": 16,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
             "Kendall Toole": 14,
@@ -79,12 +79,13 @@
             "Hannah Frankson": 7,
             "Joslyn Thompson Rule": 7,
             "Matty Maggiacomo": 5,
+            "Susie Chan": 5,
             "Becs Gentry": 4,
-            "Susie Chan": 4,
             "Andy Speer": 3,
             "Camila Ramon": 3,
             "Rad Lopez": 3,
             "Cliff Dwenger": 2,
+            "Erik Jager": 2,
             "Jess Sims": 2,
             "Kirsten Ferguson": 2,
             "Adrian & Tunde ": 1,
@@ -95,7 +96,6 @@
             "Callie Gullickson": 1,
             "Charlotte Weidenbach": 1,
             "Chase Tucker": 1,
-            "Erik Jager": 1,
             "Irene Scholz": 1,
             "Jess & Robin ": 1,
             "Jess & Tunde ": 1,
@@ -209,6 +209,7 @@
         "2023": {
             "Ross Rayburn": 11,
             "Ben Alldis": 7,
+            "Jess King": 3,
             "Kristin McGee": 3,
             "Leanne Hainsby": 3,
             "Anna Greenberg": 2,
@@ -222,10 +223,11 @@
             "Becs Gentry": 1,
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
-            "Jess King": 1,
+            "Erik Jager": 1,
             "Jon Hosking": 1,
             "Joslyn Thompson Rule": 1,
-            "Kirra Michel": 1
+            "Kirra Michel": 1,
+            "Susie Chan": 1
         }
     },
     "byInstructorAndDiscipline": {
@@ -245,17 +247,17 @@
                 "Ally Love": 28,
                 "Jenn Sherman": 19,
                 "Tunde Oyeneyin": 19,
+                "Jess King": 17,
                 "Alex Toussaint": 15,
-                "Jess King": 15,
                 "Olivia Amato": 15,
                 "Kendall Toole": 8,
                 "Hannah Frankson": 7,
                 "Camila Ramon": 3,
                 "Cliff Dwenger": 2,
+                "Erik Jager": 2,
                 "Alex & Tunde  ": 1,
                 "Bradley & Sam ": 1,
                 "Charlotte Weidenbach": 1,
-                "Erik Jager": 1,
                 "Irene Scholz": 1,
                 "Jess & Robin ": 1,
                 "Jess Sims": 1,
@@ -327,9 +329,9 @@
                 "Multiple Instructors ": 1
             },
             "Running": {
+                "Susie Chan": 4,
                 "Rebecca Kennedy": 3,
                 "Robin Arzon": 3,
-                "Susie Chan": 3,
                 "Becs Gentry": 2,
                 "Jon Hosking": 2,
                 "Matt Wilpers": 2,
@@ -501,18 +503,23 @@
                 "Leanne Hainsby": 3,
                 "Bradley Rose": 2,
                 "Hannah Corbin": 2,
+                "Jess King": 2,
                 "Matt Wilpers": 2,
                 "Robin Arzon": 2,
                 "Sam Yo": 2,
                 "Ally Love": 1,
                 "Cody Rigsby": 1,
-                "Emma Lovewell": 1
+                "Emma Lovewell": 1,
+                "Erik Jager": 1
             },
             "Walking": {
                 "Becs Gentry": 1,
                 "Jess King": 1,
                 "Jon Hosking": 1,
                 "Joslyn Thompson Rule": 1
+            },
+            "Running": {
+                "Susie Chan": 1
             }
         }
     },
@@ -1577,9 +1584,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5130.08",
+        "Total": "5143.39",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "129.27"
+        "2023": "142.58"
     }
 }
