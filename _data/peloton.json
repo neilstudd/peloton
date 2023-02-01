@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-30 07:49 (UTC)",
-        "Instructor": "Erik Jager",
-        "Ride Name": "30 min Kygo Ride",
-        "Total Output": "332",
+        "Timestamp": "2023-01-31 19:34 (UTC)",
+        "Instructor": "Ally Love",
+        "Ride Name": "30 min 90s Pop Ride",
+        "Total Output": "326",
         "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1318,
-            "Cycling": 880,
+            "Total": 1320,
+            "Cycling": 882,
             "Meditation": 311,
             "Walking": 73,
             "Running": 21,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 57,
-            "Cycling": 26,
+            "Total": 59,
+            "Cycling": 28,
             "Meditation": 18,
             "Walking": 11,
             "Running": 2
@@ -52,7 +52,7 @@
             "Sam Yo": 239,
             "Ross Rayburn": 163,
             "Bradley Rose": 78,
-            "Leanne Hainsby": 76,
+            "Leanne Hainsby": 77,
             "Ben Alldis": 73,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
@@ -63,7 +63,7 @@
             "Denis Morton": 35,
             "Hannah Corbin": 35,
             "Christine D'Ercole": 30,
-            "Ally Love": 28,
+            "Ally Love": 29,
             "Anna Greenberg": 22,
             "Jenn Sherman": 20,
             "Tunde Oyeneyin": 20,
@@ -209,9 +209,10 @@
         "2023": {
             "Ross Rayburn": 11,
             "Ben Alldis": 7,
+            "Leanne Hainsby": 4,
             "Jess King": 3,
             "Kristin McGee": 3,
-            "Leanne Hainsby": 3,
+            "Ally Love": 2,
             "Anna Greenberg": 2,
             "Bradley Rose": 2,
             "Hannah Corbin": 2,
@@ -219,7 +220,6 @@
             "Robin Arzon": 2,
             "Sam Yo": 2,
             "Aditi Shah": 1,
-            "Ally Love": 1,
             "Becs Gentry": 1,
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
@@ -235,7 +235,7 @@
             "Cycling": {
                 "Sam Yo": 231,
                 "Bradley Rose": 78,
-                "Leanne Hainsby": 76,
+                "Leanne Hainsby": 77,
                 "Ben Alldis": 71,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 37,
@@ -244,7 +244,7 @@
                 "Robin Arzon": 34,
                 "Denis Morton": 32,
                 "Christine D'Ercole": 30,
-                "Ally Love": 28,
+                "Ally Love": 29,
                 "Jenn Sherman": 19,
                 "Tunde Oyeneyin": 19,
                 "Jess King": 17,
@@ -500,14 +500,14 @@
             },
             "Cycling": {
                 "Ben Alldis": 7,
-                "Leanne Hainsby": 3,
+                "Leanne Hainsby": 4,
+                "Ally Love": 2,
                 "Bradley Rose": 2,
                 "Hannah Corbin": 2,
                 "Jess King": 2,
                 "Matt Wilpers": 2,
                 "Robin Arzon": 2,
                 "Sam Yo": 2,
-                "Ally Love": 1,
                 "Cody Rigsby": 1,
                 "Emma Lovewell": 1,
                 "Erik Jager": 1
@@ -1584,9 +1584,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5143.39",
+        "Total": "5155.10",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "142.58"
+        "2023": "154.29"
     }
 }
