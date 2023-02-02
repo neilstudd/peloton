@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-01-31 19:34 (UTC)",
-        "Instructor": "Ally Love",
-        "Ride Name": "30 min 90s Pop Ride",
-        "Total Output": "326",
+        "Timestamp": "2023-02-01 13:30 (UTC)",
+        "Instructor": "Leanne Hainsby",
+        "Ride Name": "30 min Nile Rodgers Ride",
+        "Total Output": "505",
         "Length": "30",
-        "Live Ride": false
+        "Live Ride": true
     },
     "workouts": {
         "Total": {
-            "Total": 1320,
-            "Cycling": 882,
+            "Total": 1322,
+            "Cycling": 884,
             "Meditation": 311,
             "Walking": 73,
             "Running": 21,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 59,
-            "Cycling": 28,
+            "Total": 61,
+            "Cycling": 30,
             "Meditation": 18,
             "Walking": 11,
             "Running": 2
@@ -51,8 +51,8 @@
         "Total": {
             "Sam Yo": 239,
             "Ross Rayburn": 163,
+            "Leanne Hainsby": 79,
             "Bradley Rose": 78,
-            "Leanne Hainsby": 77,
             "Ben Alldis": 73,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
@@ -209,7 +209,7 @@
         "2023": {
             "Ross Rayburn": 11,
             "Ben Alldis": 7,
-            "Leanne Hainsby": 4,
+            "Leanne Hainsby": 6,
             "Jess King": 3,
             "Kristin McGee": 3,
             "Ally Love": 2,
@@ -234,8 +234,8 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 231,
+                "Leanne Hainsby": 79,
                 "Bradley Rose": 78,
-                "Leanne Hainsby": 77,
                 "Ben Alldis": 71,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 37,
@@ -500,7 +500,7 @@
             },
             "Cycling": {
                 "Ben Alldis": 7,
-                "Leanne Hainsby": 4,
+                "Leanne Hainsby": 6,
                 "Ally Love": 2,
                 "Bradley Rose": 2,
                 "Hannah Corbin": 2,
@@ -1584,9 +1584,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5155.10",
+        "Total": "5168.72",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "154.29"
+        "2023": "167.91"
     }
 }
