@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-02 19:13 (UTC)",
-        "Instructor": "Hannah Corbin",
+        "Timestamp": "2023-02-03 19:00 (UTC)",
+        "Instructor": "Ben Alldis",
         "Ride Name": "30 min 90s Rock Ride",
-        "Total Output": "379",
+        "Total Output": "495",
         "Length": "30",
-        "Live Ride": false
+        "Live Ride": true
     },
     "workouts": {
         "Total": {
-            "Total": 1324,
-            "Cycling": 886,
+            "Total": 1326,
+            "Cycling": 888,
             "Meditation": 311,
             "Walking": 73,
             "Running": 21,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 63,
-            "Cycling": 32,
+            "Total": 65,
+            "Cycling": 34,
             "Meditation": 18,
             "Walking": 11,
             "Running": 2
@@ -51,9 +51,9 @@
         "Total": {
             "Sam Yo": 239,
             "Ross Rayburn": 163,
-            "Leanne Hainsby": 80,
+            "Leanne Hainsby": 81,
             "Bradley Rose": 78,
-            "Ben Alldis": 73,
+            "Ben Alldis": 74,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
             "Cody Rigsby": 40,
@@ -208,8 +208,8 @@
         },
         "2023": {
             "Ross Rayburn": 11,
-            "Ben Alldis": 7,
-            "Leanne Hainsby": 7,
+            "Ben Alldis": 8,
+            "Leanne Hainsby": 8,
             "Hannah Corbin": 3,
             "Jess King": 3,
             "Kristin McGee": 3,
@@ -234,9 +234,9 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 231,
-                "Leanne Hainsby": 80,
+                "Leanne Hainsby": 81,
                 "Bradley Rose": 78,
-                "Ben Alldis": 71,
+                "Ben Alldis": 72,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 37,
                 "Hannah Corbin": 36,
@@ -499,8 +499,8 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 7,
-                "Leanne Hainsby": 7,
+                "Ben Alldis": 8,
+                "Leanne Hainsby": 8,
                 "Hannah Corbin": 3,
                 "Ally Love": 2,
                 "Bradley Rose": 2,
@@ -1584,9 +1584,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5181.07",
+        "Total": "5194.52",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "180.26"
+        "2023": "193.71"
     }
 }
