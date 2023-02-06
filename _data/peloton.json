@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1326,
+            "Total": 1328,
             "Cycling": 888,
             "Meditation": 311,
             "Walking": 73,
-            "Running": 21,
+            "Running": 23,
             "Stretching": 14,
             "Cardio": 13,
             "Strength": 4,
@@ -40,11 +40,11 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 65,
+            "Total": 67,
             "Cycling": 34,
             "Meditation": 18,
             "Walking": 11,
-            "Running": 2
+            "Running": 4
         }
     },
     "byInstructor": {
@@ -75,7 +75,7 @@
             "Selena Samuela": 12,
             "Kirra Michel": 11,
             "Rebecca Kennedy": 11,
-            "Jon Hosking": 8,
+            "Jon Hosking": 9,
             "Hannah Frankson": 7,
             "Joslyn Thompson Rule": 7,
             "Matty Maggiacomo": 5,
@@ -97,6 +97,7 @@
             "Charlotte Weidenbach": 1,
             "Chase Tucker": 1,
             "Irene Scholz": 1,
+            "Jermaine Johnson": 1,
             "Jess & Robin ": 1,
             "Jess & Tunde ": 1,
             "Kirsten & Tunde ": 1,
@@ -216,6 +217,7 @@
             "Ally Love": 2,
             "Anna Greenberg": 2,
             "Bradley Rose": 2,
+            "Jon Hosking": 2,
             "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Sam Yo": 2,
@@ -224,7 +226,7 @@
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
             "Erik Jager": 1,
-            "Jon Hosking": 1,
+            "Jermaine Johnson": 1,
             "Joslyn Thompson Rule": 1,
             "Kirra Michel": 1,
             "Susie Chan": 1
@@ -330,12 +332,13 @@
             },
             "Running": {
                 "Susie Chan": 4,
+                "Jon Hosking": 3,
                 "Rebecca Kennedy": 3,
                 "Robin Arzon": 3,
                 "Becs Gentry": 2,
-                "Jon Hosking": 2,
                 "Matt Wilpers": 2,
                 "Matty Maggiacomo": 2,
+                "Jermaine Johnson": 1,
                 "Joslyn Thompson Rule": 1,
                 "Selena Samuela": 1
             }
@@ -519,6 +522,8 @@
                 "Joslyn Thompson Rule": 1
             },
             "Running": {
+                "Jermaine Johnson": 1,
+                "Jon Hosking": 1,
                 "Susie Chan": 1
             }
         }
