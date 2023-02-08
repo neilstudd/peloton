@@ -39,6 +39,7 @@ $workoutData["latestRide"] = array();
 $workoutData["workouts"] = array();
 $workoutData["byInstructor"] = array();
 $workoutData["byInstructorAndDiscipline"] = array();
+$workoutData["byTimeAndDiscipline"] = array();
 $workoutData["PBs"] = array();
 $workoutData["distanceCycled"] = array();
 $records = array();
@@ -58,6 +59,10 @@ foreach($rows as $row) {
 		$workoutData["byInstructor"][$year][$instructor] = ($workoutData["byInstructor"][$year][$instructor] ?? 0) + 1;
 		$workoutData["byInstructorAndDiscipline"]["Total"][$discipline][$instructor] = ($workoutData["byInstructorAndDiscipline"]["Total"][$discipline][$instructor] ?? 0) + 1;
 		$workoutData["byInstructorAndDiscipline"][$year][$discipline][$instructor] = ($workoutData["byInstructorAndDiscipline"][$year][$discipline][$instructor] ?? 0) + 1;
+		$workoutData["byTimeAndDiscipline"]["Total"]["Total"] = ($workoutData["byTimeAndDiscipline"]["Total"]["Total"] ?? 0) + (int)$row[3];
+		$workoutData["byTimeAndDiscipline"][$year]["Total"] = ($workoutData["byTimeAndDiscipline"][$year]["Total"] ?? 0) + (int)$row[3];
+		$workoutData["byTimeAndDiscipline"]["Total"][$discipline] = ($workoutData["byTimeAndDiscipline"]["Total"][$discipline] ?? 0) + (int)$row[3];
+		$workoutData["byTimeAndDiscipline"][$year][$discipline] = ($workoutData["byTimeAndDiscipline"][$year][$discipline] ?? 0) + (int)$row[3];
 	}
 
 	if($discipline == "Cycling") {
@@ -96,6 +101,10 @@ foreach($workoutData["byInstructorAndDiscipline"] as $year => $data) {
 	foreach($workoutData["byInstructorAndDiscipline"][$year] as $discipline => $disciplineCounts) {
 		array_multisort(array_values($workoutData["byInstructorAndDiscipline"][$year][$discipline]), SORT_DESC, array_keys($workoutData["byInstructorAndDiscipline"][$year][$discipline]), SORT_ASC, $workoutData["byInstructorAndDiscipline"][$year][$discipline]);
 	}
+}
+
+foreach($workoutData["byTimeAndDiscipline"] as $year => $data) {
+	array_multisort(array_values($workoutData["byTimeAndDiscipline"][$year]), SORT_DESC, array_keys($workoutData["byTimeAndDiscipline"][$year]), SORT_ASC, $workoutData["byTimeAndDiscipline"][$year]);
 }
 
 foreach($workoutData["distanceCycled"] as $year => $distance) {
