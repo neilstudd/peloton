@@ -49,7 +49,7 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 ## Top 10 Instructors of {{currentYear}}
-{% for instructor in site.data.peloton.byInstructorAndDiscipline[currentYear].Cycling limit: 10 %}
+{% for instructor in site.data.peloton.byInstructor[currentYear] limit: 10 %}
 <strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
 ## Total Distance Cycled Per Year
@@ -66,6 +66,39 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 {% endfor %}
     <tr><td><strong>Total</strong></td><td><strong>{% include format-thousand-separators.html number=total_mileage %} miles</strong></td></tr>
 </table>
+
+## Time Spent Per Activity, Per Year
+<table>
+<tr><th>Year</th><th>Cycling</th><th>Running</th><th>Meditation</th><th>Total</th></tr>
+{% for year in site.data.peloton.byTimeAndDiscipline %}
+    {% if year[0] == "Total" %}
+        {% continue %}
+    {% endif %}
+    {% capture cycleminutes ~%}{{ year[1]["Cycling"] }}{% endcapture ~%}
+    {% capture runminutes ~%}{{ year[1]["Running"] }}{% endcapture ~%}
+    {% capture meditationminutes ~%}{{ year[1]["Meditation"] }}{% endcapture ~%}
+    {% capture totalminutes ~%}{{ year[1]["Total"] }}{% endcapture ~%}
+    <tr>
+        <td><strong>{{ year[0] }}</strong></td>
+        <td>{% if cycleminutes != "" %}{% include minutes-to-hours.html number=cycleminutes %}{% endif %}</td>
+        <td>{% if runminutes != "" %}{% include minutes-to-hours.html number=runminutes %}{% endif %}</td>
+        <td>{% if meditationminutes != "" %}{% include minutes-to-hours.html number=meditationminutes %}{% endif %}</td>
+        <td>{% if totalminutes != "" %}{% include minutes-to-hours.html number=totalminutes %}{% endif %}</td>
+    </tr>
+{% endfor %}
+{% capture totalcycleminutes ~%}{{ site.data.peloton.byTimeAndDiscipline["Total"]["Cycling"] }}{% endcapture ~%}
+{% capture totalrunminutes ~%}{{ site.data.peloton.byTimeAndDiscipline["Total"]["Running"] }}{% endcapture ~%} 
+{% capture totalmeditationminutes ~%}{{ site.data.peloton.byTimeAndDiscipline["Total"]["Meditation"] }}{% endcapture ~%} 
+{% capture totalminutes ~%}{{ site.data.peloton.byTimeAndDiscipline["Total"]["Total"] }}{% endcapture ~%} 
+<tr>
+    <td><strong>Total</strong></td>
+    <td><strong>{% include minutes-to-hours.html number=totalcycleminutes %}</strong></td>
+    <td><strong>{% include minutes-to-hours.html number=totalrunminutes %}</strong></td>
+    <td><strong>{% include minutes-to-hours.html number=totalmeditationminutes %}</strong></td>
+    <td><strong>{% include minutes-to-hours.html number=totalminutes %}</strong></td>
+</tr>
+</table>
+
 ## Personal Bests by Class Length
 {% for distance in site.data.peloton.PBs %}
 {% assign avgPerMin = distance[1]['Total Output'] | plus: 0.0 | divided_by: distance[0] | round: 1 %}

@@ -1,0 +1,10 @@
+{% assign minutes =  include.number | strip %}
+{% assign hours = minutes | divided_by: 60 %}
+{% assign minutes = minutes | modulo: 60 %}
+{% if hours >= 0 %}
+  {% assign hours = hours | append: 'h' %}
+{% endif %}
+{% if minutes >= 0 %}
+  {% assign minutes = minutes | append: 'm' %}
+{% endif %}
+{{ hours }} {{ minutes }}
