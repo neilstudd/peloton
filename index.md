@@ -69,7 +69,7 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 
 ## Time Spent Per Activity, Per Year
 <table>
-<tr><th>Year</th><th>Cycling</th><th>Running</th><th>Meditation</th><th>Total</th></tr>
+<tr><th>Year</th><th>Cycling</th><th>Meditation</th><th>Running</th><th>Total</th></tr>
 {% for year in site.data.peloton.byTimeAndDiscipline %}
     {% if year[0] == "Total" %}
         {% continue %}
@@ -81,8 +81,8 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
     <tr>
         <td><strong>{{ year[0] }}</strong></td>
         <td>{% if cycleminutes != "" %}{% include minutes-to-hours.html number=cycleminutes %}{% endif %}</td>
-        <td>{% if runminutes != "" %}{% include minutes-to-hours.html number=runminutes %}{% endif %}</td>
         <td>{% if meditationminutes != "" %}{% include minutes-to-hours.html number=meditationminutes %}{% endif %}</td>
+        <td>{% if runminutes != "" %}{% include minutes-to-hours.html number=runminutes %}{% endif %}</td>
         <td>{% if totalminutes != "" %}{% include minutes-to-hours.html number=totalminutes %}{% endif %}</td>
     </tr>
 {% endfor %}
@@ -93,8 +93,8 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 <tr>
     <td><strong>Total</strong></td>
     <td><strong>{% include minutes-to-hours.html number=totalcycleminutes %}</strong></td>
-    <td><strong>{% include minutes-to-hours.html number=totalrunminutes %}</strong></td>
     <td><strong>{% include minutes-to-hours.html number=totalmeditationminutes %}</strong></td>
+    <td><strong>{% include minutes-to-hours.html number=totalrunminutes %}</strong></td>
     <td><strong>{% include minutes-to-hours.html number=totalminutes %}</strong></td>
 </tr>
 </table>
