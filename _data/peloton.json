@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1336,
+            "Total": 1337,
             "Cycling": 892,
             "Meditation": 311,
             "Walking": 73,
-            "Running": 27,
+            "Running": 28,
             "Stretching": 14,
             "Cardio": 13,
             "Strength": 4,
@@ -40,11 +40,11 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 75,
+            "Total": 76,
             "Cycling": 38,
             "Meditation": 18,
             "Walking": 11,
-            "Running": 8
+            "Running": 9
         }
     },
     "byInstructor": {
@@ -78,8 +78,8 @@
             "Jon Hosking": 10,
             "Joslyn Thompson Rule": 8,
             "Hannah Frankson": 7,
+            "Susie Chan": 6,
             "Matty Maggiacomo": 5,
-            "Susie Chan": 5,
             "Becs Gentry": 4,
             "Andy Speer": 3,
             "Camila Ramon": 3,
@@ -223,14 +223,14 @@
             "Jermaine Johnson": 2,
             "Joslyn Thompson Rule": 2,
             "Matt Wilpers": 2,
+            "Susie Chan": 2,
             "Aditi Shah": 1,
             "Becs Gentry": 1,
             "Cody Rigsby": 1,
             "Emma Lovewell": 1,
             "Erik Jager": 1,
             "Kirra Michel": 1,
-            "Selena Samuela": 1,
-            "Susie Chan": 1
+            "Selena Samuela": 1
         }
     },
     "byInstructorAndDiscipline": {
@@ -332,8 +332,8 @@
                 "Multiple Instructors ": 1
             },
             "Running": {
+                "Susie Chan": 5,
                 "Jon Hosking": 4,
-                "Susie Chan": 4,
                 "Rebecca Kennedy": 3,
                 "Robin Arzon": 3,
                 "Becs Gentry": 2,
@@ -525,19 +525,19 @@
             "Running": {
                 "Jermaine Johnson": 2,
                 "Jon Hosking": 2,
+                "Susie Chan": 2,
                 "Joslyn Thompson Rule": 1,
-                "Selena Samuela": 1,
-                "Susie Chan": 1
+                "Selena Samuela": 1
             }
         }
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21308,
+            "Total": 21313,
             "Cycling": 14490,
             "Meditation": 4435,
             "Walking": 1355,
-            "Running": 618,
+            "Running": 623,
             "Cardio": 235,
             "Stretching": 85,
             "Yoga": 50,
@@ -563,10 +563,10 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1025,
+            "Total": 1030,
             "Cycling": 585,
             "Meditation": 235,
-            "Running": 135,
+            "Running": 140,
             "Walking": 70
         }
     },
