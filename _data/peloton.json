@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-08 15:56 (UTC)",
-        "Instructor": "Sam Yo",
-        "Ride Name": "15 min 90s Ride",
-        "Total Output": "212",
-        "Length": "15",
+        "Timestamp": "2023-02-11 19:53 (UTC)",
+        "Instructor": "Hannah Corbin",
+        "Ride Name": "Extra 10: Climb Ride",
+        "Total Output": "148",
+        "Length": "10",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1341,
-            "Cycling": 892,
+            "Total": 1345,
+            "Cycling": 896,
             "Meditation": 312,
             "Walking": 73,
             "Running": 30,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 80,
-            "Cycling": 38,
+            "Total": 84,
+            "Cycling": 42,
             "Meditation": 19,
             "Running": 11,
             "Walking": 11,
@@ -54,14 +54,14 @@
             "Ross Rayburn": 163,
             "Leanne Hainsby": 81,
             "Bradley Rose": 78,
-            "Ben Alldis": 74,
+            "Ben Alldis": 75,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
             "Cody Rigsby": 41,
             "Robin Arzon": 41,
-            "Emma Lovewell": 38,
+            "Emma Lovewell": 40,
+            "Hannah Corbin": 37,
             "Aditi Shah": 36,
-            "Hannah Corbin": 36,
             "Denis Morton": 35,
             "Christine D'Ercole": 30,
             "Ally Love": 29,
@@ -210,10 +210,11 @@
         },
         "2023": {
             "Ross Rayburn": 11,
-            "Ben Alldis": 8,
+            "Ben Alldis": 9,
             "Leanne Hainsby": 8,
             "Jess King": 5,
-            "Hannah Corbin": 3,
+            "Hannah Corbin": 4,
+            "Emma Lovewell": 3,
             "Jon Hosking": 3,
             "Kristin McGee": 3,
             "Robin Arzon": 3,
@@ -230,7 +231,6 @@
             "Susie Chan": 2,
             "Andy Speer": 1,
             "Becs Gentry": 1,
-            "Emma Lovewell": 1,
             "Erik Jager": 1,
             "Kirra Michel": 1
         }
@@ -241,10 +241,10 @@
                 "Sam Yo": 232,
                 "Leanne Hainsby": 81,
                 "Bradley Rose": 78,
-                "Ben Alldis": 72,
+                "Ben Alldis": 73,
                 "Matt Wilpers": 50,
-                "Emma Lovewell": 37,
-                "Hannah Corbin": 36,
+                "Emma Lovewell": 39,
+                "Hannah Corbin": 37,
                 "Robin Arzon": 35,
                 "Cody Rigsby": 34,
                 "Denis Morton": 32,
@@ -507,17 +507,17 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 8,
+                "Ben Alldis": 9,
                 "Leanne Hainsby": 8,
+                "Hannah Corbin": 4,
                 "Jess King": 4,
-                "Hannah Corbin": 3,
+                "Emma Lovewell": 3,
                 "Robin Arzon": 3,
                 "Sam Yo": 3,
                 "Ally Love": 2,
                 "Bradley Rose": 2,
                 "Matt Wilpers": 2,
                 "Cody Rigsby": 1,
-                "Emma Lovewell": 1,
                 "Erik Jager": 1
             },
             "Walking": {
@@ -541,8 +541,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21388,
-            "Cycling": 14490,
+            "Total": 21423,
+            "Cycling": 14525,
             "Meditation": 4455,
             "Walking": 1355,
             "Running": 673,
@@ -571,8 +571,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1105,
-            "Cycling": 585,
+            "Total": 1140,
+            "Cycling": 620,
             "Meditation": 255,
             "Running": 190,
             "Walking": 70,
@@ -1640,9 +1640,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5208.75",
+        "Total": "5221.01",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "207.94"
+        "2023": "220.20"
     }
 }
