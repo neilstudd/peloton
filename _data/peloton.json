@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-11 19:53 (UTC)",
-        "Instructor": "Hannah Corbin",
-        "Ride Name": "Extra 10: Climb Ride",
-        "Total Output": "148",
-        "Length": "10",
+        "Timestamp": "2023-02-12 08:08 (UTC)",
+        "Instructor": "Sam Yo",
+        "Ride Name": "15 min HIIT Ride",
+        "Total Output": "156",
+        "Length": "15",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1345,
-            "Cycling": 896,
+            "Total": 1348,
+            "Cycling": 899,
             "Meditation": 312,
             "Walking": 73,
             "Running": 30,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 84,
-            "Cycling": 42,
+            "Total": 87,
+            "Cycling": 45,
             "Meditation": 19,
             "Running": 11,
             "Walking": 11,
@@ -50,14 +50,14 @@
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 240,
+            "Sam Yo": 241,
             "Ross Rayburn": 163,
             "Leanne Hainsby": 81,
             "Bradley Rose": 78,
             "Ben Alldis": 75,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
-            "Cody Rigsby": 41,
+            "Cody Rigsby": 42,
             "Robin Arzon": 41,
             "Emma Lovewell": 40,
             "Hannah Corbin": 37,
@@ -66,9 +66,9 @@
             "Christine D'Ercole": 30,
             "Ally Love": 29,
             "Anna Greenberg": 22,
+            "Tunde Oyeneyin": 21,
             "Jenn Sherman": 20,
             "Jess King": 20,
-            "Tunde Oyeneyin": 20,
             "Olivia Amato": 17,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
@@ -214,16 +214,16 @@
             "Leanne Hainsby": 8,
             "Jess King": 5,
             "Hannah Corbin": 4,
+            "Sam Yo": 4,
+            "Cody Rigsby": 3,
             "Emma Lovewell": 3,
             "Jon Hosking": 3,
             "Kristin McGee": 3,
             "Robin Arzon": 3,
-            "Sam Yo": 3,
             "Aditi Shah": 2,
             "Ally Love": 2,
             "Anna Greenberg": 2,
             "Bradley Rose": 2,
-            "Cody Rigsby": 2,
             "Jermaine Johnson": 2,
             "Joslyn Thompson Rule": 2,
             "Matt Wilpers": 2,
@@ -232,27 +232,28 @@
             "Andy Speer": 1,
             "Becs Gentry": 1,
             "Erik Jager": 1,
-            "Kirra Michel": 1
+            "Kirra Michel": 1,
+            "Tunde Oyeneyin": 1
         }
     },
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 232,
+                "Sam Yo": 233,
                 "Leanne Hainsby": 81,
                 "Bradley Rose": 78,
                 "Ben Alldis": 73,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 39,
                 "Hannah Corbin": 37,
+                "Cody Rigsby": 35,
                 "Robin Arzon": 35,
-                "Cody Rigsby": 34,
                 "Denis Morton": 32,
                 "Christine D'Ercole": 30,
                 "Ally Love": 29,
+                "Tunde Oyeneyin": 20,
                 "Jenn Sherman": 19,
                 "Jess King": 19,
-                "Tunde Oyeneyin": 19,
                 "Alex Toussaint": 15,
                 "Olivia Amato": 15,
                 "Kendall Toole": 8,
@@ -511,14 +512,15 @@
                 "Leanne Hainsby": 8,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
+                "Sam Yo": 4,
                 "Emma Lovewell": 3,
                 "Robin Arzon": 3,
-                "Sam Yo": 3,
                 "Ally Love": 2,
                 "Bradley Rose": 2,
+                "Cody Rigsby": 2,
                 "Matt Wilpers": 2,
-                "Cody Rigsby": 1,
-                "Erik Jager": 1
+                "Erik Jager": 1,
+                "Tunde Oyeneyin": 1
             },
             "Walking": {
                 "Becs Gentry": 1,
@@ -541,8 +543,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21423,
-            "Cycling": 14525,
+            "Total": 21448,
+            "Cycling": 14550,
             "Meditation": 4455,
             "Walking": 1355,
             "Running": 673,
@@ -571,8 +573,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1140,
-            "Cycling": 620,
+            "Total": 1165,
+            "Cycling": 645,
             "Meditation": 255,
             "Running": 190,
             "Walking": 70,
@@ -1640,9 +1642,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5221.01",
+        "Total": "5229.23",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "220.20"
+        "2023": "228.42"
     }
 }
