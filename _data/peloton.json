@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-13 07:25 (UTC)",
-        "Instructor": "Leanne Hainsby",
-        "Ride Name": "20 min HIIT Ride",
-        "Total Output": "264",
-        "Length": "20",
-        "Live Ride": true
+        "Timestamp": "2023-02-16 21:31 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Ride Name": "Extra 10: Intervals Ride",
+        "Total Output": "150",
+        "Length": "10",
+        "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1351,
-            "Cycling": 900,
+            "Total": 1356,
+            "Cycling": 905,
             "Meditation": 312,
             "Walking": 74,
             "Running": 31,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 90,
-            "Cycling": 46,
+            "Total": 95,
+            "Cycling": 51,
             "Meditation": 19,
             "Running": 12,
             "Walking": 12,
@@ -52,14 +52,14 @@
         "Total": {
             "Sam Yo": 241,
             "Ross Rayburn": 163,
-            "Leanne Hainsby": 82,
+            "Leanne Hainsby": 83,
             "Bradley Rose": 78,
-            "Ben Alldis": 75,
+            "Ben Alldis": 76,
             "Kristin McGee": 58,
             "Matt Wilpers": 52,
+            "Emma Lovewell": 43,
             "Cody Rigsby": 42,
             "Robin Arzon": 41,
-            "Emma Lovewell": 40,
             "Hannah Corbin": 37,
             "Aditi Shah": 36,
             "Denis Morton": 35,
@@ -210,13 +210,13 @@
         },
         "2023": {
             "Ross Rayburn": 11,
-            "Ben Alldis": 9,
-            "Leanne Hainsby": 9,
+            "Ben Alldis": 10,
+            "Leanne Hainsby": 10,
+            "Emma Lovewell": 6,
             "Jess King": 5,
             "Hannah Corbin": 4,
             "Sam Yo": 4,
             "Cody Rigsby": 3,
-            "Emma Lovewell": 3,
             "Jon Hosking": 3,
             "Kristin McGee": 3,
             "Robin Arzon": 3,
@@ -241,11 +241,11 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 233,
-                "Leanne Hainsby": 82,
+                "Leanne Hainsby": 83,
                 "Bradley Rose": 78,
-                "Ben Alldis": 73,
+                "Ben Alldis": 74,
                 "Matt Wilpers": 50,
-                "Emma Lovewell": 39,
+                "Emma Lovewell": 42,
                 "Hannah Corbin": 37,
                 "Cody Rigsby": 35,
                 "Robin Arzon": 35,
@@ -509,12 +509,12 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 9,
-                "Leanne Hainsby": 9,
+                "Ben Alldis": 10,
+                "Leanne Hainsby": 10,
+                "Emma Lovewell": 6,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
                 "Sam Yo": 4,
-                "Emma Lovewell": 3,
                 "Robin Arzon": 3,
                 "Ally Love": 2,
                 "Bradley Rose": 2,
@@ -545,8 +545,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21503,
-            "Cycling": 14570,
+            "Total": 21553,
+            "Cycling": 14620,
             "Meditation": 4455,
             "Walking": 1360,
             "Running": 703,
@@ -575,8 +575,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1220,
-            "Cycling": 665,
+            "Total": 1270,
+            "Cycling": 715,
             "Meditation": 255,
             "Running": 220,
             "Walking": 75,
@@ -1644,9 +1644,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5236.49",
+        "Total": "5253.74",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "235.68"
+        "2023": "252.93"
     }
 }
