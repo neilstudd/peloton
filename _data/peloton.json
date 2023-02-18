@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-16 21:31 (UTC)",
-        "Instructor": "Ben Alldis",
-        "Ride Name": "Extra 10: Intervals Ride",
-        "Total Output": "150",
-        "Length": "10",
+        "Timestamp": "2023-02-17 21:10 (UTC)",
+        "Instructor": "N\/A",
+        "Ride Name": "60 min Galloping Goose Trail Ride",
+        "Total Output": "624",
+        "Length": "60",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1356,
-            "Cycling": 905,
+            "Total": 1357,
+            "Cycling": 906,
             "Meditation": 312,
             "Walking": 74,
             "Running": 31,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 95,
-            "Cycling": 51,
+            "Total": 96,
+            "Cycling": 52,
             "Meditation": 19,
             "Running": 12,
             "Walking": 12,
@@ -1644,9 +1644,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5253.74",
+        "Total": "5273.95",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "252.93"
+        "2023": "273.14"
     }
 }
