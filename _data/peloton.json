@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1359,
+            "Total": 1361,
             "Cycling": 906,
             "Meditation": 312,
-            "Walking": 74,
+            "Walking": 76,
             "Running": 33,
             "Stretching": 15,
             "Cardio": 13,
@@ -40,11 +40,11 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 98,
+            "Total": 100,
             "Cycling": 52,
             "Meditation": 19,
             "Running": 14,
-            "Walking": 12,
+            "Walking": 14,
             "Stretching": 1
         }
     },
@@ -74,9 +74,9 @@
             "Chelsea Jackson Roberts": 15,
             "Kendall Toole": 14,
             "Selena Samuela": 14,
+            "Jon Hosking": 11,
             "Kirra Michel": 11,
             "Rebecca Kennedy": 11,
-            "Jon Hosking": 10,
             "Joslyn Thompson Rule": 8,
             "Susie Chan": 8,
             "Hannah Frankson": 7,
@@ -84,12 +84,12 @@
             "Andy Speer": 4,
             "Becs Gentry": 4,
             "Camila Ramon": 3,
+            "Kirsten Ferguson": 3,
             "Rad Lopez": 3,
             "Cliff Dwenger": 2,
             "Erik Jager": 2,
             "Jermaine Johnson": 2,
             "Jess Sims": 2,
-            "Kirsten Ferguson": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
             "Alex & Tunde  ": 1,
@@ -215,10 +215,10 @@
             "Emma Lovewell": 6,
             "Jess King": 5,
             "Hannah Corbin": 4,
+            "Jon Hosking": 4,
             "Sam Yo": 4,
             "Susie Chan": 4,
             "Cody Rigsby": 3,
-            "Jon Hosking": 3,
             "Kristin McGee": 3,
             "Matt Wilpers": 3,
             "Robin Arzon": 3,
@@ -233,6 +233,7 @@
             "Becs Gentry": 1,
             "Erik Jager": 1,
             "Kirra Michel": 1,
+            "Kirsten Ferguson": 1,
             "Matty Maggiacomo": 1,
             "Tunde Oyeneyin": 1
         }
@@ -285,12 +286,12 @@
                 "Rebecca Kennedy": 8,
                 "Joslyn Thompson Rule": 6,
                 "Selena Samuela": 6,
-                "Jon Hosking": 4,
+                "Jon Hosking": 5,
                 "Matty Maggiacomo": 4,
                 "Andy Speer": 3,
+                "Kirsten Ferguson": 3,
                 "Robin Arzon": 3,
                 "Becs Gentry": 2,
-                "Kirsten Ferguson": 2,
                 "Olivia Amato": 2,
                 "Adrian & Tunde ": 1,
                 "Adrian Williams": 1,
@@ -524,10 +525,11 @@
                 "Tunde Oyeneyin": 1
             },
             "Walking": {
+                "Jon Hosking": 2,
                 "Becs Gentry": 1,
                 "Jess King": 1,
-                "Jon Hosking": 1,
                 "Joslyn Thompson Rule": 1,
+                "Kirsten Ferguson": 1,
                 "Matty Maggiacomo": 1
             },
             "Running": {
@@ -546,10 +548,10 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21593,
+            "Total": 21643,
             "Cycling": 14620,
             "Meditation": 4455,
-            "Walking": 1360,
+            "Walking": 1410,
             "Running": 743,
             "Cardio": 235,
             "Stretching": 90,
@@ -576,11 +578,11 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1310,
+            "Total": 1360,
             "Cycling": 715,
             "Running": 260,
             "Meditation": 255,
-            "Walking": 75,
+            "Walking": 125,
             "Stretching": 5
         }
     },
