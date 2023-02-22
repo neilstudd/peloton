@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-17 21:10 (UTC)",
+        "Timestamp": "2023-02-22 13:13 (UTC)",
         "Instructor": "N\/A",
-        "Ride Name": "60 min Galloping Goose Trail Ride",
-        "Total Output": "624",
-        "Length": "60",
+        "Ride Name": "90 min Olympic Valley Ride",
+        "Total Output": "1264",
+        "Length": "90",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1361,
-            "Cycling": 906,
+            "Total": 1362,
+            "Cycling": 907,
             "Meditation": 312,
             "Walking": 76,
             "Running": 33,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 100,
-            "Cycling": 52,
+            "Total": 101,
+            "Cycling": 53,
             "Meditation": 19,
             "Running": 14,
             "Walking": 14,
@@ -1612,10 +1612,10 @@
             ]
         },
         "90": {
-            "Timestamp": "2022-10-23 08:49 (+01)",
-            "Instructor": "Matt Wilpers",
-            "Ride Name": "90 min Power Zone Endurance Ride",
-            "Total Output": "1260",
+            "Timestamp": "2023-02-22 13:13 (UTC)",
+            "Instructor": "N\/A",
+            "Ride Name": "90 min Olympic Valley Ride",
+            "Total Output": "1264",
             "Length": "90",
             "Live Ride": false,
             "progressions": [
@@ -1642,14 +1642,22 @@
                     "Total Output": "1260",
                     "Length": "90",
                     "Live Ride": false
+                },
+                {
+                    "Timestamp": "2023-02-22 13:13 (UTC)",
+                    "Instructor": "N\/A",
+                    "Ride Name": "90 min Olympic Valley Ride",
+                    "Total Output": "1264",
+                    "Length": "90",
+                    "Live Ride": false
                 }
             ]
         }
     },
     "distanceCycled": {
-        "Total": "5273.95",
+        "Total": "5307.94",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "273.14"
+        "2023": "307.13"
     }
 }
