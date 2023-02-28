@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1362,
+            "Total": 1363,
             "Cycling": 907,
             "Meditation": 312,
             "Walking": 76,
-            "Running": 33,
+            "Running": 34,
             "Stretching": 15,
             "Cardio": 13,
             "Strength": 4,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 101,
+            "Total": 102,
             "Cycling": 53,
             "Meditation": 19,
-            "Running": 14,
+            "Running": 15,
             "Walking": 14,
             "Stretching": 1
         }
@@ -77,8 +77,8 @@
             "Jon Hosking": 11,
             "Kirra Michel": 11,
             "Rebecca Kennedy": 11,
+            "Susie Chan": 9,
             "Joslyn Thompson Rule": 8,
-            "Susie Chan": 8,
             "Hannah Frankson": 7,
             "Matty Maggiacomo": 6,
             "Andy Speer": 4,
@@ -214,10 +214,10 @@
             "Leanne Hainsby": 10,
             "Emma Lovewell": 6,
             "Jess King": 5,
+            "Susie Chan": 5,
             "Hannah Corbin": 4,
             "Jon Hosking": 4,
             "Sam Yo": 4,
-            "Susie Chan": 4,
             "Cody Rigsby": 3,
             "Kristin McGee": 3,
             "Matt Wilpers": 3,
@@ -338,7 +338,7 @@
                 "Multiple Instructors ": 1
             },
             "Running": {
-                "Susie Chan": 7,
+                "Susie Chan": 8,
                 "Jon Hosking": 4,
                 "Matt Wilpers": 3,
                 "Rebecca Kennedy": 3,
@@ -533,7 +533,7 @@
                 "Matty Maggiacomo": 1
             },
             "Running": {
-                "Susie Chan": 4,
+                "Susie Chan": 5,
                 "Jermaine Johnson": 2,
                 "Jon Hosking": 2,
                 "Selena Samuela": 2,
@@ -548,11 +548,11 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21643,
+            "Total": 21673,
             "Cycling": 14620,
             "Meditation": 4455,
             "Walking": 1410,
-            "Running": 743,
+            "Running": 773,
             "Cardio": 235,
             "Stretching": 90,
             "Yoga": 50,
@@ -578,9 +578,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1360,
+            "Total": 1390,
             "Cycling": 715,
-            "Running": 260,
+            "Running": 290,
             "Meditation": 255,
             "Walking": 125,
             "Stretching": 5
