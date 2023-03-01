@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-02-22 13:13 (UTC)",
-        "Instructor": "N\/A",
-        "Ride Name": "90 min Olympic Valley Ride",
-        "Total Output": "1264",
-        "Length": "90",
+        "Timestamp": "2023-02-28 13:39 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Ride Name": "20 min 2000s Rock Ride",
+        "Total Output": "302",
+        "Length": "20",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1363,
-            "Cycling": 907,
+            "Total": 1366,
+            "Cycling": 910,
             "Meditation": 312,
             "Walking": 76,
             "Running": 34,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 102,
-            "Cycling": 53,
+            "Total": 105,
+            "Cycling": 56,
             "Meditation": 19,
             "Running": 15,
             "Walking": 14,
@@ -53,8 +53,8 @@
             "Sam Yo": 241,
             "Ross Rayburn": 163,
             "Leanne Hainsby": 83,
+            "Ben Alldis": 79,
             "Bradley Rose": 78,
-            "Ben Alldis": 76,
             "Kristin McGee": 58,
             "Matt Wilpers": 53,
             "Emma Lovewell": 43,
@@ -209,8 +209,8 @@
             "Selena & Tunde ": 1
         },
         "2023": {
+            "Ben Alldis": 13,
             "Ross Rayburn": 11,
-            "Ben Alldis": 10,
             "Leanne Hainsby": 10,
             "Emma Lovewell": 6,
             "Jess King": 5,
@@ -244,7 +244,7 @@
                 "Sam Yo": 233,
                 "Leanne Hainsby": 83,
                 "Bradley Rose": 78,
-                "Ben Alldis": 74,
+                "Ben Alldis": 77,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 42,
                 "Hannah Corbin": 37,
@@ -510,7 +510,7 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 10,
+                "Ben Alldis": 13,
                 "Leanne Hainsby": 10,
                 "Emma Lovewell": 6,
                 "Hannah Corbin": 4,
@@ -548,8 +548,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21673,
-            "Cycling": 14620,
+            "Total": 21708,
+            "Cycling": 14655,
             "Meditation": 4455,
             "Walking": 1410,
             "Running": 773,
@@ -578,8 +578,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1390,
-            "Cycling": 715,
+            "Total": 1425,
+            "Cycling": 750,
             "Running": 290,
             "Meditation": 255,
             "Walking": 125,
@@ -1655,9 +1655,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5307.94",
+        "Total": "5320.77",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "307.13"
+        "2023": "319.96"
     }
 }
