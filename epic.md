@@ -46,6 +46,7 @@ Some of the very best, most memorable Peloton rides!
 * [30min Ed Sheeran ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0f344954fd4b4ffa9dfd2acc7900dfad)
 * [30min Spice Girls ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=1091bd06435b4fcca3514dd0e38b2a65)
 * [30min The Beatles ride Vol 1](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=b717d136948f452fa443b4e415481ccd)
+* [30min Kylie Minogue ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=b72857986a9e4891b24cde3f93cbe13b)
 
 ### Robin Arzón
 
