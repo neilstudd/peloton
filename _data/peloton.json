@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-03-04 09:21 (UTC)",
+        "Timestamp": "2023-03-05 15:16 (UTC)",
         "Instructor": "Leanne Hainsby",
-        "Ride Name": "30 min Kylie Minogue Ride",
-        "Total Output": "445",
+        "Ride Name": "30 min 2000s Rock Ride",
+        "Total Output": "469",
         "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1372,
-            "Cycling": 916,
+            "Total": 1375,
+            "Cycling": 919,
             "Meditation": 312,
             "Walking": 76,
             "Running": 34,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 111,
-            "Cycling": 62,
+            "Total": 114,
+            "Cycling": 65,
             "Meditation": 19,
             "Running": 15,
             "Walking": 14,
@@ -52,7 +52,7 @@
         "Total": {
             "Sam Yo": 242,
             "Ross Rayburn": 163,
-            "Leanne Hainsby": 85,
+            "Leanne Hainsby": 86,
             "Bradley Rose": 80,
             "Ben Alldis": 79,
             "Kristin McGee": 58,
@@ -63,8 +63,8 @@
             "Hannah Corbin": 37,
             "Aditi Shah": 36,
             "Denis Morton": 35,
+            "Ally Love": 31,
             "Christine D'Ercole": 30,
-            "Ally Love": 29,
             "Anna Greenberg": 22,
             "Tunde Oyeneyin": 21,
             "Jenn Sherman": 20,
@@ -211,12 +211,13 @@
         },
         "2023": {
             "Ben Alldis": 13,
-            "Leanne Hainsby": 12,
+            "Leanne Hainsby": 13,
             "Ross Rayburn": 11,
             "Emma Lovewell": 6,
             "Jess King": 5,
             "Sam Yo": 5,
             "Susie Chan": 5,
+            "Ally Love": 4,
             "Bradley Rose": 4,
             "Hannah Corbin": 4,
             "Jon Hosking": 4,
@@ -225,7 +226,6 @@
             "Matt Wilpers": 3,
             "Robin Arzon": 3,
             "Aditi Shah": 2,
-            "Ally Love": 2,
             "Anna Greenberg": 2,
             "Jermaine Johnson": 2,
             "Joslyn Thompson Rule": 2,
@@ -244,7 +244,7 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 234,
-                "Leanne Hainsby": 85,
+                "Leanne Hainsby": 86,
                 "Bradley Rose": 80,
                 "Ben Alldis": 77,
                 "Matt Wilpers": 50,
@@ -253,8 +253,8 @@
                 "Cody Rigsby": 35,
                 "Robin Arzon": 35,
                 "Denis Morton": 32,
+                "Ally Love": 31,
                 "Christine D'Ercole": 30,
-                "Ally Love": 29,
                 "Tunde Oyeneyin": 20,
                 "Jenn Sherman": 19,
                 "Jess King": 19,
@@ -514,14 +514,14 @@
             },
             "Cycling": {
                 "Ben Alldis": 13,
-                "Leanne Hainsby": 12,
+                "Leanne Hainsby": 13,
                 "Emma Lovewell": 6,
                 "Sam Yo": 5,
+                "Ally Love": 4,
                 "Bradley Rose": 4,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
                 "Robin Arzon": 3,
-                "Ally Love": 2,
                 "Cody Rigsby": 2,
                 "Matt Wilpers": 2,
                 "Cody & Leanne ": 1,
@@ -552,8 +552,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21798,
-            "Cycling": 14745,
+            "Total": 21838,
+            "Cycling": 14785,
             "Meditation": 4455,
             "Walking": 1410,
             "Running": 773,
@@ -582,8 +582,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1515,
-            "Cycling": 840,
+            "Total": 1555,
+            "Cycling": 880,
             "Running": 290,
             "Meditation": 255,
             "Walking": 125,
@@ -1659,9 +1659,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5353.42",
+        "Total": "5368.24",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "352.61"
+        "2023": "367.43"
     }
 }
