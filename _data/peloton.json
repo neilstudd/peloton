@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-03-06 21:10 (UTC)",
-        "Instructor": "Cody Rigsby",
-        "Ride Name": "30 min Pop Ride",
-        "Total Output": "408",
+        "Timestamp": "2023-03-09 14:37 (UTC)",
+        "Instructor": "Ben Alldis",
+        "Ride Name": "30 min 90s Rock Ride",
+        "Total Output": "447",
         "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1377,
-            "Cycling": 921,
+            "Total": 1380,
+            "Cycling": 924,
             "Meditation": 312,
             "Walking": 76,
             "Running": 34,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 116,
-            "Cycling": 67,
+            "Total": 119,
+            "Cycling": 70,
             "Meditation": 19,
             "Running": 15,
             "Walking": 14,
@@ -50,11 +50,11 @@
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 242,
+            "Sam Yo": 243,
             "Ross Rayburn": 163,
             "Leanne Hainsby": 86,
+            "Ben Alldis": 81,
             "Bradley Rose": 80,
-            "Ben Alldis": 79,
             "Kristin McGee": 58,
             "Matt Wilpers": 53,
             "Cody Rigsby": 43,
@@ -210,13 +210,13 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ben Alldis": 13,
+            "Ben Alldis": 15,
             "Leanne Hainsby": 13,
             "Ross Rayburn": 11,
             "Emma Lovewell": 6,
+            "Sam Yo": 6,
             "Ally Love": 5,
             "Jess King": 5,
-            "Sam Yo": 5,
             "Susie Chan": 5,
             "Bradley Rose": 4,
             "Cody Rigsby": 4,
@@ -243,10 +243,10 @@
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 234,
+                "Sam Yo": 235,
                 "Leanne Hainsby": 86,
                 "Bradley Rose": 80,
-                "Ben Alldis": 77,
+                "Ben Alldis": 79,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 42,
                 "Hannah Corbin": 37,
@@ -513,11 +513,11 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 13,
+                "Ben Alldis": 15,
                 "Leanne Hainsby": 13,
                 "Emma Lovewell": 6,
+                "Sam Yo": 6,
                 "Ally Love": 5,
-                "Sam Yo": 5,
                 "Bradley Rose": 4,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
@@ -552,8 +552,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21873,
-            "Cycling": 14820,
+            "Total": 21913,
+            "Cycling": 14860,
             "Meditation": 4455,
             "Walking": 1410,
             "Running": 773,
@@ -582,8 +582,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1590,
-            "Cycling": 915,
+            "Total": 1630,
+            "Cycling": 955,
             "Running": 290,
             "Meditation": 255,
             "Walking": 125,
@@ -1659,9 +1659,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5380.90",
+        "Total": "5395.55",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "380.09"
+        "2023": "394.74"
     }
 }
