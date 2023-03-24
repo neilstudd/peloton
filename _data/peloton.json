@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1387,
+            "Total": 1390,
             "Cycling": 931,
             "Meditation": 312,
             "Walking": 76,
-            "Running": 34,
+            "Running": 37,
             "Stretching": 15,
             "Cardio": 13,
             "Strength": 4,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 126,
+            "Total": 129,
             "Cycling": 77,
             "Meditation": 19,
-            "Running": 15,
+            "Running": 18,
             "Walking": 14,
             "Stretching": 1
         }
@@ -74,11 +74,11 @@
             "Chelsea Jackson Roberts": 15,
             "Kendall Toole": 14,
             "Selena Samuela": 14,
-            "Jon Hosking": 11,
+            "Jon Hosking": 12,
             "Kirra Michel": 11,
             "Rebecca Kennedy": 11,
-            "Susie Chan": 9,
-            "Joslyn Thompson Rule": 8,
+            "Susie Chan": 10,
+            "Joslyn Thompson Rule": 9,
             "Hannah Frankson": 7,
             "Matty Maggiacomo": 6,
             "Andy Speer": 4,
@@ -216,19 +216,19 @@
             "Bradley Rose": 8,
             "Sam Yo": 7,
             "Emma Lovewell": 6,
+            "Susie Chan": 6,
             "Ally Love": 5,
             "Jess King": 5,
-            "Susie Chan": 5,
+            "Jon Hosking": 5,
             "Cody Rigsby": 4,
             "Hannah Corbin": 4,
-            "Jon Hosking": 4,
+            "Joslyn Thompson Rule": 3,
             "Kristin McGee": 3,
             "Matt Wilpers": 3,
             "Robin Arzon": 3,
             "Aditi Shah": 2,
             "Anna Greenberg": 2,
             "Jermaine Johnson": 2,
-            "Joslyn Thompson Rule": 2,
             "Selena Samuela": 2,
             "Andy Speer": 1,
             "Becs Gentry": 1,
@@ -342,15 +342,15 @@
                 "Multiple Instructors ": 1
             },
             "Running": {
-                "Susie Chan": 8,
-                "Jon Hosking": 4,
+                "Susie Chan": 9,
+                "Jon Hosking": 5,
+                "Joslyn Thompson Rule": 3,
                 "Matt Wilpers": 3,
                 "Rebecca Kennedy": 3,
                 "Robin Arzon": 3,
                 "Selena Samuela": 3,
                 "Becs Gentry": 2,
                 "Jermaine Johnson": 2,
-                "Joslyn Thompson Rule": 2,
                 "Matty Maggiacomo": 2,
                 "Andy Speer": 1
             }
@@ -539,12 +539,12 @@
                 "Matty Maggiacomo": 1
             },
             "Running": {
-                "Susie Chan": 5,
+                "Susie Chan": 6,
+                "Jon Hosking": 3,
                 "Jermaine Johnson": 2,
-                "Jon Hosking": 2,
+                "Joslyn Thompson Rule": 2,
                 "Selena Samuela": 2,
                 "Andy Speer": 1,
-                "Joslyn Thompson Rule": 1,
                 "Matt Wilpers": 1
             },
             "Stretching": {
@@ -554,11 +554,11 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 21993,
+            "Total": 22033,
             "Cycling": 14940,
             "Meditation": 4455,
             "Walking": 1410,
-            "Running": 773,
+            "Running": 813,
             "Cardio": 235,
             "Stretching": 90,
             "Yoga": 50,
@@ -584,9 +584,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1710,
+            "Total": 1750,
             "Cycling": 1035,
-            "Running": 290,
+            "Running": 330,
             "Meditation": 255,
             "Walking": 125,
             "Stretching": 5
