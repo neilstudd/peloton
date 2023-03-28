@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-03-24 15:32 (UTC)",
-        "Instructor": "Bradley Rose",
-        "Ride Name": "20 min 2000s Pop Ride",
-        "Total Output": "279",
-        "Length": "20",
+        "Timestamp": "2023-03-27 13:28 (+01)",
+        "Instructor": "Emma Lovewell",
+        "Ride Name": "Extra 10: Climb Ride",
+        "Total Output": "164",
+        "Length": "10",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1396,
-            "Cycling": 935,
+            "Total": 1400,
+            "Cycling": 939,
             "Meditation": 312,
             "Walking": 76,
             "Running": 39,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 135,
-            "Cycling": 81,
+            "Total": 139,
+            "Cycling": 85,
             "Running": 20,
             "Meditation": 19,
             "Walking": 14,
@@ -52,18 +52,18 @@
         "Total": {
             "Sam Yo": 245,
             "Ross Rayburn": 163,
+            "Bradley Rose": 87,
             "Leanne Hainsby": 87,
-            "Bradley Rose": 86,
             "Ben Alldis": 81,
             "Kristin McGee": 58,
             "Matt Wilpers": 53,
             "Cody Rigsby": 44,
-            "Emma Lovewell": 43,
+            "Emma Lovewell": 44,
             "Robin Arzon": 42,
             "Hannah Corbin": 37,
             "Aditi Shah": 36,
             "Denis Morton": 35,
-            "Ally Love": 32,
+            "Ally Love": 34,
             "Christine D'Ercole": 30,
             "Anna Greenberg": 22,
             "Tunde Oyeneyin": 21,
@@ -212,12 +212,12 @@
         "2023": {
             "Ben Alldis": 15,
             "Leanne Hainsby": 14,
+            "Bradley Rose": 11,
             "Ross Rayburn": 11,
-            "Bradley Rose": 10,
             "Sam Yo": 8,
+            "Ally Love": 7,
+            "Emma Lovewell": 7,
             "Susie Chan": 7,
-            "Emma Lovewell": 6,
-            "Ally Love": 5,
             "Cody Rigsby": 5,
             "Jess King": 5,
             "Jon Hosking": 5,
@@ -245,15 +245,15 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 237,
+                "Bradley Rose": 87,
                 "Leanne Hainsby": 87,
-                "Bradley Rose": 86,
                 "Ben Alldis": 79,
                 "Matt Wilpers": 50,
-                "Emma Lovewell": 42,
+                "Emma Lovewell": 43,
                 "Cody Rigsby": 37,
                 "Hannah Corbin": 37,
                 "Robin Arzon": 35,
-                "Ally Love": 32,
+                "Ally Love": 34,
                 "Denis Morton": 32,
                 "Christine D'Ercole": 30,
                 "Tunde Oyeneyin": 20,
@@ -516,10 +516,10 @@
             "Cycling": {
                 "Ben Alldis": 15,
                 "Leanne Hainsby": 14,
-                "Bradley Rose": 10,
+                "Bradley Rose": 11,
                 "Sam Yo": 8,
-                "Emma Lovewell": 6,
-                "Ally Love": 5,
+                "Ally Love": 7,
+                "Emma Lovewell": 7,
                 "Cody Rigsby": 4,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
@@ -555,8 +555,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22113,
-            "Cycling": 14985,
+            "Total": 22153,
+            "Cycling": 15025,
             "Meditation": 4455,
             "Walking": 1410,
             "Running": 848,
@@ -585,8 +585,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1830,
-            "Cycling": 1080,
+            "Total": 1870,
+            "Cycling": 1120,
             "Running": 365,
             "Meditation": 255,
             "Walking": 125,
@@ -1662,9 +1662,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5440.72",
+        "Total": "5455.50",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "439.91"
+        "2023": "454.69"
     }
 }
