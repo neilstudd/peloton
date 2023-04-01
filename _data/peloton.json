@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-03-27 13:28 (+01)",
-        "Instructor": "Emma Lovewell",
-        "Ride Name": "Extra 10: Climb Ride",
-        "Total Output": "164",
-        "Length": "10",
+        "Timestamp": "2023-03-31 08:02 (+01)",
+        "Instructor": "N\/A",
+        "Ride Name": "45 min Isafjordur Ride",
+        "Total Output": "501",
+        "Length": "45",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1400,
-            "Cycling": 939,
+            "Total": 1401,
+            "Cycling": 940,
             "Meditation": 312,
             "Walking": 76,
             "Running": 39,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 139,
-            "Cycling": 85,
+            "Total": 140,
+            "Cycling": 86,
             "Running": 20,
             "Meditation": 19,
             "Walking": 14,
@@ -1662,9 +1662,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5455.50",
+        "Total": "5471.03",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "454.69"
+        "2023": "470.22"
     }
 }
