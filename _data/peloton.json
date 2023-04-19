@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-03-31 08:02 (+01)",
-        "Instructor": "N\/A",
-        "Ride Name": "45 min Isafjordur Ride",
-        "Total Output": "501",
-        "Length": "45",
+        "Timestamp": "2023-04-18 16:05 (+01)",
+        "Instructor": "Ben Alldis",
+        "Ride Name": "15 min 2000s Ride",
+        "Total Output": "184",
+        "Length": "15",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1404,
-            "Cycling": 940,
+            "Total": 1407,
+            "Cycling": 943,
             "Meditation": 312,
             "Walking": 76,
             "Running": 42,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 143,
-            "Cycling": 86,
+            "Total": 146,
+            "Cycling": 89,
             "Running": 23,
             "Meditation": 19,
             "Walking": 14,
@@ -52,9 +52,9 @@
         "Total": {
             "Sam Yo": 245,
             "Ross Rayburn": 163,
-            "Bradley Rose": 87,
+            "Bradley Rose": 88,
             "Leanne Hainsby": 87,
-            "Ben Alldis": 81,
+            "Ben Alldis": 82,
             "Kristin McGee": 58,
             "Matt Wilpers": 53,
             "Cody Rigsby": 44,
@@ -72,8 +72,8 @@
             "Olivia Amato": 17,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
+            "Kendall Toole": 15,
             "Jon Hosking": 14,
-            "Kendall Toole": 14,
             "Selena Samuela": 14,
             "Susie Chan": 12,
             "Kirra Michel": 11,
@@ -210,9 +210,9 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ben Alldis": 15,
+            "Ben Alldis": 16,
             "Leanne Hainsby": 14,
-            "Bradley Rose": 11,
+            "Bradley Rose": 12,
             "Ross Rayburn": 11,
             "Sam Yo": 8,
             "Susie Chan": 8,
@@ -235,6 +235,7 @@
             "Camila Ramon": 1,
             "Cody & Leanne ": 1,
             "Erik Jager": 1,
+            "Kendall Toole": 1,
             "Kirra Michel": 1,
             "Kirsten Ferguson": 1,
             "Matty Maggiacomo": 1,
@@ -245,9 +246,9 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 237,
-                "Bradley Rose": 87,
+                "Bradley Rose": 88,
                 "Leanne Hainsby": 87,
-                "Ben Alldis": 79,
+                "Ben Alldis": 80,
                 "Matt Wilpers": 50,
                 "Emma Lovewell": 43,
                 "Cody Rigsby": 37,
@@ -261,7 +262,7 @@
                 "Jess King": 19,
                 "Alex Toussaint": 15,
                 "Olivia Amato": 15,
-                "Kendall Toole": 8,
+                "Kendall Toole": 9,
                 "Hannah Frankson": 7,
                 "Camila Ramon": 4,
                 "Cliff Dwenger": 2,
@@ -514,9 +515,9 @@
                 "Kirra Michel": 1
             },
             "Cycling": {
-                "Ben Alldis": 15,
+                "Ben Alldis": 16,
                 "Leanne Hainsby": 14,
-                "Bradley Rose": 11,
+                "Bradley Rose": 12,
                 "Sam Yo": 8,
                 "Ally Love": 7,
                 "Emma Lovewell": 7,
@@ -528,6 +529,7 @@
                 "Camila Ramon": 1,
                 "Cody & Leanne ": 1,
                 "Erik Jager": 1,
+                "Kendall Toole": 1,
                 "Tunde Oyeneyin": 1
             },
             "Walking": {
@@ -555,8 +557,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22203,
-            "Cycling": 15025,
+            "Total": 22243,
+            "Cycling": 15065,
             "Meditation": 4455,
             "Walking": 1410,
             "Running": 898,
@@ -585,8 +587,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 1920,
-            "Cycling": 1120,
+            "Total": 1960,
+            "Cycling": 1160,
             "Running": 415,
             "Meditation": 255,
             "Walking": 125,
@@ -1662,9 +1664,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5471.03",
+        "Total": "5485.22",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "470.22"
+        "2023": "484.41"
     }
 }
