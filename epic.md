@@ -58,3 +58,4 @@ Some of the very best, most memorable Peloton rides!
 
 * [20min Bon Jovi ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=0241df5194f4410e8294df74cf461359)
 * [30min 90s Pop Ride](https://members.onepeloton.co.uk/classes/cycling?modal=classDetailsModal&classId=5bbff7c4baed45eaa7d6addeb7a5a196)
+* [30min Star Wars Ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=39162e2ec967425ab9cf9b6b93ea6c98)
