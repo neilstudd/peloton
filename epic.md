@@ -36,6 +36,7 @@ Some of the very best, most memorable Peloton rides!
 ### Emma Lovewell
 
 * [45min Red Hot Chili Peppers ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=5f36d83d2cb64fe795c5de9a4903616b)
+* [30min Yeah Yeah Yeahs ride](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=f664a0578c664754a359a25751aab667)
 
 ### Erik Jäger
 
