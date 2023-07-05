@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1439,
+            "Total": 1442,
             "Cycling": 949,
-            "Meditation": 334,
-            "Walking": 76,
+            "Meditation": 335,
+            "Walking": 78,
             "Running": 46,
             "Stretching": 15,
             "Cardio": 13,
@@ -40,18 +40,18 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 178,
+            "Total": 181,
             "Cycling": 95,
-            "Meditation": 41,
+            "Meditation": 42,
             "Running": 27,
-            "Walking": 14,
+            "Walking": 16,
             "Stretching": 1
         }
     },
     "byInstructor": {
         "Total": {
             "Sam Yo": 246,
-            "Ross Rayburn": 179,
+            "Ross Rayburn": 180,
             "Bradley Rose": 88,
             "Leanne Hainsby": 87,
             "Ben Alldis": 83,
@@ -78,17 +78,17 @@
             "Selena Samuela": 14,
             "Kirra Michel": 13,
             "Rebecca Kennedy": 11,
-            "Joslyn Thompson Rule": 9,
+            "Joslyn Thompson Rule": 10,
             "Hannah Frankson": 7,
             "Matty Maggiacomo": 6,
             "Andy Speer": 4,
             "Becs Gentry": 4,
             "Camila Ramon": 4,
+            "Jermaine Johnson": 3,
             "Kirsten Ferguson": 3,
             "Rad Lopez": 3,
             "Cliff Dwenger": 2,
             "Erik Jager": 2,
-            "Jermaine Johnson": 2,
             "Jess Sims": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
@@ -211,7 +211,7 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 27,
+            "Ross Rayburn": 28,
             "Ben Alldis": 17,
             "Leanne Hainsby": 14,
             "Bradley Rose": 12,
@@ -225,12 +225,12 @@
             "Kristin McGee": 5,
             "Aditi Shah": 4,
             "Hannah Corbin": 4,
+            "Joslyn Thompson Rule": 4,
             "Matt Wilpers": 4,
             "Robin Arzon": 4,
-            "Joslyn Thompson Rule": 3,
+            "Jermaine Johnson": 3,
             "Kirra Michel": 3,
             "Anna Greenberg": 2,
-            "Jermaine Johnson": 2,
             "Selena Samuela": 2,
             "Andy Speer": 1,
             "Becs Gentry": 1,
@@ -292,7 +292,7 @@
             },
             "Walking": {
                 "Rebecca Kennedy": 8,
-                "Joslyn Thompson Rule": 6,
+                "Joslyn Thompson Rule": 7,
                 "Selena Samuela": 6,
                 "Jon Hosking": 5,
                 "Matty Maggiacomo": 4,
@@ -305,6 +305,7 @@
                 "Adrian Williams": 1,
                 "Becs & Tunde ": 1,
                 "Chase Tucker": 1,
+                "Jermaine Johnson": 1,
                 "Jess & Tunde ": 1,
                 "Jess King": 1,
                 "Jess Sims": 1,
@@ -328,7 +329,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 179,
+                "Ross Rayburn": 180,
                 "Kristin McGee": 60,
                 "Aditi Shah": 38,
                 "Anna Greenberg": 21,
@@ -512,7 +513,7 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 27,
+                "Ross Rayburn": 28,
                 "Kristin McGee": 5,
                 "Aditi Shah": 4,
                 "Kirra Michel": 3,
@@ -539,9 +540,10 @@
             },
             "Walking": {
                 "Jon Hosking": 2,
+                "Joslyn Thompson Rule": 2,
                 "Becs Gentry": 1,
+                "Jermaine Johnson": 1,
                 "Jess King": 1,
-                "Joslyn Thompson Rule": 1,
                 "Kirsten Ferguson": 1,
                 "Matty Maggiacomo": 1
             },
@@ -563,10 +565,10 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22778,
+            "Total": 22828,
             "Cycling": 15145,
-            "Meditation": 4835,
-            "Walking": 1410,
+            "Meditation": 4850,
+            "Walking": 1445,
             "Running": 973,
             "Cardio": 235,
             "Stretching": 90,
@@ -593,11 +595,11 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2495,
+            "Total": 2545,
             "Cycling": 1240,
-            "Meditation": 635,
+            "Meditation": 650,
             "Running": 490,
-            "Walking": 125,
+            "Walking": 160,
             "Stretching": 5
         }
     },
