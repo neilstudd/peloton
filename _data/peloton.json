@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1446,
+            "Total": 1449,
             "Cycling": 949,
             "Meditation": 339,
             "Walking": 78,
-            "Running": 46,
+            "Running": 49,
             "Stretching": 15,
             "Cardio": 13,
             "Strength": 4,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 185,
+            "Total": 188,
             "Cycling": 95,
             "Meditation": 46,
-            "Running": 27,
+            "Running": 30,
             "Walking": 16,
             "Stretching": 1
         }
@@ -70,11 +70,11 @@
             "Tunde Oyeneyin": 21,
             "Jess King": 20,
             "Olivia Amato": 17,
+            "Jon Hosking": 16,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
             "Kendall Toole": 15,
             "Susie Chan": 15,
-            "Jon Hosking": 14,
             "Kirra Michel": 14,
             "Selena Samuela": 14,
             "Rebecca Kennedy": 11,
@@ -90,6 +90,7 @@
             "Cliff Dwenger": 2,
             "Erik Jager": 2,
             "Jess Sims": 2,
+            "Mariana Fernandez": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
             "Alex & Tunde  ": 1,
@@ -106,7 +107,6 @@
             "Kirsten & Tunde ": 1,
             "Marcel & Tunde ": 1,
             "Marcel Dinkins": 1,
-            "Mariana Fernandez": 1,
             "Matt & Tunde ": 1,
             "Matty & Tunde ": 1,
             "Mayla Wedekind": 1,
@@ -216,10 +216,10 @@
             "Leanne Hainsby": 14,
             "Bradley Rose": 12,
             "Susie Chan": 11,
+            "Jon Hosking": 9,
             "Sam Yo": 9,
             "Ally Love": 8,
             "Emma Lovewell": 8,
-            "Jon Hosking": 7,
             "Cody Rigsby": 5,
             "Jess King": 5,
             "Kristin McGee": 5,
@@ -241,6 +241,7 @@
             "Jenn Sherman": 1,
             "Kendall Toole": 1,
             "Kirsten Ferguson": 1,
+            "Mariana Fernandez": 1,
             "Matty Maggiacomo": 1,
             "Tunde Oyeneyin": 1
         }
@@ -348,7 +349,7 @@
             },
             "Running": {
                 "Susie Chan": 14,
-                "Jon Hosking": 7,
+                "Jon Hosking": 9,
                 "Robin Arzon": 4,
                 "Joslyn Thompson Rule": 3,
                 "Matt Wilpers": 3,
@@ -358,7 +359,8 @@
                 "Jermaine Johnson": 2,
                 "Matty Maggiacomo": 2,
                 "Andy Speer": 1,
-                "Jeffrey McEachern": 1
+                "Jeffrey McEachern": 1,
+                "Mariana Fernandez": 1
             }
         },
         "2021": {
@@ -549,12 +551,13 @@
             },
             "Running": {
                 "Susie Chan": 11,
-                "Jon Hosking": 5,
+                "Jon Hosking": 7,
                 "Jermaine Johnson": 2,
                 "Joslyn Thompson Rule": 2,
                 "Selena Samuela": 2,
                 "Andy Speer": 1,
                 "Jeffrey McEachern": 1,
+                "Mariana Fernandez": 1,
                 "Matt Wilpers": 1,
                 "Robin Arzon": 1
             },
@@ -565,11 +568,11 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22893,
+            "Total": 22923,
             "Cycling": 15145,
             "Meditation": 4915,
             "Walking": 1445,
-            "Running": 973,
+            "Running": 1003,
             "Cardio": 235,
             "Stretching": 90,
             "Yoga": 50,
@@ -595,10 +598,10 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2610,
+            "Total": 2640,
             "Cycling": 1240,
             "Meditation": 715,
-            "Running": 490,
+            "Running": 520,
             "Walking": 160,
             "Stretching": 5
         }
