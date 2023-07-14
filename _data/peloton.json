@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1449,
+            "Total": 1451,
             "Cycling": 949,
-            "Meditation": 339,
+            "Meditation": 340,
             "Walking": 78,
-            "Running": 49,
+            "Running": 50,
             "Stretching": 15,
             "Cardio": 13,
             "Strength": 4,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 188,
+            "Total": 190,
             "Cycling": 95,
-            "Meditation": 46,
-            "Running": 30,
+            "Meditation": 47,
+            "Running": 31,
             "Walking": 16,
             "Stretching": 1
         }
@@ -51,7 +51,7 @@
     "byInstructor": {
         "Total": {
             "Sam Yo": 246,
-            "Ross Rayburn": 183,
+            "Ross Rayburn": 184,
             "Bradley Rose": 88,
             "Leanne Hainsby": 87,
             "Ben Alldis": 83,
@@ -90,6 +90,7 @@
             "Cliff Dwenger": 2,
             "Erik Jager": 2,
             "Jess Sims": 2,
+            "Marcel Dinkins": 2,
             "Mariana Fernandez": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
@@ -106,7 +107,6 @@
             "Jess & Tunde ": 1,
             "Kirsten & Tunde ": 1,
             "Marcel & Tunde ": 1,
-            "Marcel Dinkins": 1,
             "Matt & Tunde ": 1,
             "Matty & Tunde ": 1,
             "Mayla Wedekind": 1,
@@ -211,7 +211,7 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 31,
+            "Ross Rayburn": 32,
             "Ben Alldis": 17,
             "Leanne Hainsby": 14,
             "Bradley Rose": 12,
@@ -241,6 +241,7 @@
             "Jenn Sherman": 1,
             "Kendall Toole": 1,
             "Kirsten Ferguson": 1,
+            "Marcel Dinkins": 1,
             "Mariana Fernandez": 1,
             "Matty Maggiacomo": 1,
             "Tunde Oyeneyin": 1
@@ -330,7 +331,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 183,
+                "Ross Rayburn": 184,
                 "Kristin McGee": 60,
                 "Aditi Shah": 38,
                 "Anna Greenberg": 21,
@@ -360,6 +361,7 @@
                 "Matty Maggiacomo": 2,
                 "Andy Speer": 1,
                 "Jeffrey McEachern": 1,
+                "Marcel Dinkins": 1,
                 "Mariana Fernandez": 1
             }
         },
@@ -515,7 +517,7 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 31,
+                "Ross Rayburn": 32,
                 "Kristin McGee": 5,
                 "Aditi Shah": 4,
                 "Kirra Michel": 4,
@@ -557,6 +559,7 @@
                 "Selena Samuela": 2,
                 "Andy Speer": 1,
                 "Jeffrey McEachern": 1,
+                "Marcel Dinkins": 1,
                 "Mariana Fernandez": 1,
                 "Matt Wilpers": 1,
                 "Robin Arzon": 1
@@ -568,11 +571,11 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22923,
+            "Total": 22968,
             "Cycling": 15145,
-            "Meditation": 4915,
+            "Meditation": 4930,
             "Walking": 1445,
-            "Running": 1003,
+            "Running": 1033,
             "Cardio": 235,
             "Stretching": 90,
             "Yoga": 50,
@@ -598,10 +601,10 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2640,
+            "Total": 2685,
             "Cycling": 1240,
-            "Meditation": 715,
-            "Running": 520,
+            "Meditation": 730,
+            "Running": 550,
             "Walking": 160,
             "Stretching": 5
         }
