@@ -10,11 +10,11 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1451,
+            "Total": 1453,
             "Cycling": 949,
             "Meditation": 340,
             "Walking": 78,
-            "Running": 50,
+            "Running": 52,
             "Stretching": 15,
             "Cardio": 13,
             "Strength": 4,
@@ -40,10 +40,10 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 190,
+            "Total": 192,
             "Cycling": 95,
             "Meditation": 47,
-            "Running": 31,
+            "Running": 33,
             "Walking": 16,
             "Stretching": 1
         }
@@ -70,11 +70,11 @@
             "Tunde Oyeneyin": 21,
             "Jess King": 20,
             "Olivia Amato": 17,
+            "Susie Chan": 17,
             "Jon Hosking": 16,
             "Alex Toussaint": 15,
             "Chelsea Jackson Roberts": 15,
             "Kendall Toole": 15,
-            "Susie Chan": 15,
             "Kirra Michel": 14,
             "Selena Samuela": 14,
             "Rebecca Kennedy": 11,
@@ -214,8 +214,8 @@
             "Ross Rayburn": 32,
             "Ben Alldis": 17,
             "Leanne Hainsby": 14,
+            "Susie Chan": 13,
             "Bradley Rose": 12,
-            "Susie Chan": 11,
             "Jon Hosking": 9,
             "Sam Yo": 9,
             "Ally Love": 8,
@@ -349,7 +349,7 @@
                 "Multiple Instructors ": 1
             },
             "Running": {
-                "Susie Chan": 14,
+                "Susie Chan": 16,
                 "Jon Hosking": 9,
                 "Robin Arzon": 4,
                 "Joslyn Thompson Rule": 3,
@@ -552,7 +552,7 @@
                 "Matty Maggiacomo": 1
             },
             "Running": {
-                "Susie Chan": 11,
+                "Susie Chan": 13,
                 "Jon Hosking": 7,
                 "Jermaine Johnson": 2,
                 "Joslyn Thompson Rule": 2,
@@ -571,11 +571,11 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22968,
+            "Total": 22993,
             "Cycling": 15145,
             "Meditation": 4930,
             "Walking": 1445,
-            "Running": 1033,
+            "Running": 1058,
             "Cardio": 235,
             "Stretching": 90,
             "Yoga": 50,
@@ -601,10 +601,10 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2685,
+            "Total": 2710,
             "Cycling": 1240,
             "Meditation": 730,
-            "Running": 550,
+            "Running": 575,
             "Walking": 160,
             "Stretching": 5
         }
