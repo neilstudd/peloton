@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-05-18 22:07 (+01)",
-        "Instructor": "Emma Lovewell",
-        "Ride Name": "30 min Yeah Yeah Yeahs Ride",
-        "Total Output": "410",
-        "Length": "30",
+        "Timestamp": "2023-07-16 20:13 (+01)",
+        "Instructor": "Sam Yo",
+        "Ride Name": "15 min Pop Ride",
+        "Total Output": "166",
+        "Length": "15",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1453,
-            "Cycling": 949,
-            "Meditation": 340,
+            "Total": 1458,
+            "Cycling": 953,
+            "Meditation": 341,
             "Walking": 78,
             "Running": 52,
             "Stretching": 15,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 192,
-            "Cycling": 95,
-            "Meditation": 47,
+            "Total": 197,
+            "Cycling": 99,
+            "Meditation": 48,
             "Running": 33,
             "Walking": 16,
             "Stretching": 1
@@ -50,8 +50,8 @@
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 246,
-            "Ross Rayburn": 184,
+            "Sam Yo": 248,
+            "Ross Rayburn": 185,
             "Bradley Rose": 88,
             "Leanne Hainsby": 87,
             "Ben Alldis": 83,
@@ -65,9 +65,9 @@
             "Ally Love": 35,
             "Denis Morton": 35,
             "Christine D'Ercole": 30,
+            "Tunde Oyeneyin": 23,
             "Anna Greenberg": 22,
             "Jenn Sherman": 21,
-            "Tunde Oyeneyin": 21,
             "Jess King": 20,
             "Olivia Amato": 17,
             "Susie Chan": 17,
@@ -211,13 +211,13 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 32,
+            "Ross Rayburn": 33,
             "Ben Alldis": 17,
             "Leanne Hainsby": 14,
             "Susie Chan": 13,
             "Bradley Rose": 12,
+            "Sam Yo": 11,
             "Jon Hosking": 9,
-            "Sam Yo": 9,
             "Ally Love": 8,
             "Emma Lovewell": 8,
             "Cody Rigsby": 5,
@@ -230,6 +230,7 @@
             "Matt Wilpers": 4,
             "Robin Arzon": 4,
             "Jermaine Johnson": 3,
+            "Tunde Oyeneyin": 3,
             "Anna Greenberg": 2,
             "Selena Samuela": 2,
             "Andy Speer": 1,
@@ -243,14 +244,13 @@
             "Kirsten Ferguson": 1,
             "Marcel Dinkins": 1,
             "Mariana Fernandez": 1,
-            "Matty Maggiacomo": 1,
-            "Tunde Oyeneyin": 1
+            "Matty Maggiacomo": 1
         }
     },
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 238,
+                "Sam Yo": 240,
                 "Bradley Rose": 88,
                 "Leanne Hainsby": 87,
                 "Ben Alldis": 81,
@@ -262,8 +262,8 @@
                 "Robin Arzon": 35,
                 "Denis Morton": 32,
                 "Christine D'Ercole": 30,
+                "Tunde Oyeneyin": 22,
                 "Jenn Sherman": 20,
-                "Tunde Oyeneyin": 20,
                 "Jess King": 19,
                 "Alex Toussaint": 15,
                 "Olivia Amato": 15,
@@ -331,7 +331,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 184,
+                "Ross Rayburn": 185,
                 "Kristin McGee": 60,
                 "Aditi Shah": 38,
                 "Anna Greenberg": 21,
@@ -517,7 +517,7 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 32,
+                "Ross Rayburn": 33,
                 "Kristin McGee": 5,
                 "Aditi Shah": 4,
                 "Kirra Michel": 4,
@@ -527,7 +527,7 @@
                 "Ben Alldis": 17,
                 "Leanne Hainsby": 14,
                 "Bradley Rose": 12,
-                "Sam Yo": 9,
+                "Sam Yo": 11,
                 "Ally Love": 8,
                 "Emma Lovewell": 8,
                 "Cody Rigsby": 4,
@@ -535,12 +535,12 @@
                 "Jess King": 4,
                 "Matt Wilpers": 3,
                 "Robin Arzon": 3,
+                "Tunde Oyeneyin": 3,
                 "Camila Ramon": 1,
                 "Cody & Leanne ": 1,
                 "Erik Jager": 1,
                 "Jenn Sherman": 1,
-                "Kendall Toole": 1,
-                "Tunde Oyeneyin": 1
+                "Kendall Toole": 1
             },
             "Walking": {
                 "Jon Hosking": 2,
@@ -571,9 +571,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 22993,
-            "Cycling": 15145,
-            "Meditation": 4930,
+            "Total": 23063,
+            "Cycling": 15200,
+            "Meditation": 4945,
             "Walking": 1445,
             "Running": 1058,
             "Cardio": 235,
@@ -601,9 +601,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2710,
-            "Cycling": 1240,
-            "Meditation": 730,
+            "Total": 2780,
+            "Cycling": 1295,
+            "Meditation": 745,
             "Running": 575,
             "Walking": 160,
             "Stretching": 5
@@ -1678,9 +1678,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5513.63",
+        "Total": "5531.91",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "512.82"
+        "2023": "531.10"
     }
 }
