@@ -10,10 +10,10 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1463,
+            "Total": 1464,
             "Cycling": 953,
             "Meditation": 344,
-            "Walking": 78,
+            "Walking": 79,
             "Running": 54,
             "Stretching": 15,
             "Cardio": 13,
@@ -40,11 +40,11 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 202,
+            "Total": 203,
             "Cycling": 99,
             "Meditation": 51,
             "Running": 35,
-            "Walking": 16,
+            "Walking": 17,
             "Stretching": 1
         }
     },
@@ -80,7 +80,7 @@
             "Rebecca Kennedy": 11,
             "Joslyn Thompson Rule": 10,
             "Hannah Frankson": 7,
-            "Matty Maggiacomo": 6,
+            "Matty Maggiacomo": 7,
             "Andy Speer": 4,
             "Becs Gentry": 4,
             "Camila Ramon": 4,
@@ -232,6 +232,7 @@
             "Jermaine Johnson": 3,
             "Tunde Oyeneyin": 3,
             "Anna Greenberg": 2,
+            "Matty Maggiacomo": 2,
             "Selena Samuela": 2,
             "Andy Speer": 1,
             "Becs Gentry": 1,
@@ -244,8 +245,7 @@
             "Kendall Toole": 1,
             "Kirsten Ferguson": 1,
             "Marcel Dinkins": 1,
-            "Mariana Fernandez": 1,
-            "Matty Maggiacomo": 1
+            "Mariana Fernandez": 1
         }
     },
     "byInstructorAndDiscipline": {
@@ -298,7 +298,7 @@
                 "Joslyn Thompson Rule": 7,
                 "Selena Samuela": 6,
                 "Jon Hosking": 5,
-                "Matty Maggiacomo": 4,
+                "Matty Maggiacomo": 5,
                 "Andy Speer": 3,
                 "Kirsten Ferguson": 3,
                 "Robin Arzon": 3,
@@ -547,11 +547,11 @@
             "Walking": {
                 "Jon Hosking": 2,
                 "Joslyn Thompson Rule": 2,
+                "Matty Maggiacomo": 2,
                 "Becs Gentry": 1,
                 "Jermaine Johnson": 1,
                 "Jess King": 1,
-                "Kirsten Ferguson": 1,
-                "Matty Maggiacomo": 1
+                "Kirsten Ferguson": 1
             },
             "Running": {
                 "Susie Chan": 14,
@@ -574,10 +574,10 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23153,
+            "Total": 23183,
             "Cycling": 15200,
             "Meditation": 4995,
-            "Walking": 1445,
+            "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
             "Stretching": 90,
@@ -604,11 +604,11 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2870,
+            "Total": 2900,
             "Cycling": 1295,
             "Meditation": 795,
             "Running": 615,
-            "Walking": 160,
+            "Walking": 190,
             "Stretching": 5
         }
     },
