@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-07-16 20:13 (+01)",
-        "Instructor": "Sam Yo",
-        "Ride Name": "15 min Pop Ride",
-        "Total Output": "166",
-        "Length": "15",
+        "Timestamp": "2023-07-25 13:17 (+01)",
+        "Instructor": "Robin Arzon",
+        "Ride Name": "30 min SIX: the Musical Ride",
+        "Total Output": "419",
+        "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1464,
-            "Cycling": 953,
-            "Meditation": 344,
+            "Total": 1467,
+            "Cycling": 955,
+            "Meditation": 345,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 203,
-            "Cycling": 99,
-            "Meditation": 51,
+            "Total": 206,
+            "Cycling": 101,
+            "Meditation": 52,
             "Running": 35,
             "Walking": 17,
             "Stretching": 1
@@ -50,8 +50,8 @@
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 248,
-            "Ross Rayburn": 188,
+            "Sam Yo": 249,
+            "Ross Rayburn": 189,
             "Bradley Rose": 88,
             "Leanne Hainsby": 87,
             "Ben Alldis": 83,
@@ -59,7 +59,7 @@
             "Matt Wilpers": 54,
             "Emma Lovewell": 45,
             "Cody Rigsby": 44,
-            "Robin Arzon": 42,
+            "Robin Arzon": 43,
             "Aditi Shah": 38,
             "Hannah Corbin": 37,
             "Ally Love": 35,
@@ -211,24 +211,24 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 36,
+            "Ross Rayburn": 37,
             "Ben Alldis": 17,
             "Leanne Hainsby": 14,
             "Susie Chan": 14,
             "Bradley Rose": 12,
-            "Sam Yo": 11,
+            "Sam Yo": 12,
             "Jon Hosking": 9,
             "Ally Love": 8,
             "Emma Lovewell": 8,
             "Cody Rigsby": 5,
             "Jess King": 5,
             "Kristin McGee": 5,
+            "Robin Arzon": 5,
             "Aditi Shah": 4,
             "Hannah Corbin": 4,
             "Joslyn Thompson Rule": 4,
             "Kirra Michel": 4,
             "Matt Wilpers": 4,
-            "Robin Arzon": 4,
             "Jermaine Johnson": 3,
             "Tunde Oyeneyin": 3,
             "Anna Greenberg": 2,
@@ -251,7 +251,7 @@
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 240,
+                "Sam Yo": 241,
                 "Bradley Rose": 88,
                 "Leanne Hainsby": 87,
                 "Ben Alldis": 81,
@@ -259,8 +259,8 @@
                 "Emma Lovewell": 44,
                 "Cody Rigsby": 37,
                 "Hannah Corbin": 37,
+                "Robin Arzon": 36,
                 "Ally Love": 35,
-                "Robin Arzon": 35,
                 "Denis Morton": 32,
                 "Christine D'Ercole": 30,
                 "Tunde Oyeneyin": 22,
@@ -332,7 +332,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 188,
+                "Ross Rayburn": 189,
                 "Kristin McGee": 60,
                 "Aditi Shah": 38,
                 "Anna Greenberg": 21,
@@ -519,7 +519,7 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 36,
+                "Ross Rayburn": 37,
                 "Kristin McGee": 5,
                 "Aditi Shah": 4,
                 "Kirra Michel": 4,
@@ -529,14 +529,14 @@
                 "Ben Alldis": 17,
                 "Leanne Hainsby": 14,
                 "Bradley Rose": 12,
-                "Sam Yo": 11,
+                "Sam Yo": 12,
                 "Ally Love": 8,
                 "Emma Lovewell": 8,
                 "Cody Rigsby": 4,
                 "Hannah Corbin": 4,
                 "Jess King": 4,
+                "Robin Arzon": 4,
                 "Matt Wilpers": 3,
-                "Robin Arzon": 3,
                 "Tunde Oyeneyin": 3,
                 "Camila Ramon": 1,
                 "Cody & Leanne ": 1,
@@ -574,9 +574,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23183,
-            "Cycling": 15200,
-            "Meditation": 4995,
+            "Total": 23228,
+            "Cycling": 15235,
+            "Meditation": 5005,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -604,9 +604,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 2900,
-            "Cycling": 1295,
-            "Meditation": 795,
+            "Total": 2945,
+            "Cycling": 1330,
+            "Meditation": 805,
             "Running": 615,
             "Walking": 190,
             "Stretching": 5
@@ -1681,9 +1681,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5531.91",
+        "Total": "5544.54",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "531.10"
+        "2023": "543.73"
     }
 }
