@@ -9,11 +9,14 @@ $opts = array(
   )
 );
 
+$thisYear = date("Y");
+
 $context = stream_context_create($opts);
 $result = file_get_contents('https://api.onepeloton.com/auth/login', false, $context);
 $jsonified = json_decode($result, true);
 $userId = $jsonified['user_id'];
 $cookies = array();
+
 foreach ($http_response_header as $hdr) {
     if (preg_match('/^Set-Cookie:\s*([^;]+)/', $hdr, $matches)) {
         parse_str($matches[1], $tmp);
@@ -41,6 +44,7 @@ $workoutData["byInstructor"] = array();
 $workoutData["byInstructorAndDiscipline"] = array();
 $workoutData["byTimeAndDiscipline"] = array();
 $workoutData["PBs"] = array();
+$workoutData["thisYearsPBs"] = array("5" => array(), "10" => array(), "15" => array(), "20" => array(), "30" => array(), "45" => array(), "60" => array(), "75" => array(), "90" => array());
 $workoutData["distanceCycled"] = array();
 $records = array();
 $progressions = array();
@@ -63,6 +67,7 @@ foreach($rows as $row) {
 		$workoutData["byTimeAndDiscipline"][$year]["Total"] = ($workoutData["byTimeAndDiscipline"][$year]["Total"] ?? 0) + (int)$row[3];
 		$workoutData["byTimeAndDiscipline"]["Total"][$discipline] = ($workoutData["byTimeAndDiscipline"]["Total"][$discipline] ?? 0) + (int)$row[3];
 		$workoutData["byTimeAndDiscipline"][$year][$discipline] = ($workoutData["byTimeAndDiscipline"][$year][$discipline] ?? 0) + (int)$row[3];
+
 	}
 
 	if($discipline == "Cycling") {
@@ -77,11 +82,18 @@ foreach($rows as $row) {
 		$workoutData["distanceCycled"][$year] = ($workoutData["distanceCycled"][$year] ?? 0) + $row[13];
 	}
 
-	// PB check
 	if(array_key_exists($row[3],$records) && $records[$row[3]]!= null) {
+		// All-time PB check
 		if(intval($row[8]) > intval($records[$row[3]]["Total Output"])) {
 			$records[$row[3]] = $thisWorkout;
 			array_push($progressions[$row[3]], $thisWorkout);
+		}
+
+		// This year's PB check
+		if($year == $thisYear) {
+			if(intval($row[8]) > intval($workoutData["thisYearsPBs"][$row[3]]["Total Output"])) {
+				$workoutData["thisYearsPBs"][$row[3]] = $thisWorkout;
+			}
 		}
 	} else {
 		$records[$row[3]] = $thisWorkout;
