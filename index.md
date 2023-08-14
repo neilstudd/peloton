@@ -99,6 +99,24 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 </tr>
 </table>
 
+## This Year's Cycling PBs
+<table>
+<tr><th>Length</th><th>Date</th><th>Class</th><th>Output</th></tr>
+{% for distance in site.data.peloton.thisYearsPBs %}
+    {% if distance[1]['Total Output'] %}
+        <tr><td><strong>{{ distance[0] }}min</strong></td>
+        <td>{{ distance[1].Timestamp | date: "%d/%m/%y" }}</td>
+        <td>{{ distance[1]['Ride Name'] }} with {{ distance[1].Instructor }}</td>
+        <td>{{ distance[1]['Total Output'] }}kJ
+        {% capture duration ~%}{{ distance[0] }}{% endcapture ~%}
+        {% if distance[1]['Timestamp'] == site.data.peloton.PBs[duration].Timestamp %}
+            <span class="highlight">🥇 PB</span>
+        {% endif %}        
+        </td></tr>
+    {% endif %}
+{% endfor %}
+</table>
+
 ## Personal Bests by Class Length
 {% for distance in site.data.peloton.PBs %}
 {% assign avgPerMin = distance[1]['Total Output'] | plus: 0.0 | divided_by: distance[0] | round: 1 %}
