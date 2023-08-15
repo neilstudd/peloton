@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-08-14 07:24 (+01)",
-        "Instructor": "Sam Yo",
-        "Ride Name": "20 min Pop Ride",
-        "Total Output": "220",
+        "Timestamp": "2023-08-15 16:47 (+01)",
+        "Instructor": "Bradley Rose",
+        "Ride Name": "20 min 90s Ride",
+        "Total Output": "228",
         "Length": "20",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1473,
-            "Cycling": 958,
+            "Total": 1476,
+            "Cycling": 961,
             "Meditation": 348,
             "Walking": 79,
             "Running": 54,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 212,
-            "Cycling": 104,
+            "Total": 215,
+            "Cycling": 107,
             "Meditation": 55,
             "Running": 35,
             "Walking": 17,
@@ -52,7 +52,7 @@
         "Total": {
             "Sam Yo": 250,
             "Ross Rayburn": 192,
-            "Bradley Rose": 88,
+            "Bradley Rose": 91,
             "Leanne Hainsby": 88,
             "Ben Alldis": 83,
             "Kristin McGee": 60,
@@ -213,10 +213,10 @@
         "2023": {
             "Ross Rayburn": 40,
             "Ben Alldis": 17,
+            "Bradley Rose": 15,
             "Leanne Hainsby": 15,
             "Susie Chan": 14,
             "Sam Yo": 13,
-            "Bradley Rose": 12,
             "Jon Hosking": 9,
             "Ally Love": 8,
             "Emma Lovewell": 8,
@@ -253,7 +253,7 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 242,
-                "Bradley Rose": 88,
+                "Bradley Rose": 91,
                 "Leanne Hainsby": 88,
                 "Ben Alldis": 81,
                 "Matt Wilpers": 51,
@@ -528,9 +528,9 @@
             },
             "Cycling": {
                 "Ben Alldis": 17,
+                "Bradley Rose": 15,
                 "Leanne Hainsby": 15,
                 "Sam Yo": 13,
-                "Bradley Rose": 12,
                 "Ally Love": 8,
                 "Emma Lovewell": 8,
                 "Cody Rigsby": 4,
@@ -576,8 +576,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23313,
-            "Cycling": 15265,
+            "Total": 23343,
+            "Cycling": 15295,
             "Meditation": 5060,
             "Walking": 1475,
             "Running": 1098,
@@ -606,8 +606,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 3030,
-            "Cycling": 1360,
+            "Total": 3060,
+            "Cycling": 1390,
             "Meditation": 860,
             "Running": 615,
             "Walking": 190,
@@ -1684,10 +1684,10 @@
     },
     "thisYearsPBs": {
         "5": {
-            "Timestamp": "2023-04-18 15:38 (+01)",
-            "Instructor": "Kendall Toole",
+            "Timestamp": "2023-08-15 16:41 (+01)",
+            "Instructor": "Bradley Rose",
             "Ride Name": "5 min Warm Up Ride",
-            "Total Output": "63",
+            "Total Output": "67",
             "Length": "5",
             "Live Ride": false
         },
@@ -1750,9 +1750,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5553.91",
+        "Total": "5564.06",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "553.10"
+        "2023": "563.25"
     }
 }
