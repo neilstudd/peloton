@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-08-15 16:47 (+01)",
+        "Timestamp": "2023-08-16 15:16 (+01)",
         "Instructor": "Bradley Rose",
         "Ride Name": "20 min 90s Ride",
-        "Total Output": "228",
+        "Total Output": "207",
         "Length": "20",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1477,
-            "Cycling": 961,
-            "Meditation": 349,
+            "Total": 1481,
+            "Cycling": 964,
+            "Meditation": 350,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 216,
-            "Cycling": 107,
-            "Meditation": 56,
+            "Total": 220,
+            "Cycling": 110,
+            "Meditation": 57,
             "Running": 35,
             "Walking": 17,
             "Stretching": 1
@@ -51,8 +51,8 @@
     "byInstructor": {
         "Total": {
             "Sam Yo": 250,
-            "Ross Rayburn": 193,
-            "Bradley Rose": 91,
+            "Ross Rayburn": 194,
+            "Bradley Rose": 94,
             "Leanne Hainsby": 88,
             "Ben Alldis": 83,
             "Kristin McGee": 60,
@@ -211,9 +211,9 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 41,
+            "Ross Rayburn": 42,
+            "Bradley Rose": 18,
             "Ben Alldis": 17,
-            "Bradley Rose": 15,
             "Leanne Hainsby": 15,
             "Susie Chan": 14,
             "Sam Yo": 13,
@@ -253,7 +253,7 @@
         "Total": {
             "Cycling": {
                 "Sam Yo": 242,
-                "Bradley Rose": 91,
+                "Bradley Rose": 94,
                 "Leanne Hainsby": 88,
                 "Ben Alldis": 81,
                 "Matt Wilpers": 51,
@@ -333,7 +333,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 193,
+                "Ross Rayburn": 194,
                 "Kristin McGee": 60,
                 "Aditi Shah": 38,
                 "Anna Greenberg": 21,
@@ -520,15 +520,15 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 41,
+                "Ross Rayburn": 42,
                 "Kristin McGee": 5,
                 "Aditi Shah": 4,
                 "Kirra Michel": 4,
                 "Anna Greenberg": 2
             },
             "Cycling": {
+                "Bradley Rose": 18,
                 "Ben Alldis": 17,
-                "Bradley Rose": 15,
                 "Leanne Hainsby": 15,
                 "Sam Yo": 13,
                 "Ally Love": 8,
@@ -576,9 +576,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23358,
-            "Cycling": 15295,
-            "Meditation": 5075,
+            "Total": 23403,
+            "Cycling": 15325,
+            "Meditation": 5090,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -606,9 +606,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 3075,
-            "Cycling": 1390,
-            "Meditation": 875,
+            "Total": 3120,
+            "Cycling": 1420,
+            "Meditation": 890,
             "Running": 615,
             "Walking": 190,
             "Stretching": 5
@@ -1750,9 +1750,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5564.06",
+        "Total": "5573.76",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "563.25"
+        "2023": "572.95"
     }
 }
