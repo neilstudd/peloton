@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1486,
+            "Total": 1487,
             "Cycling": 964,
-            "Meditation": 355,
+            "Meditation": 356,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 225,
+            "Total": 226,
             "Cycling": 110,
-            "Meditation": 62,
+            "Meditation": 63,
             "Running": 35,
             "Walking": 17,
             "Stretching": 1
@@ -55,7 +55,7 @@
             "Bradley Rose": 94,
             "Leanne Hainsby": 88,
             "Ben Alldis": 83,
-            "Kristin McGee": 60,
+            "Kristin McGee": 61,
             "Matt Wilpers": 54,
             "Emma Lovewell": 45,
             "Cody Rigsby": 44,
@@ -220,10 +220,10 @@
             "Jon Hosking": 9,
             "Ally Love": 8,
             "Emma Lovewell": 8,
+            "Kristin McGee": 6,
             "Aditi Shah": 5,
             "Cody Rigsby": 5,
             "Jess King": 5,
-            "Kristin McGee": 5,
             "Robin Arzon": 5,
             "Hannah Corbin": 4,
             "Joslyn Thompson Rule": 4,
@@ -334,7 +334,7 @@
             },
             "Meditation": {
                 "Ross Rayburn": 198,
-                "Kristin McGee": 60,
+                "Kristin McGee": 61,
                 "Aditi Shah": 39,
                 "Anna Greenberg": 21,
                 "Chelsea Jackson Roberts": 15,
@@ -521,8 +521,8 @@
         "2023": {
             "Meditation": {
                 "Ross Rayburn": 46,
+                "Kristin McGee": 6,
                 "Aditi Shah": 5,
-                "Kristin McGee": 5,
                 "Kirra Michel": 4,
                 "Anna Greenberg": 2
             },
@@ -576,9 +576,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23493,
+            "Total": 23513,
             "Cycling": 15325,
-            "Meditation": 5180,
+            "Meditation": 5200,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -606,9 +606,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 3210,
+            "Total": 3230,
             "Cycling": 1420,
-            "Meditation": 980,
+            "Meditation": 1000,
             "Running": 615,
             "Walking": 190,
             "Stretching": 5
