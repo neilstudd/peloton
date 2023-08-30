@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1489,
+            "Total": 1490,
             "Cycling": 964,
-            "Meditation": 358,
+            "Meditation": 359,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -40,9 +40,9 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 228,
+            "Total": 229,
             "Cycling": 110,
-            "Meditation": 65,
+            "Meditation": 66,
             "Running": 35,
             "Walking": 17,
             "Stretching": 1
@@ -51,7 +51,7 @@
     "byInstructor": {
         "Total": {
             "Sam Yo": 250,
-            "Ross Rayburn": 200,
+            "Ross Rayburn": 201,
             "Bradley Rose": 94,
             "Leanne Hainsby": 88,
             "Ben Alldis": 83,
@@ -211,7 +211,7 @@
             "Selena & Tunde ": 1
         },
         "2023": {
-            "Ross Rayburn": 48,
+            "Ross Rayburn": 49,
             "Bradley Rose": 18,
             "Ben Alldis": 17,
             "Leanne Hainsby": 15,
@@ -333,7 +333,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 200,
+                "Ross Rayburn": 201,
                 "Kristin McGee": 61,
                 "Aditi Shah": 39,
                 "Anna Greenberg": 21,
@@ -520,7 +520,7 @@
         },
         "2023": {
             "Meditation": {
-                "Ross Rayburn": 48,
+                "Ross Rayburn": 49,
                 "Kristin McGee": 6,
                 "Aditi Shah": 5,
                 "Kirra Michel": 4,
@@ -576,9 +576,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23543,
+            "Total": 23563,
             "Cycling": 15325,
-            "Meditation": 5230,
+            "Meditation": 5250,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -606,9 +606,9 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 3260,
+            "Total": 3280,
             "Cycling": 1420,
-            "Meditation": 1030,
+            "Meditation": 1050,
             "Running": 615,
             "Walking": 190,
             "Stretching": 5
