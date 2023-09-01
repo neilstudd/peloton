@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-08-30 15:26 (+01)",
+        "Timestamp": "2023-09-01 15:15 (+01)",
         "Instructor": "Sam Yo",
-        "Ride Name": "Extra 10: Climb Ride",
-        "Total Output": "169",
-        "Length": "10",
+        "Ride Name": "15 min Climb Ride",
+        "Total Output": "226",
+        "Length": "15",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1494,
-            "Cycling": 967,
+            "Total": 1497,
+            "Cycling": 970,
             "Meditation": 360,
             "Walking": 79,
             "Running": 54,
@@ -40,8 +40,8 @@
             "Cardio": 1
         },
         "2023": {
-            "Total": 233,
-            "Cycling": 113,
+            "Total": 236,
+            "Cycling": 116,
             "Meditation": 67,
             "Running": 35,
             "Walking": 17,
@@ -50,18 +50,18 @@
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 252,
+            "Sam Yo": 253,
             "Ross Rayburn": 202,
             "Bradley Rose": 94,
             "Leanne Hainsby": 89,
-            "Ben Alldis": 83,
+            "Ben Alldis": 84,
             "Kristin McGee": 61,
             "Matt Wilpers": 54,
             "Emma Lovewell": 45,
             "Cody Rigsby": 44,
             "Robin Arzon": 43,
             "Aditi Shah": 39,
-            "Hannah Corbin": 37,
+            "Hannah Corbin": 38,
             "Denis Morton": 36,
             "Ally Love": 35,
             "Christine D'Ercole": 30,
@@ -212,10 +212,10 @@
         },
         "2023": {
             "Ross Rayburn": 50,
+            "Ben Alldis": 18,
             "Bradley Rose": 18,
-            "Ben Alldis": 17,
             "Leanne Hainsby": 16,
-            "Sam Yo": 15,
+            "Sam Yo": 16,
             "Susie Chan": 14,
             "Jon Hosking": 9,
             "Ally Love": 8,
@@ -223,9 +223,9 @@
             "Kristin McGee": 6,
             "Aditi Shah": 5,
             "Cody Rigsby": 5,
+            "Hannah Corbin": 5,
             "Jess King": 5,
             "Robin Arzon": 5,
-            "Hannah Corbin": 4,
             "Joslyn Thompson Rule": 4,
             "Kirra Michel": 4,
             "Matt Wilpers": 4,
@@ -252,14 +252,14 @@
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 244,
+                "Sam Yo": 245,
                 "Bradley Rose": 94,
                 "Leanne Hainsby": 89,
-                "Ben Alldis": 81,
+                "Ben Alldis": 82,
                 "Matt Wilpers": 51,
                 "Emma Lovewell": 44,
+                "Hannah Corbin": 38,
                 "Cody Rigsby": 37,
-                "Hannah Corbin": 37,
                 "Robin Arzon": 36,
                 "Ally Love": 35,
                 "Denis Morton": 33,
@@ -527,14 +527,14 @@
                 "Anna Greenberg": 2
             },
             "Cycling": {
+                "Ben Alldis": 18,
                 "Bradley Rose": 18,
-                "Ben Alldis": 17,
                 "Leanne Hainsby": 16,
-                "Sam Yo": 15,
+                "Sam Yo": 16,
                 "Ally Love": 8,
                 "Emma Lovewell": 8,
+                "Hannah Corbin": 5,
                 "Cody Rigsby": 4,
-                "Hannah Corbin": 4,
                 "Jess King": 4,
                 "Robin Arzon": 4,
                 "Matt Wilpers": 3,
@@ -576,8 +576,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23603,
-            "Cycling": 15350,
+            "Total": 23628,
+            "Cycling": 15375,
             "Meditation": 5265,
             "Walking": 1475,
             "Running": 1098,
@@ -606,8 +606,8 @@
             "Stretching": 20
         },
         "2023": {
-            "Total": 3320,
-            "Cycling": 1445,
+            "Total": 3345,
+            "Cycling": 1470,
             "Meditation": 1065,
             "Running": 615,
             "Walking": 190,
@@ -1700,10 +1700,10 @@
             "Live Ride": false
         },
         "15": {
-            "Timestamp": "2023-01-14 10:29 (UTC)",
-            "Instructor": "Ben Alldis",
-            "Ride Name": "15 min 90s Ride",
-            "Total Output": "214",
+            "Timestamp": "2023-09-01 15:15 (+01)",
+            "Instructor": "Sam Yo",
+            "Ride Name": "15 min Climb Ride",
+            "Total Output": "226",
             "Length": "15",
             "Live Ride": false
         },
@@ -1750,9 +1750,9 @@
         }
     },
     "distanceCycled": {
-        "Total": "5582.43",
+        "Total": "5590.67",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "581.62"
+        "2023": "589.86"
     }
 }
