@@ -1683,71 +1683,15 @@
         }
     },
     "thisYearsPBs": {
-        "5": {
-            "Timestamp": "2023-08-15 16:41 (+01)",
-            "Instructor": "Bradley Rose",
-            "Ride Name": "5 min Warm Up Ride",
-            "Total Output": "67",
-            "Length": "5",
-            "Live Ride": false
-        },
-        "10": {
-            "Timestamp": "2023-08-30 15:26 (+01)",
-            "Instructor": "Sam Yo",
-            "Ride Name": "Extra 10: Climb Ride",
-            "Total Output": "169",
-            "Length": "10",
-            "Live Ride": false
-        },
-        "15": {
-            "Timestamp": "2023-09-01 15:15 (+01)",
-            "Instructor": "Sam Yo",
-            "Ride Name": "15 min Climb Ride",
-            "Total Output": "226",
-            "Length": "15",
-            "Live Ride": false
-        },
-        "20": {
-            "Timestamp": "2023-01-11 13:11 (UTC)",
-            "Instructor": "Ben Alldis",
-            "Ride Name": "20 min HIIT Ride",
-            "Total Output": "382",
-            "Length": "20",
-            "Live Ride": false
-        },
-        "30": {
-            "Timestamp": "2023-02-01 13:30 (UTC)",
-            "Instructor": "Leanne Hainsby",
-            "Ride Name": "30 min Nile Rodgers Ride",
-            "Total Output": "505",
-            "Length": "30",
-            "Live Ride": true
-        },
-        "45": {
-            "Timestamp": "2023-03-31 08:02 (+01)",
-            "Instructor": "N\/A",
-            "Ride Name": "45 min Isafjordur Ride",
-            "Total Output": "501",
-            "Length": "45",
-            "Live Ride": false
-        },
-        "60": {
-            "Timestamp": "2023-02-17 21:10 (UTC)",
-            "Instructor": "N\/A",
-            "Ride Name": "60 min Galloping Goose Trail Ride",
-            "Total Output": "624",
-            "Length": "60",
-            "Live Ride": false
-        },
+        "5": [],
+        "10": [],
+        "15": [],
+        "20": [],
+        "30": [],
+        "45": [],
+        "60": [],
         "75": [],
-        "90": {
-            "Timestamp": "2023-02-22 13:13 (UTC)",
-            "Instructor": "N\/A",
-            "Ride Name": "90 min Olympic Valley Ride",
-            "Total Output": "1264",
-            "Length": "90",
-            "Live Ride": false
-        }
+        "90": []
     },
     "distanceCycled": {
         "Total": "5604.08",
