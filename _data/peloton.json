@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2023-09-18 17:23 (+01)",
-        "Instructor": "Leanne Hainsby",
-        "Ride Name": "30 min Chaka Khan Ride",
-        "Total Output": "352",
-        "Length": "30",
+        "Timestamp": "2024-01-06 18:06 (UTC)",
+        "Instructor": "Sam Yo",
+        "Ride Name": "15 min Pop Ride",
+        "Total Output": "163",
+        "Length": "15",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1500,
-            "Cycling": 973,
-            "Meditation": 360,
+            "Total": 1504,
+            "Cycling": 976,
+            "Meditation": 361,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -46,12 +46,17 @@
             "Running": 35,
             "Walking": 17,
             "Stretching": 1
+        },
+        "2024": {
+            "Total": 4,
+            "Cycling": 3,
+            "Meditation": 1
         }
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 253,
-            "Ross Rayburn": 202,
+            "Sam Yo": 256,
+            "Ross Rayburn": 203,
             "Bradley Rose": 94,
             "Leanne Hainsby": 90,
             "Ben Alldis": 84,
@@ -247,12 +252,16 @@
             "Kirsten Ferguson": 1,
             "Marcel Dinkins": 1,
             "Mariana Fernandez": 1
+        },
+        "2024": {
+            "Sam Yo": 3,
+            "Ross Rayburn": 1
         }
     },
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 245,
+                "Sam Yo": 248,
                 "Bradley Rose": 94,
                 "Leanne Hainsby": 90,
                 "Ben Alldis": 82,
@@ -333,7 +342,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 202,
+                "Ross Rayburn": 203,
                 "Kristin McGee": 61,
                 "Aditi Shah": 39,
                 "Anna Greenberg": 21,
@@ -572,13 +581,21 @@
             "Stretching": {
                 "Cody Rigsby": 1
             }
+        },
+        "2024": {
+            "Cycling": {
+                "Sam Yo": 3
+            },
+            "Meditation": {
+                "Ross Rayburn": 1
+            }
         }
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23668,
-            "Cycling": 15415,
-            "Meditation": 5265,
+            "Total": 23723,
+            "Cycling": 15440,
+            "Meditation": 5295,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -612,6 +629,11 @@
             "Running": 615,
             "Walking": 190,
             "Stretching": 5
+        },
+        "2024": {
+            "Total": 55,
+            "Meditation": 30,
+            "Cycling": 25
         }
     },
     "PBs": {
@@ -1683,9 +1705,23 @@
         }
     },
     "thisYearsPBs": {
-        "5": [],
+        "5": {
+            "Timestamp": "2024-01-06 17:59 (UTC)",
+            "Instructor": "Sam Yo",
+            "Ride Name": "5 min Warm Up Ride",
+            "Total Output": "34",
+            "Length": "5",
+            "Live Ride": false
+        },
         "10": [],
-        "15": [],
+        "15": {
+            "Timestamp": "2024-01-06 18:06 (UTC)",
+            "Instructor": "Sam Yo",
+            "Ride Name": "15 min Pop Ride",
+            "Total Output": "163",
+            "Length": "15",
+            "Live Ride": false
+        },
         "20": [],
         "30": [],
         "45": [],
@@ -1694,9 +1730,10 @@
         "90": []
     },
     "distanceCycled": {
-        "Total": "5604.08",
+        "Total": "5611.80",
         "2021": "1782.06",
         "2022": "3218.75",
-        "2023": "603.27"
+        "2023": "603.27",
+        "2024": "7.72"
     }
 }
