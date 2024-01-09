@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1504,
+            "Total": 1505,
             "Cycling": 976,
-            "Meditation": 361,
+            "Meditation": 362,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -48,15 +48,15 @@
             "Stretching": 1
         },
         "2024": {
-            "Total": 4,
+            "Total": 5,
             "Cycling": 3,
-            "Meditation": 1
+            "Meditation": 2
         }
     },
     "byInstructor": {
         "Total": {
             "Sam Yo": 256,
-            "Ross Rayburn": 203,
+            "Ross Rayburn": 204,
             "Bradley Rose": 94,
             "Leanne Hainsby": 90,
             "Ben Alldis": 84,
@@ -255,7 +255,7 @@
         },
         "2024": {
             "Sam Yo": 3,
-            "Ross Rayburn": 1
+            "Ross Rayburn": 2
         }
     },
     "byInstructorAndDiscipline": {
@@ -342,7 +342,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 203,
+                "Ross Rayburn": 204,
                 "Kristin McGee": 61,
                 "Aditi Shah": 39,
                 "Anna Greenberg": 21,
@@ -587,15 +587,15 @@
                 "Sam Yo": 3
             },
             "Meditation": {
-                "Ross Rayburn": 1
+                "Ross Rayburn": 2
             }
         }
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23723,
+            "Total": 23753,
             "Cycling": 15440,
-            "Meditation": 5295,
+            "Meditation": 5325,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -631,8 +631,8 @@
             "Stretching": 5
         },
         "2024": {
-            "Total": 55,
-            "Meditation": 30,
+            "Total": 85,
+            "Meditation": 60,
             "Cycling": 25
         }
     },
