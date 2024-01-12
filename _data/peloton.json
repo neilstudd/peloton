@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1506,
+            "Total": 1507,
             "Cycling": 976,
-            "Meditation": 363,
+            "Meditation": 364,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -48,15 +48,15 @@
             "Stretching": 1
         },
         "2024": {
-            "Total": 6,
-            "Cycling": 3,
-            "Meditation": 3
+            "Total": 7,
+            "Meditation": 4,
+            "Cycling": 3
         }
     },
     "byInstructor": {
         "Total": {
             "Sam Yo": 256,
-            "Ross Rayburn": 204,
+            "Ross Rayburn": 205,
             "Bradley Rose": 94,
             "Leanne Hainsby": 90,
             "Ben Alldis": 84,
@@ -254,8 +254,8 @@
             "Mariana Fernandez": 1
         },
         "2024": {
+            "Ross Rayburn": 3,
             "Sam Yo": 3,
-            "Ross Rayburn": 2,
             "Kristin McGee": 1
         }
     },
@@ -343,7 +343,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 204,
+                "Ross Rayburn": 205,
                 "Kristin McGee": 62,
                 "Aditi Shah": 39,
                 "Anna Greenberg": 21,
@@ -588,16 +588,16 @@
                 "Sam Yo": 3
             },
             "Meditation": {
-                "Ross Rayburn": 2,
+                "Ross Rayburn": 3,
                 "Kristin McGee": 1
             }
         }
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23773,
+            "Total": 23793,
             "Cycling": 15440,
-            "Meditation": 5345,
+            "Meditation": 5365,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -633,8 +633,8 @@
             "Stretching": 5
         },
         "2024": {
-            "Total": 105,
-            "Meditation": 80,
+            "Total": 125,
+            "Meditation": 100,
             "Cycling": 25
         }
     },
