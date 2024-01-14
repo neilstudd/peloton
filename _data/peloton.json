@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2024-01-06 18:06 (UTC)",
-        "Instructor": "Sam Yo",
-        "Ride Name": "15 min Pop Ride",
-        "Total Output": "163",
-        "Length": "15",
+        "Timestamp": "2024-01-14 13:06 (UTC)",
+        "Instructor": "Leanne Hainsby",
+        "Ride Name": "30 min Take That Ride",
+        "Total Output": "309",
+        "Length": "30",
         "Live Ride": false
     },
     "workouts": {
         "Total": {
-            "Total": 1508,
-            "Cycling": 976,
+            "Total": 1511,
+            "Cycling": 979,
             "Meditation": 365,
             "Walking": 79,
             "Running": 54,
@@ -48,17 +48,17 @@
             "Stretching": 1
         },
         "2024": {
-            "Total": 8,
-            "Meditation": 5,
-            "Cycling": 3
+            "Total": 11,
+            "Cycling": 6,
+            "Meditation": 5
         }
     },
     "byInstructor": {
         "Total": {
-            "Sam Yo": 256,
+            "Sam Yo": 258,
             "Ross Rayburn": 205,
             "Bradley Rose": 94,
-            "Leanne Hainsby": 90,
+            "Leanne Hainsby": 91,
             "Ben Alldis": 84,
             "Kristin McGee": 62,
             "Matt Wilpers": 54,
@@ -254,18 +254,19 @@
             "Mariana Fernandez": 1
         },
         "2024": {
+            "Sam Yo": 5,
             "Ross Rayburn": 3,
-            "Sam Yo": 3,
             "Aditi Shah": 1,
-            "Kristin McGee": 1
+            "Kristin McGee": 1,
+            "Leanne Hainsby": 1
         }
     },
     "byInstructorAndDiscipline": {
         "Total": {
             "Cycling": {
-                "Sam Yo": 248,
+                "Sam Yo": 250,
                 "Bradley Rose": 94,
-                "Leanne Hainsby": 90,
+                "Leanne Hainsby": 91,
                 "Ben Alldis": 82,
                 "Matt Wilpers": 51,
                 "Emma Lovewell": 44,
@@ -586,7 +587,8 @@
         },
         "2024": {
             "Cycling": {
-                "Sam Yo": 3
+                "Sam Yo": 5,
+                "Leanne Hainsby": 1
             },
             "Meditation": {
                 "Ross Rayburn": 3,
@@ -597,8 +599,8 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23813,
-            "Cycling": 15440,
+            "Total": 23858,
+            "Cycling": 15485,
             "Meditation": 5385,
             "Walking": 1475,
             "Running": 1098,
@@ -635,9 +637,9 @@
             "Stretching": 5
         },
         "2024": {
-            "Total": 145,
+            "Total": 190,
             "Meditation": 120,
-            "Cycling": 25
+            "Cycling": 70
         }
     },
     "PBs": {
@@ -1710,14 +1712,21 @@
     },
     "thisYearsPBs": {
         "5": {
-            "Timestamp": "2024-01-06 17:59 (UTC)",
+            "Timestamp": "2024-01-14 13:00 (UTC)",
             "Instructor": "Sam Yo",
             "Ride Name": "5 min Warm Up Ride",
-            "Total Output": "34",
+            "Total Output": "49",
             "Length": "5",
             "Live Ride": false
         },
-        "10": [],
+        "10": {
+            "Timestamp": "2024-01-14 13:37 (UTC)",
+            "Instructor": "Sam Yo",
+            "Ride Name": "10 min Take That Cool Down Ride",
+            "Total Output": "58",
+            "Length": "10",
+            "Live Ride": false
+        },
         "15": {
             "Timestamp": "2024-01-06 18:06 (UTC)",
             "Instructor": "Sam Yo",
@@ -1727,17 +1736,24 @@
             "Live Ride": false
         },
         "20": [],
-        "30": [],
+        "30": {
+            "Timestamp": "2024-01-14 13:06 (UTC)",
+            "Instructor": "Leanne Hainsby",
+            "Ride Name": "30 min Take That Ride",
+            "Total Output": "309",
+            "Length": "30",
+            "Live Ride": false
+        },
         "45": [],
         "60": [],
         "75": [],
         "90": []
     },
     "distanceCycled": {
-        "Total": "5611.80",
+        "Total": "5626.05",
         "2021": "1782.06",
         "2022": "3218.75",
         "2023": "603.27",
-        "2024": "7.72"
+        "2024": "21.97"
     }
 }
