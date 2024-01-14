@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1507,
+            "Total": 1508,
             "Cycling": 976,
-            "Meditation": 364,
+            "Meditation": 365,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -48,8 +48,8 @@
             "Stretching": 1
         },
         "2024": {
-            "Total": 7,
-            "Meditation": 4,
+            "Total": 8,
+            "Meditation": 5,
             "Cycling": 3
         }
     },
@@ -65,7 +65,7 @@
             "Cody Rigsby": 45,
             "Emma Lovewell": 45,
             "Robin Arzon": 43,
-            "Aditi Shah": 39,
+            "Aditi Shah": 40,
             "Hannah Corbin": 38,
             "Denis Morton": 36,
             "Ally Love": 35,
@@ -256,6 +256,7 @@
         "2024": {
             "Ross Rayburn": 3,
             "Sam Yo": 3,
+            "Aditi Shah": 1,
             "Kristin McGee": 1
         }
     },
@@ -345,7 +346,7 @@
             "Meditation": {
                 "Ross Rayburn": 205,
                 "Kristin McGee": 62,
-                "Aditi Shah": 39,
+                "Aditi Shah": 40,
                 "Anna Greenberg": 21,
                 "Chelsea Jackson Roberts": 15,
                 "Kirra Michel": 14,
@@ -589,15 +590,16 @@
             },
             "Meditation": {
                 "Ross Rayburn": 3,
+                "Aditi Shah": 1,
                 "Kristin McGee": 1
             }
         }
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23793,
+            "Total": 23813,
             "Cycling": 15440,
-            "Meditation": 5365,
+            "Meditation": 5385,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -633,8 +635,8 @@
             "Stretching": 5
         },
         "2024": {
-            "Total": 125,
-            "Meditation": 100,
+            "Total": 145,
+            "Meditation": 120,
             "Cycling": 25
         }
     },
