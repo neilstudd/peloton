@@ -10,9 +10,9 @@
     },
     "workouts": {
         "Total": {
-            "Total": 1512,
+            "Total": 1513,
             "Cycling": 979,
-            "Meditation": 366,
+            "Meditation": 367,
             "Walking": 79,
             "Running": 54,
             "Stretching": 15,
@@ -48,15 +48,15 @@
             "Stretching": 1
         },
         "2024": {
-            "Total": 12,
-            "Cycling": 6,
-            "Meditation": 6
+            "Total": 13,
+            "Meditation": 7,
+            "Cycling": 6
         }
     },
     "byInstructor": {
         "Total": {
             "Sam Yo": 258,
-            "Ross Rayburn": 205,
+            "Ross Rayburn": 206,
             "Bradley Rose": 94,
             "Leanne Hainsby": 91,
             "Ben Alldis": 84,
@@ -255,7 +255,7 @@
         },
         "2024": {
             "Sam Yo": 5,
-            "Ross Rayburn": 3,
+            "Ross Rayburn": 4,
             "Aditi Shah": 2,
             "Kristin McGee": 1,
             "Leanne Hainsby": 1
@@ -345,7 +345,7 @@
                 "Denis Morton": 1
             },
             "Meditation": {
-                "Ross Rayburn": 205,
+                "Ross Rayburn": 206,
                 "Kristin McGee": 62,
                 "Aditi Shah": 41,
                 "Anna Greenberg": 21,
@@ -591,7 +591,7 @@
                 "Leanne Hainsby": 1
             },
             "Meditation": {
-                "Ross Rayburn": 3,
+                "Ross Rayburn": 4,
                 "Aditi Shah": 2,
                 "Kristin McGee": 1
             }
@@ -599,9 +599,9 @@
     },
     "byTimeAndDiscipline": {
         "Total": {
-            "Total": 23888,
+            "Total": 23918,
             "Cycling": 15485,
-            "Meditation": 5415,
+            "Meditation": 5445,
             "Walking": 1475,
             "Running": 1098,
             "Cardio": 235,
@@ -637,8 +637,8 @@
             "Stretching": 5
         },
         "2024": {
-            "Total": 220,
-            "Meditation": 150,
+            "Total": 250,
+            "Meditation": 180,
             "Cycling": 70
         }
     },
